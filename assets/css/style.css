@@ -1,43 +1,44 @@
+/* Inhaltsverzeichnis (TOC) Styling */
 ol.toc {
-    counter-reset: section;
-    list-style-type: none;
+    counter-reset: section; /* Initialisiert den Hauptzähler */
+    list-style-type: none; /* Entfernt Aufzählungszeichen */
 }
 
 ol.toc li::before {
-    counter-increment: section;
-    content: counters(section, ".") ". ";
-    font-weight: bold;
+    counter-increment: section; /* Erhöht den Abschnittszähler */
+    content: counters(section, ".") ". "; /* Erzeugt die nummerierte Liste */
+    font-weight: bold; /* Macht den Text fett */
 }
 
 ol.toc ol li::before {
-    content: counters(section, ".") " ";
+    content: counters(section, ".") " "; /* Subsektionen werden mit Unterziffern versehen */
 }
 
-/* Initialisierung der Zähler */
+/* Initialisierung der Zähler für Überschriften */
 h1 {
-    counter-reset: subsection; /* Resettet die Zähler für Unterabschnitte */
+    counter-reset: subsection; /* Reset für alle subsections bei neuer h1 */
 }
 
 h2 {
-    counter-reset: subsubsection; /* Resettet die Zähler für tiefere Ebenen */
+    counter-reset: subsubsection; /* Reset für alle subsubsections bei neuer h2 */
 }
 
 h1::before {
-    counter-increment: section;
-    content: counter(section) ". ";
+    counter-increment: section; /* Erhöht den section-Zähler */
+    content: counter(section) ". "; /* Zeigt den aktuellen Wert von section */
 }
 
 h2::before {
-    counter-increment: subsection;
-    content: counter(section) "." counter(subsection) " ";
+    counter-increment: subsection; /* Erhöht den subsection-Zähler */
+    content: counter(section) "." counter(subsection) " "; /* Zeigt section und subsection */
 }
 
 h3::before {
-    counter-increment: subsubsection;
-    content: counter(section) "." counter(subsection) "." counter(subsubsection) " ";
+    counter-increment: subsubsection; /* Erhöht den subsubsection-Zähler */
+    content: counter(section) "." counter(subsection) "." counter(subsubsection) " "; /* Zeigt alle drei Zähler */
 }
 
 h4::before {
-    counter-increment: subsubsubsection;
-    content: counter(section) "." counter(subsection) "." counter(subsubsection) "." counter(subsubsubsection) " ";
+    counter-increment: subsubsubsection; /* Erhöht den subsubsubsection-Zähler */
+    content: counter(section) "." counter(subsection) "." counter(subsubsection) "." counter(subsubsubsection) " "; /* Zeigt alle vier Zähler */
 }
