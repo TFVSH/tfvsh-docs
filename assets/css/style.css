@@ -1,6 +1,6 @@
 /* Inhaltsverzeichnis (TOC) Styling */
 ol.toc {
-    counter-reset: section; /* Initialisiert den Hauptzähler */
+    counter-reset: section; /* Initialisiert den Hauptzähler für die Abschnitte */
     list-style-type: none; /* Entfernt Aufzählungszeichen */
 }
 
@@ -16,11 +16,11 @@ ol.toc ol li::before {
 
 /* Initialisierung der Zähler für Überschriften */
 h1 {
-    counter-reset: subsection; /* Reset für alle subsections bei neuer h1 */
+    counter-reset: subsection; /* Reset für subsections bei neuer h1 */
 }
 
 h2 {
-    counter-reset: subsubsection; /* Reset für alle subsubsections bei neuer h2 */
+    counter-reset: subsubsection; /* Reset für subsubsections bei neuer h2 */
 }
 
 h1::before {
@@ -35,7 +35,7 @@ h2::before {
 
 h3::before {
     counter-increment: subsubsection; /* Erhöht den subsubsection-Zähler */
-    content: counter(section) "." counter(subsection) "." counter(subsubsection) " "; /* Zeigt alle drei Zähler */
+    content: counter(section) "." counter(subsection) "." counter(subsubsection) " "; /* Zeigt section, subsection und subsubsection */
 }
 
 h4::before {
