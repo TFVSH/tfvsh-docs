@@ -1,17 +1,6 @@
-/* Inhaltsverzeichnis (TOC) Styling */
-ol.toc {
-    counter-reset: section; /* Initialisiert den Hauptzähler für die Abschnitte */
-    list-style-type: none; /* Entfernt Aufzählungszeichen */
-}
-
-ol.toc li::before {
-    counter-increment: section; /* Erhöht den Abschnittszähler */
-    content: counters(section, ".") ". "; /* Erzeugt die nummerierte Liste */
-    font-weight: bold; /* Macht den Text fett */
-}
-
-ol.toc ol li::before {
-    content: counters(section, ".") " "; /* Subsektionen werden mit Unterziffern versehen */
+/* Globale Initialisierung des Zählers */
+body {
+    counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
 }
 
 /* Initialisierung der Zähler für Überschriften */
