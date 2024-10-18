@@ -1,5 +1,25 @@
-h1, h2, h3, h4, h5, h6 {
+ol.toc {
     counter-reset: section;
+    list-style-type: none;
+}
+
+ol.toc li::before {
+    counter-increment: section;
+    content: counters(section, ".") ". ";
+    font-weight: bold;
+}
+
+ol.toc ol li::before {
+    content: counters(section, ".") " ";
+}
+
+/* Initialisierung der Zähler */
+h1 {
+    counter-reset: subsection; /* Resettet die Zähler für Unterabschnitte */
+}
+
+h2 {
+    counter-reset: subsubsection; /* Resettet die Zähler für tiefere Ebenen */
 }
 
 h1::before {
@@ -17,3 +37,7 @@ h3::before {
     content: counter(section) "." counter(subsection) "." counter(subsubsection) " ";
 }
 
+h4::before {
+    counter-increment: subsubsubsection;
+    content: counter(section) "." counter(subsection) "." counter(subsubsection) "." counter(subsubsubsection) " ";
+}
