@@ -31,3 +31,21 @@ h4::before {
     counter-increment: subsubsubsection; /* Erhöht den subsubsubsection-Zähler */
     content: counter(section) "." counter(subsection) "." counter(subsubsection) "." counter(subsubsubsection) " "; /* Zeigt alle vier Zähler */
 }
+/* Initialisierung des Zählers für das Inhaltsverzeichnis */
+#markdown-toc {
+    counter-reset: item; /* Initialisiert den Hauptzähler */
+    list-style-type: none; /* Entfernt Standard-Aufzählungspunkte */
+}
+
+#markdown-toc li {
+    counter-increment: item; /* Erhöht den Zähler bei jedem Listenelement */
+}
+
+#markdown-toc li::before {
+    content: counters(item, ".") " "; /* Erzeugt die nummerierte Liste */
+    font-weight: bold; /* Macht die Nummern fett */
+}
+
+#markdown-toc ul {
+    counter-reset: item; /* Setzt den Zähler bei jeder neuen Unterliste zurück */
+}
