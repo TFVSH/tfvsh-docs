@@ -15,15 +15,14 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0'  # Passen Sie die Ruby-Version an Ihre Anforderungen an
+        ruby-version: '3.0'  # Passen Sie die Ruby-Version bei Bedarf an
 
     - name: Install Jekyll and Dependencies
       run: |
-        gem install bundler
-        bundle install
+        gem install jekyll webrick
 
     - name: Build Jekyll Site
-      run: bundle exec jekyll build
+      run: jekyll build
 
     - name: Install wkhtmltopdf
       run: |
