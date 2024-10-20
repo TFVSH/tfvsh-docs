@@ -2,7 +2,17 @@
 body {
     counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
 }
-
+/* Keine Nummerierung für Überschriften mit der Klasse .no-number */
+.no-number::before {
+    content: none;
+}
+/* Stil für das Startbild in Markdown */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    display: block;
+}
 /* Initialisierung der Zähler für Überschriften */
 h1 {
     counter-reset: subsection; /* Reset für subsections bei neuer h1 */
