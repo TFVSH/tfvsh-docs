@@ -12,7 +12,7 @@ layout: default
 </p>
 
 
-* TOC
+[TOC]
 {:toc}
 
 # Die Grundstruktur der Ligen
