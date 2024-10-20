@@ -7,7 +7,7 @@ layout: default
 # Spielordnung des BTFV
 {: .no-number}
 
-Zuletzt geändert am: {% last_modified_at format: "%d.%m.%Y" %}
+Zuletzt geändert am: LAST_UPDATED_DATE
 
 
 * TOC
