@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<!-- Startbild im Markdown-Dokument -->
+![Startbild-Beschreibung](/path/to/startbild.jpg)
+
+# Spielordnung des BTFV
+{: .no-number}
+
+Zuletzt geändert am: {% last_modified_at format: "%d.%m.%Y" %}
+
+
 * TOC
 {:toc}
 
