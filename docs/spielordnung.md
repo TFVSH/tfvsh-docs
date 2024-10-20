@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<!-- Startbild im Markdown-Dokument -->
-![BTFV Logo](/assets/images/btfv-logo.png)
+![BTFV Logo]({{ "/assets/images/btfv-logo.png" | relative_url }})
 
 # Spielordnung des BTFV
 {: .no-number}
