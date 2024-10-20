@@ -27,7 +27,8 @@ jobs:
         # Ersetzen der Jekyll-TOC-Syntax durch LaTeX-Befehle und Seitenumbruch
         sed -i '/^\* TOC$/{N;s|.*\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' temp/spielordnung_temp.md
         # Titel im PDF präsenter machen (LaTeX spezifisch)
-        sed -i 's|<div class="title" style="text-align: center;">|\\\\begin{center}\\\\includegraphics[width=150px]{assets/images/btfv-logo.png}|' temp/spielordnung_temp.md
+        # sed -i 's|<div class="title" style="text-align: center;">|\\\\begin{center}\\\\includegraphics[width=150px]{assets/images/btfv-logo.png}|' temp/spielordnung_temp.md
+        sed -i 's|<div class="title" style="text-align: center;">|\\begin{center}\\includegraphics[width=150px]{assets/images/btfv-logo.png}\\end{center}\\vspace{1cm}\\Huge\\textbf{Spielordnung des BTFV}\nZuletzt geändert am: ${LAST_UPDATED_DATE} {=latex}|' temp/spielordnung_temp.md
 
     # Pandoc und LaTeX installieren
     - name: Install Pandoc and LaTeX
