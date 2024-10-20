@@ -2,9 +2,13 @@
 body {
     counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
 }
-/* Keine Nummerierung für Überschriften mit der Klasse .no-number */
-.no-toc::before {
-    content: none;
+/* Titel des Dokuments */
+.title {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 /* Stil für das Startbild in Markdown */
 img {
