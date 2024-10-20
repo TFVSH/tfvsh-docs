@@ -3,7 +3,7 @@ body {
     counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
 }
 /* Keine Nummerierung für Überschriften mit der Klasse .no-number */
-.no-number::before {
+.no-toc::before {
     content: none;
 }
 /* Stil für das Startbild in Markdown */
