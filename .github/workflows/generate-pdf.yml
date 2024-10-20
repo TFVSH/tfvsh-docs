@@ -32,12 +32,18 @@ jobs:
       run: |
         sed -i "s/LAST_UPDATED_DATE/${{ env.date }}/" docs/spielordnung.md
 
+    # Remove Jekyll Frontmatter and Liquid tags before generating PDF
+    - name: Prepare Markdown for PDF conversion
+      run: |
+        sed '/^---/,/^---/d' docs/spielordnung.md > docs/spielordnung_no_frontmatter.md
+        sed -i 's|{{ "/assets/images/btfv-logo.png" | relative_url }}|/assets/images/btfv-logo.png|g' docs/spielordnung_no_frontmatter.md
+
     # Convert the Markdown file to PDF and save in assets/pdf/
     - name: Convert Markdown to PDF
       run: |
         mkdir -p assets/pdf
-        pandoc -s docs/spielordnung.md -o assets/pdf/spielordnung.pdf
-
+        pandoc docs/spielordnung_no_frontmatter.md -o assets/pdf/spielordnung.pdf --toc --toc-depth=2 --pdf-engine=xelatex -V geometry:margin=1in
+     
     # Commit the PDF back to the repository
     - name: Commit PDF to repository
       run: |
