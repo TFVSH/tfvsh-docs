@@ -17,12 +17,13 @@ jobs:
       with:
         ruby-version: '3.0'  # Passen Sie die Ruby-Version bei Bedarf an
 
-    - name: Install Jekyll and Dependencies
+    - name: Install Bundler and Gems
       run: |
-        gem install jekyll webrick
+        gem install bundler
+        bundle install
 
     - name: Build Jekyll Site
-      run: jekyll build
+      run: bundle exec jekyll build
 
     - name: Install wkhtmltopdf
       run: |
