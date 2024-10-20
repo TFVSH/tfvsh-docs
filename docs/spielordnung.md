@@ -4,8 +4,8 @@ layout: default
 ![BTFV Logo](../assets/images/btfv-logo.png)
 
 
-# Spielordnung des BTFV
-{: .no-toc}
+Spielordnung des BTFV
+{: .title}
 
 Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
 
