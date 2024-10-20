@@ -7,7 +7,8 @@ layout: default
 # Spielordnung des BTFV
 {: .no-toc}
 
-Zuletzt geändert am: 2024-10-20
+Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
+
 
 
 * TOC
