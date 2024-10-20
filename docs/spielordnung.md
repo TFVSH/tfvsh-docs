@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<!-- Startbild im Markdown-Dokument -->
+![BTFV Logo](/assets/images/btfv-logo.png)
+
+# Spielordnung des BTFV
+{: .no-number}
+
+Zuletzt geändert am: {% last_modified_at format: "%d.%m.%Y" %}
+
+
 * TOC
 {:toc}
 
