@@ -24,8 +24,8 @@ jobs:
         cp docs/spielordnung.md temp/spielordnung_temp.md
         # Replace the date placeholder
         sed -i "s/{{ site.time | date: \"%Y-%m-%d\" }}/${{ env.LAST_UPDATED_DATE }}/g" temp/spielordnung_temp.md
-        # Replace the Jekyll TOC syntax with Pandoc TOC syntax
-        sed -i '/^\* TOC$/{N;s/.*\n.*$/[TOC]/}' temp/spielordnung_temp.md
+        # Replace the Jekyll TOC syntax with LaTeX \tableofcontents
+        sed -i '/^\* TOC$/{N;s/.*\n.*$/\\tableofcontents/}' temp/spielordnung_temp.md
 
     # Install Pandoc and LaTeX dependencies
     - name: Install Pandoc and LaTeX
