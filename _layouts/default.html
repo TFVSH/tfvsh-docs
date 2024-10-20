@@ -10,5 +10,21 @@
     <div class="wrapper">
         {{ content }}
     </div>
+    
+    <!-- Nach oben Button -->
+    <a href="#toc" id="back-to-top">Nach oben</a>
+
+    <script>
+        // Script, um den Button bei Scrollen einzublenden
+        const backToTopButton = document.getElementById("back-to-top");
+
+        window.onscroll = function() {
+            if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+                backToTopButton.style.display = "block"; // Zeigt den Button nach Scrollen an
+            } else {
+                backToTopButton.style.display = "none"; // Versteckt den Button, wenn man oben ist
+            }
+        };
+    </script>
 </body>
 </html>
