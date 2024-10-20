@@ -2,13 +2,17 @@
 layout: default
 ---
 
-
 <div class="title" style="text-align: center;">
   <img src="https://deluxegithub.github.io/btfv-spielordnung/assets/images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin-left: auto; margin-right: auto; width: 150px;" />
-  Spielordnung des BTFV
+  <h1>Spielordnung des BTFV</h1>
 </div>
 
-Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
+<p style="text-align: center;">
+  Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
+</p>
+
+# Inhaltsverzeichnis
+{: .no-toc}
 
 * TOC
 {:toc}
