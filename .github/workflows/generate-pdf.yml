@@ -8,6 +8,8 @@ on:
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Schreibberechtigung für den Repository-Inhalt
 
     steps:
     # Checkout repository
