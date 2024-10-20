@@ -1,4 +1,4 @@
-name: Generate PDF and Update Website
+name: Generate PDF and Add Commit Date
 
 on:
   push:
@@ -43,12 +43,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # Install Pandoc, LaTeX, and xelatex for PDF generation
+    # Install Pandoc, LaTeX, and texlive-xetex for PDF generation
     - name: Install Pandoc and LaTeX
       run: |
         sudo apt-get update
         sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended lmodern
-        sudo apt-get install -y xelatex
+        sudo apt-get install -y texlive-xetex
 
     # Convert the Markdown file to PDF and save in assets/pdf/
     - name: Convert Markdown to PDF
