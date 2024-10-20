@@ -6,25 +6,46 @@ on:
       - main
 
 jobs:
-  generate-pdf:
+  update-content:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Schreibberechtigung für den Repository-Inhalt
 
     steps:
     # Checkout repository
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # Install Pandoc and LaTeX for PDF generation
+    # Get the date of the last commit and set it as an environment variable
+    - name: Get Last Commit Date
+      run: |
+        echo "LAST_UPDATED_DATE=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
+
+    # Replace the placeholder LAST_UPDATED_DATE in the docs/spielordnung.md file with the last commit date
+    - name: Replace LAST_UPDATED_DATE in Markdown
+      run: |
+        sed -i "s/LAST_UPDATED_DATE/${{ env.LAST_UPDATED_DATE }}/g" docs/spielordnung.md
+
+  generate-pdf:
+    runs-on: ubuntu-latest
+    needs: update-content  # Ensure PDF generation waits for content update
+    steps:
+    # Checkout repository after update
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Install Pandoc, LaTeX, and texlive-xetex for PDF generation
     - name: Install Pandoc and LaTeX
       run: |
         sudo apt-get update
-        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended
+        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended lmodern
+        sudo apt-get install -y texlive-xetex
 
     # Convert the Markdown file to PDF and save in assets/pdf/
     - name: Convert Markdown to PDF
       run: |
         mkdir -p assets/pdf
-        pandoc docs/spielordnung.md -o assets/pdf/spielordnung.pdf --pdf-engine=xelatex -V geometry:margin=1in --resource-path=.:assets/images
+        pandoc docs/spielordnung.md -o assets/pdf/spielordnung.pdf --pdf-engine=xelatex -V toc-title="Inhaltsverzeichnis" -V geometry:margin=1in --resource-path=.:assets/images
 
     # Commit the updated PDF back to the repository
     - name: Commit PDF to repository
