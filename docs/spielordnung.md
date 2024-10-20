@@ -2,16 +2,14 @@
 layout: default
 ---
 
-![BTFV Logo](../assets/images/btfv-logo.png)
+
 
 <div class="title">
-Spielordnung des BTFV
+  ![BTFV Logo](../assets/images/btfv-logo.png)
+  Spielordnung des BTFV
 </div>
 
 Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
-
-# Inhaltsverzeichnis
-{: .no-toc}
 
 * TOC
 {:toc}
