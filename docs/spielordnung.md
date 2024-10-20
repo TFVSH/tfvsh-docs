@@ -5,7 +5,7 @@ layout: default
 
 
 # Spielordnung des BTFV
-{: .no-number}
+{: .no-toc}
 
 Zuletzt geändert am: LAST_UPDATED_DATE
 
