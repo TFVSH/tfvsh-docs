@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![BTFV Logo]({{ "/assets/images/btfv-logo.png" | relative_url }})
+![BTFV Logo](../assets/images/btfv-logo.png)
+
 
 # Spielordnung des BTFV
 {: .no-number}
