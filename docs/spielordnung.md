@@ -3,10 +3,9 @@ layout: default
 ---
 
 
-
-<div class="title">
-  ![BTFV Logo](../assets/images/btfv-logo.png)
-  Spielordnung des BTFV
+<div class="title" style="text-align: center;">
+  <img src="../assets/images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin-left: auto; margin-right: auto; width: 150px;" />
+  <h1>Spielordnung des BTFV</h1>
 </div>
 
 Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
