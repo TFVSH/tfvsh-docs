@@ -4,7 +4,7 @@ layout: default
 
 
 <div class="title" style="text-align: center;">
-  <img src="../assets/images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin-left: auto; margin-right: auto; width: 150px;" />
+  <img src="https://deluxegithub.github.io/btfv-spielordnung/assets/images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin-left: auto; margin-right: auto; width: 150px;" />
   Spielordnung des BTFV
 </div>
 
