@@ -35,7 +35,7 @@ jobs:
     - name: Convert Markdown to PDF
       run: |
         mkdir -p assets/pdf
-        pandoc docs/spielordnung.md -o assets/pdf/spielordnung.pdf --toc --toc-depth=2 --pdf-engine=xelatex -V geometry:margin=1in --resource-path=.:assets/images
+        pandoc docs/spielordnung.md -o assets/pdf/spielordnung.pdf --toc --toc-depth=2 --pdf-engine=xelatex -V toc-title="Inhaltsverzeichnis" -V geometry:margin=1in --resource-path=.:assets/images
 
     # Commit the PDF back to the repository
     - name: Commit PDF to repository
