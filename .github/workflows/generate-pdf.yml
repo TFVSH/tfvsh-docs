@@ -39,7 +39,7 @@ jobs:
       run: |
         mkdir -p assets/pdf
         pandoc temp/spielordnung_temp.md -o assets/pdf/spielordnung.pdf \
-          --toc --toc-depth=2 \
+          --toc-depth=2 \
           --pdf-engine=xelatex \
           -V toc-title="Inhaltsverzeichnis" \
           -V geometry:margin=1in \
