@@ -2,6 +2,9 @@
 body {
     counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
 }
+.no-toc {
+    display: none;
+}
 /* Titel des Dokuments */
 .title {
     font-size: 2.5em;
