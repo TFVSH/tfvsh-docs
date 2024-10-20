@@ -21,28 +21,23 @@ jobs:
       run: |
         echo "date=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
 
-    # Install Pandoc and LaTeX for PDF generation
+    # Install Pandoc, LaTeX, and xelatex for PDF generation
     - name: Install Pandoc and LaTeX
       run: |
         sudo apt-get update
-        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended
+        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended lmodern
+        sudo apt-get install -y xelatex
 
     # Replace the placeholder LAST_UPDATED_DATE in the docs/spielordnung.md file with the last commit date
     - name: Replace LAST_UPDATED_DATE in Markdown
       run: |
         sed -i "s/LAST_UPDATED_DATE/${{ env.date }}/" docs/spielordnung.md
 
-    # Remove Jekyll Frontmatter and Liquid tags before generating PDF
-    - name: Prepare Markdown for PDF conversion
-      run: |
-        sed '/^---/,/^---/d' docs/spielordnung.md > docs/spielordnung_no_frontmatter.md
-        sed -i 's|{{ "/assets/images/btfv-logo.png" \| relative_url }}|/assets/images/btfv-logo.png|g' docs/spielordnung_no_frontmatter.md
-
     # Convert the Markdown file to PDF and save in assets/pdf/
     - name: Convert Markdown to PDF
       run: |
         mkdir -p assets/pdf
-        pandoc docs/spielordnung_no_frontmatter.md -o assets/pdf/spielordnung.pdf --toc --toc-depth=2 --pdf-engine=xelatex -V geometry:margin=1in
+        pandoc docs/spielordnung.md -o assets/pdf/spielordnung.pdf --toc --toc-depth=2 --pdf-engine=xelatex -V geometry:margin=1in --resource-path=assets/images
      
     # Commit the PDF back to the repository
     - name: Commit PDF to repository
