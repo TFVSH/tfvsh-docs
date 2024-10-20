@@ -1,4 +1,4 @@
-name: Generate PDF and Add Commit Date
+name: Generate PDF
 
 on:
   push:
@@ -6,13 +6,9 @@ on:
       - main
 
 jobs:
-  update-content:
+  generate-pdf:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Schreibberechtigung für den Repository-Inhalt
-
     steps:
-    # Checkout repository
     - name: Checkout repository
       uses: actions/checkout@v3
 
@@ -21,31 +17,33 @@ jobs:
       run: |
         echo "LAST_UPDATED_DATE=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
 
-    # Replace the placeholder LAST_UPDATED_DATE in the docs/spielordnung.md file with the last commit date
-    - name: Replace LAST_UPDATED_DATE in Markdown
+    # Create a temporary copy of the Markdown file with placeholders replaced
+    - name: Prepare Markdown for PDF
       run: |
-        sed -i "s/LAST_UPDATED_DATE/${{ env.LAST_UPDATED_DATE }}/g" docs/spielordnung.md
+        mkdir -p temp
+        cp docs/spielordnung.md temp/spielordnung_temp.md
+        # Replace the date placeholder
+        sed -i "s/{{ site.time | date: \"%Y-%m-%d\" }}/${{ env.LAST_UPDATED_DATE }}/g" temp/spielordnung_temp.md
+        # Replace the Jekyll TOC syntax with Pandoc TOC syntax
+        sed -i '/^\* TOC$/{N;s/.*\n.*$/[TOC]/}' temp/spielordnung_temp.md
 
-  generate-pdf:
-    runs-on: ubuntu-latest
-    needs: update-content  # Ensure PDF generation waits for content update
-    steps:
-    # Checkout repository after update
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    # Install Pandoc, LaTeX, and texlive-xetex for PDF generation
+    # Install Pandoc and LaTeX dependencies
     - name: Install Pandoc and LaTeX
       run: |
         sudo apt-get update
         sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended lmodern
         sudo apt-get install -y texlive-xetex
 
-    # Convert the Markdown file to PDF and save in assets/pdf/
+    # Convert the temporary Markdown file to PDF using Pandoc
     - name: Convert Markdown to PDF
       run: |
         mkdir -p assets/pdf
-        pandoc docs/spielordnung.md -o assets/pdf/spielordnung.pdf --toc --toc-depth=2 --pdf-engine=xelatex -V toc-title="Inhaltsverzeichnis" -V geometry:margin=1in --resource-path=.:assets/images
+        pandoc temp/spielordnung_temp.md -o assets/pdf/spielordnung.pdf \
+          --toc --toc-depth=2 \
+          --pdf-engine=xelatex \
+          -V toc-title="Inhaltsverzeichnis" \
+          -V geometry:margin=1in \
+          --resource-path=.:assets/images
 
     # Commit the updated PDF back to the repository
     - name: Commit PDF to repository
