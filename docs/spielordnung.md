@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- Startbild im Markdown-Dokument -->
-![Startbild-Beschreibung](/path/to/startbild.jpg)
+![BTFV Logo](/assets/images/btfv-logo.png)
 
 # Spielordnung des BTFV
 {: .no-number}
