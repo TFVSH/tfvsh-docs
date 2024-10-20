@@ -12,40 +12,39 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # Get the date of the last commit and set it as an environment variable
+    # Datum des letzten Commits erhalten
     - name: Get Last Commit Date
       run: |
         echo "LAST_UPDATED_DATE=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
 
-    # Create a temporary copy of the Markdown file with placeholders replaced
+    # Temporäre Markdown-Datei vorbereiten
     - name: Prepare Markdown for PDF
       run: |
         mkdir -p temp
         cp docs/spielordnung.md temp/spielordnung_temp.md
-        # Replace the date placeholder
+        # Ersetzen des Datums
         sed -i "s/{{ site.time | date: \"%Y-%m-%d\" }}/${{ env.LAST_UPDATED_DATE }}/g" temp/spielordnung_temp.md
-        # Replace the Jekyll TOC syntax with LaTeX \tableofcontents
-        sed -i '/^\* TOC$/{N;s/.*\n.*$/\\tableofcontents/}' temp/spielordnung_temp.md
+        # Ersetzen der Jekyll-TOC-Syntax durch LaTeX-Befehle und Seitenumbruch
+        sed -i '/^\* TOC$/{N;s/.*\n.*$/\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\clearpage/\n\\tableofcontents\n\\clearpage/}' temp/spielordnung_temp.md
 
-    # Install Pandoc and LaTeX dependencies
+    # Pandoc und LaTeX installieren
     - name: Install Pandoc and LaTeX
       run: |
         sudo apt-get update
         sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended lmodern
         sudo apt-get install -y texlive-xetex
 
-    # Convert the temporary Markdown file to PDF using Pandoc
+    # Markdown zu PDF konvertieren
     - name: Convert Markdown to PDF
       run: |
         mkdir -p assets/pdf
         pandoc temp/spielordnung_temp.md -o assets/pdf/spielordnung.pdf \
           --toc-depth=2 \
           --pdf-engine=xelatex \
-          -V toc-title="Inhaltsverzeichnis" \
           -V geometry:margin=1in \
           --resource-path=.:assets/images
 
-    # Commit the updated PDF back to the repository
+    # Aktualisiertes PDF in das Repository committen
     - name: Commit PDF to repository
       run: |
         git config --global user.name "GitHub Actions"
