@@ -1,0 +1,46 @@
+name: Generate PDF and Add Commit Date
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Get the date of the last commit
+    - name: Get Last Commit Date
+      id: last_commit
+      run: echo "::set-output name=date::$(git log -1 --format=%cd --date=short)"
+
+    # Install Pandoc and LaTeX for PDF generation
+    - name: Install Pandoc and LaTeX
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended
+
+    # Replace the placeholder LAST_UPDATED_DATE in the docs/spielordnung.md file with the last commit date
+    - name: Replace LAST_UPDATED_DATE in Markdown
+      run: |
+        sed -i "s/LAST_UPDATED_DATE/$(echo ${{ steps.last_commit.outputs.date }})/" docs/spielordnung.md
+
+    # Convert the Markdown file to PDF and save in assets/pdf/
+    - name: Convert Markdown to PDF
+      run: |
+        mkdir -p assets/pdf
+        pandoc -s docs/spielordnung.md -o assets/pdf/spielordnung.pdf
+
+    # Commit the PDF back to the repository
+    - name: Commit PDF to repository
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add assets/pdf/spielordnung.pdf
+        git commit -m "Update PDF version of Spielordnung"
+        git push origin master
