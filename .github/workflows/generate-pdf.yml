@@ -35,13 +35,13 @@ jobs:
           cp "$file" "temp/${name}_temp.md"
           
           # Replace date placeholder in Markdown
-          sed -i "s/{{ site.time | date: \"%d-%m-%Y\" }}/${{ env.LAST_UPDATED_DATE }}/g" "temp/${name}_temp.md"
-          
-          # Replace TOC syntax for LaTeX
-          sed -i '/^\* TOC$/{N;s|.*\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' "temp/${name}_temp.md"
+          sed -i "s/{{ site.time | date: \"%d-%m-%Y\" }}/${{ env.LAST_UPDATED_DATE }}/g" temp/${name}_temp.md
+
+          # Ersetzen der Jekyll-TOC-Syntax durch LaTeX-Befehle und Seitenumbruch
+          sed -i '/^\* TOC$/{N;s|.*\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' temp/${name}_temp.md
           
           # Remove HTML-only blocks for PDF generation
-          sed -i '/<div class="html-only"/,/^<\/div>$/d' "temp/${name}_temp.md"
+          sed -i '/<div class="html-only"/,/^<\/div>$/d' temp/${name}_temp.md
           
           # Convert Markdown to PDF
           pandoc "temp/${name}_temp.md" -o "assets/pdf/${name}.pdf" \
