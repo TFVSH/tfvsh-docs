@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  generate-pdfs:
+  generate-pdf:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
@@ -17,45 +17,28 @@ jobs:
       run: |
         echo "LAST_UPDATED_DATE=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
 
-    # Install Pandoc and LaTeX for PDF generation
-    - name: Install Pandoc and LaTeX
+    # Temporäre Markdown-Datei vorbereiten
+    - name: Prepare Markdown for PDF
       run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended lmodern
-        sudo apt-get install -y texlive-xetex
-
-    # Convert each Markdown file in docs/ to PDF
-    - name: Convert Markdown files to PDFs
-      run: |
-        mkdir -p assets/pdf
         mkdir -p temp
         for file in docs/*.md; do
           filename=$(basename -- "$file")
           name="${filename%.*}" # Extract file name without extension
           cp "$file" "temp/${name}_temp.md"
           
-          # Replace date placeholder in Markdown
-          sed -i "s/{{ site.time | date: \"%d-%m-%Y\" }}/${{ env.LAST_UPDATED_DATE }}/g" temp/${name}_temp.md
-
-          # Ersetzen der Jekyll-TOC-Syntax durch LaTeX-Befehle und Seitenumbruch
-          sed -i '/^\* TOC$/{N;s|.*\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' temp/${name}_temp.md
+          # Replace date placeholder in Markdown content
+          sed -i "s/{{ site.time | date: \"%d-%m-%Y\" }}/$LAST_UPDATED_DATE/g" "temp/${name}_temp.md"
+          
+          # Replace TOC syntax for LaTeX
+          sed -i '/^\* TOC$/{N;s|.*\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' "temp/${name}_temp.md"
           
           # Remove HTML-only blocks for PDF generation
-          sed -i '/<div class="html-only"/,/^<\/div>$/d' temp/${name}_temp.md
-          
-          # Convert Markdown to PDF
-          pandoc "temp/${name}_temp.md" -o "assets/pdf/${name}.pdf" \
-            --toc-depth=2 \
-            --pdf-engine=xelatex \
-            -V geometry:margin=1in \
-            --resource-path=./docs
+          sed -i '/<div class="html-only"/,/^<\/div>$/d' "temp/${name}_temp.md"
         done
 
-    # Commit the PDFs to the repository
-    - name: Commit PDFs to repository
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add assets/pdf/*.pdf
-        git commit -m "Update PDF versions of all documents"
-        git push origin main
+    # Save the temp markdown files as artifacts for inspection
+    - name: Upload temp Markdown files as artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: temp-markdown-files
+        path: temp/
