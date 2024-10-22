@@ -42,7 +42,7 @@ jobs:
           --toc-depth=2 \
           --pdf-engine=xelatex \
           -V geometry:margin=1in \
-          --resource-path=.:assets/images
+          --resource-path=./docs
 
     # Aktualisiertes PDF in das Repository committen
     - name: Commit PDF to repository
