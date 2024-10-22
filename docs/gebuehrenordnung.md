@@ -4,6 +4,20 @@ author: "![BTFV Logo](images/btfv-logo.png)"
 date: {{ site.time | date: "%d-%m-%Y" }}
 ---
 
+<div class="html-only" style="text-align: center;">
+    <div class="title" style="text-align: center;">
+        <img src="images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin: 0 auto;" />
+        Gebührenordnung des BTFV e.V.
+    </div>
+
+    <p style="text-align: center;">
+        Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
+    </p>
+    <p>
+        <a href="./../assets/pdf/gebuehrenordnung.pdf" target="_blank">Download als PDF</a><br />
+        <a href="https://github.com/deluxeGitHub/btfv-spielordnung" target="_blank">GitHub Repository</a>
+    </p>
+</div>
 
 * TOC
 {:toc}
