@@ -24,6 +24,8 @@ jobs:
         for file in docs/*.md; do
           filename=$(basename -- "$file")
           name="${filename%.*}" # Extract file name without extension
+          
+          echo copy $file to ${name}_temp.md
           cp "$file" "temp/${name}_temp.md"
           
           # Replace date placeholder in Markdown content
@@ -44,6 +46,9 @@ jobs:
 
           # Remove HTML-only blocks for PDF generation
           sed -i '/<div class="html-only"/,/^<\/div>$/d' "temp/${name}_temp.md"
+          
+          echo "After <div> replacement:"
+          cat "temp/${name}_temp.md"
         done
 
     # Save the temp markdown files as artifacts for inspection
