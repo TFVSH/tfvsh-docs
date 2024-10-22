@@ -1,7 +1,7 @@
 ---
 title: "Spielordnung des BTFV e.V."
 author: "![BTFV Logo](images/btfv-logo.png)"
-date: 22.10.2024
+date: {{ site.time | date: "%d-%m-%Y" }}
 ---
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
