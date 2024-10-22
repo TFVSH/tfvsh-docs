@@ -36,8 +36,8 @@ jobs:
           cat "temp/${name}_temp.md"
 
           # Replace TOC syntax for LaTeX
-          sed -i '/^\* TOC\r?$/{N;s|.*\r?\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' "temp/${name}_temp.md"
-         
+          sed -i '/^\* TOC$/{N;s|.*\n.*$|\\clearpage\\renewcommand{\\contentsname}{Inhaltsverzeichnis}\n\\tableofcontents\n\\clearpage|}' "temp/${name}_temp.md"
+          
           # Remove any remaining * TOC lines
           # sed -i '/\* TOC/d' "temp/${name}_temp.md"
 
@@ -45,8 +45,7 @@ jobs:
           cat "temp/${name}_temp.md"
 
           # Remove HTML-only blocks for PDF generation
-          sed -i '/<div class="html-only"/,/^<\/div>\r?$/d' "temp/${name}_temp.md"
-
+          # sed -i '/<div class="html-only"/,/^<\/div>$/d' "temp/${name}_temp.md"
           
           #echo "After <div> replacement:"
           #cat "temp/${name}_temp.md"
