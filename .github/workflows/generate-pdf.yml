@@ -28,6 +28,7 @@ jobs:
     - name: Convert Markdown files to PDFs
       run: |
         mkdir -p assets/pdf
+        mkdir -p temp
         for file in docs/*.md; do
           filename=$(basename -- "$file")
           name="${filename%.*}" # Extract file name without extension
