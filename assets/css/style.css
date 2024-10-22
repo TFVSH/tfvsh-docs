@@ -5,6 +5,11 @@ body {
 .no-toc {
     display: none;
 }
+@media print {
+  .html-only {
+    display: none;
+  }
+}
 /* Titel des Dokuments */
 .title {
     font-size: 2.5em;

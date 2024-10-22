@@ -12,6 +12,12 @@ date: {{ site.time | date: "%Y-%m-%d" }}
   Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
 </p>
 
+<div class="html-only" style="text-align: center;">
+  <p>
+    <a href="assets/pdf/spielordnung.pdf" target="_blank">Download als PDF</a><br>
+    <a href="https://github.com/deluxeGitHub/btfv-spielordnung" target="_blank">GitHub Repository</a>
+  </p>
+</div>
 
 * TOC
 {:toc}
