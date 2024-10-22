@@ -4,17 +4,17 @@ author: "![BTFV Logo](images/btfv-logo.png)"
 date: 22.10.2024
 ---
 <div class="html-only" style="text-align: center;">
-  <div class="title" style="text-align: center;">
-    <img src="images/btfv-logo.png" alt="BTFV Logo" />
-    Spielordnung des BTFV
-  </div>
-  
-  <p style="text-align: center;">
-    Zuletzt geändert am: {{ site.time | date: "%Y-%m-%d" }}
-  </p>
+    <div class="title" style="text-align: center;">
+        <img src="images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin: 0 auto;" />
+        Spielordnung des BTFV
+    </div>
+
+    <p style="text-align: center;">
+        Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
+    </p>
     <p>
-      <a href="./../assets/pdf/spielordnung.pdf" target="_blank">Download als PDF</a><br>
-      <a href="https://github.com/deluxeGitHub/btfv-spielordnung" target="_blank">GitHub Repository</a>
+        <a href="./../assets/pdf/spielordnung.pdf" target="_blank">Download als PDF</a><br />
+        <a href="https://github.com/deluxeGitHub/btfv-spielordnung" target="_blank">GitHub Repository</a>
     </p>
 </div>
 
