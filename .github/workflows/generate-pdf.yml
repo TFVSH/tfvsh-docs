@@ -56,7 +56,9 @@ jobs:
         mkdir -p assets/pdf
         for file in temp/*.md; do
           filename=$(basename -- "$file")
-          name="${filename%.*}" # Extract file name without extension
+          
+          # Remove the "_temp" suffix to restore original filename
+          name="${filename%_temp*}"
           pandoc "$file" -o "assets/pdf/${name}.pdf" \
             --toc-depth=2 \
             --pdf-engine=xelatex \
