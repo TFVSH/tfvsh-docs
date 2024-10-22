@@ -28,7 +28,7 @@ jobs:
         pandoc docs/minimal.md -o assets/pdf/minimalbeispiel.pdf \
           --pdf-engine=xelatex \
           -V geometry:margin=1in \
-          --resource-path=.:assets/images
+          --resource-path=./assets
 
     # Commit the updated PDF back to the repository
     - name: Commit PDF to repository
