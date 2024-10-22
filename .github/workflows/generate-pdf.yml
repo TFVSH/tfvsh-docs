@@ -34,6 +34,15 @@ jobs:
           
           # Remove HTML-only blocks for PDF generation
           sed -i '/<div class="html-only"/,/^<\/div>$/d' "temp/${name}_temp.md"
+
+          sed -i '
+          s|<ol type="a">|\\begin{enumerate}[label=\\alph*.]|g;
+          s|</ol>|\\end{enumerate}|g;
+          s|<li>|\\item |g;
+          s|</li>||g;
+          ' "temp/${name}_temp.md"
+
+
         done
 
     # Save the temp markdown files as artifacts for inspection
