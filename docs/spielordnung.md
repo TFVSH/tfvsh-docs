@@ -1,10 +1,11 @@
 ---
-title: "Spielordnung des BTFV"
-author: ""
-date: {{ site.time | date: "%Y-%m-%d" }}
+title: "Spielordnung des BTFV e.V."
+author: "![BTFV Logo](images/btfv-logo.png)"
+date: 22.10.2024
 ---
-![BTFV Logo](images/btfv-logo.png)
+
 <div class="title" style="text-align: center;">
+  <img src="images/btfv-logo.png" alt="BTFV Logo" style="width: 150px;" />
   Spielordnung des BTFV
 </div>
 
