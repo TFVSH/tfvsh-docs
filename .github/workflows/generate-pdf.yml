@@ -29,8 +29,8 @@ jobs:
     # Replace HTML title block with LaTeX
     - name: Replace HTML title block with LaTeX
       run: |
-        sed -i 's|<div class="title" style="text-align: center;">|\\title{|' docs/spielordnung_temp.md
-        sed -i 's|</div>|}|' docs/spielordnung_temp.md
+        sed -i 's|<div class="title" style="text-align: center;">|\\title{|' temp/spielordnung_temp.md
+        sed -i 's|</div>|}|' temp/spielordnung_temp.md
         
     # Pandoc und LaTeX installieren
     - name: Install Pandoc and LaTeX
