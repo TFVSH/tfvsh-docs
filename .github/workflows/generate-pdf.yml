@@ -69,10 +69,12 @@ jobs:
           # Remove the "_temp" suffix to restore original filename
           name="${filename%_temp*}"
           pandoc "$file" -o "assets/pdf/${name}.pdf" \
-            --toc-depth=2 \
-            --pdf-engine=xelatex \
-            -V geometry:margin=1in \
-            --resource-path=./docs
+          --toc-depth=2 \
+          --pdf-engine=xelatex \
+          -V geometry:margin=1in \
+          -V header-includes="\\usepackage{enumitem}" \
+          --resource-path=./docs
+
         done
 
     # Aktualisiertes PDF in das Repository committen
