@@ -1,4 +1,4 @@
-# Vereinsdokumente
+# Verbandsdokumente
 
 - [Satzung](docs/satzung.md)
 - [Spielordnung](docs/spielordnung.md)
