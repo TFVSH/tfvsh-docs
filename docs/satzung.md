@@ -14,7 +14,7 @@ date: 22.10.2024
     </p>
     <p>
         <a href="./../assets/pdf/satzung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://github.com/deluxeGitHub/btfv-spielordnung" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/deluxeGitHub/btfv-docs/blob/main/docs/satzung.md" target="_blank">GitHub Repository</a>
     </p>
 </div>
 

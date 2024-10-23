@@ -2,14 +2,7 @@
 body {
     counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
 }
-.no-toc {
-    display: none;
-}
-@media print {
-  .html-only {
-    display: none;
-  }
-}
+
 /* Titel des Dokuments */
 .title {
     font-size: 2.5em;
@@ -91,7 +84,6 @@ body {
 
 #markdown-toc li a::before {
     content: counters(item, ".") ". "; /* Zählt und fügt die Nummer zum Link hinzu */
-    font-weight: bold;
     color: #3498db;
 }
 
@@ -118,19 +110,19 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 28px;
     border-bottom: 2px solid #3498db;
     padding-bottom: 10px;
     margin-top: 40px;
 }
 
 h2 {
-    font-size: 28px;
+    font-size: 25px;
     margin-top: 30px;
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 22px;
     margin-top: 20px;
 }
 
@@ -143,7 +135,7 @@ h4 {
 p {
     margin: 0 0 20px;
     font-size: 18px;
-    line-height: 1.8;
+    line-height: 1.5;
 }
 
 /* Links im Fließtext */
@@ -183,7 +175,7 @@ tr:nth-child(even) {
 
 /* Verbesserte Abstände für den Seiteninhalt */
 ul, ol {
-    margin: 0 0 20px 40px;
+    margin: 0 0 20px 1px;
 }
 
 li {
