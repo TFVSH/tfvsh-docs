@@ -61,6 +61,8 @@ Jede für die Teilnahme am Ligabetrieb gemeldete Mannschaft muss Mitglied im BTF
 
 Bei der Anmeldung entscheidet sich jede Mannschaft für eine zugelassene Spielzeit und Spieltag. Zugelassene Spieltage und Spielanfangszeiten werden auf der zum Jahresende hin stattfindenden Spielführersitzung bekannt gegeben.
 
+Diese sind aktuell: Freitag 20:00, Samstag 18:00, Sonntag 14:00, Sonntag 15:00 oder Sammelspieltag. 
+
 ## Angabe der Spieldaten
 
 Ohne vollständige und korrekte Angabe der Daten über Spielstätte, Spielführer und Spieler ist eine Teilnahme am Ligabetrieb nicht möglich.
