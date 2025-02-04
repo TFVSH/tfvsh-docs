@@ -104,7 +104,7 @@ Der BTFV-Vorstand behält sich das Recht vor neu gegründeten Mannschaften eine 
 | --- | --- | --- |
 | Bonzini B90 ITSF | Player with standard screw | Official ITSF-B ball |
 | Leonhart leo_pro Tournament | Leo_player, ausgewichtet KL  <br>ttB_player, BANG | 1st_ITSF-Ball „official“ |
-| Ullrich-Sport Tournament | Ullrich Soccer mit Gewicht | Ullrich Sport Kickerball - für P4P und DTFB Turniere |
+| Ullrich-Sport Tournament | Ullrich Soccer mit Gewicht | Ullrich Sport Kickerball - für P4P und DTFB Turniere, Ball "SoccerPro 1st"|
 
 ## Trikots
 
