@@ -80,7 +80,7 @@ Den ehrenamtlichen Mitarbeitern des BTFV sind entstehende Kosten nach den jeweil
 
 5. Die Entrichtung des Jahresbeitrags ist Voraussetzung für die Teilnahme an den Mannschaftswettbewerben.
 
-6. Schiedsrichtergebühr pro Ligaspiel 20 € + Reisekosten nach §10.1.
+6. Schiedsrichtergebühr pro Ligaspiel 20 € + Reisekosten nach 10a.
 
 7. Mahngebühr (inkl. Porto je Vorgang) 5 €.
 
