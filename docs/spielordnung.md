@@ -134,17 +134,20 @@ Jeder Mannschaft sind pro Saison **zwei** Spielverschiebungen gestattet, die nic
 - Der letzte Spieltag darf nicht nach hinten verschoben werden.
 - Es darf kein vorheriger Spieltag nach dem letzten Spieltag stattfinden.
 - **Team A** muss die Verschiebung **bis zum Montag 20:00 vor dem Spieltag** beantragen.
-- Die Absage muss sowohl **schriftlich** (E-Mail, Messenger) als auch **mündlich** (Telefonat o.ä.) an **Team B** und die **Ligaleitung** erfolgen.
-- **Team A** schlägt 3 Ausweichtermine innerhalb von **5 Tagen** vor.
+- Die Beantragung der Verschiebung muss sowohl **schriftlich** (E-Mail, Messenger) als auch **mündlich** (Telefonat o.ä.) an **Team B** und die **Ligaleitung** erfolgen.
+- **Team A** schlägt 3 Ausweichtermine innerhalb von **5 Tagen** vor. D.h. spätestens bis **Samstag 20:00** müssen die Termine vorliegen.
 - Die Termine müssen im Zeitraum von **30 Tagen** nach dem **ursprünglichen Datum** des Spieltages liegen.
 - Die Termine sind für den jeweiligen Heimspieltag anzusetzen.
   - Bsp. Spieltag war ursprünglich Fr. 20:00, so muss der Ersatzspieltermin auch Fr. 20:00 sein.
-- **Team B** muss einen dieser Termine **5 Tage** nach deren Empfang annehmen.
+- **Team B** muss einen dieser Termine **5 Tage** nach der Deadline von **Samstag 20:00** Empfang annehmen. Das wäre dann spätestens **Donnerstag 20:00**
 - Bei der Kommunikation ist der Ligakoordinator bei jedem Schritt zu informieren, damit die Verschiebung ins EDV-System eingetragen werden kann.
+- Wird keine Einigung innerhalb der Fristen erziehlt, so wird in folgender Reihenfolge über Sieg oder Niederlage entschieden:
+  - **Team A** schlägt die Ausweichtermine nicht rechtzeitig vor: **Niederlage Team A**
+  - **Team B** nimmt von den vorgeschlagenen Terminen keine Option innerhalb der Frist an: **Niederlage Team B**
 
 **Sonderregelungen:**
 
-- Besteht **Team B** darauf, die Termine vorzuschlagen, so ist dies zulässig. Sie müssen weiterhin am Heimspieltag stattfinden.
+- Besteht **Team B** darauf, die Termine vorzuschlagen, so ist dies zulässig. Sie müssen weiterhin am Heimspieltag stattfinden. Dieser Antrag muss sofort nach der Verschiebung telefonisch **Ligakoordinator** und **Team A** gestellt werden. Es gelten die gleichen Fristen (5 Tage / 5 Tage).
 - Lässt sich lange vorher absehen, dass ein Spiel nicht stattfinden kann, so kann es auch vorverlegt werden.
 - Sind beide Teams einverstanden, kann die Ligaleitung einen anderen Ausweichtermin (anderer Tag und Uhrzeit) zulassen.
 - Bei besonderen Gründen kann ein Antrag beim Ligakoordinator gestellt werden. Die Ligaleitung (Sportwart und zuständiger Ligakoordinator) entscheidet über eine mögliche Verschiebung.
@@ -252,15 +255,11 @@ Sammelspieltage finden an fünf Samstagen im Jahr statt. Jedes Team spielt zwei 
 
 **Zeitplan für Sammelspieltage:**
 
-10 Uhr Öffnung des Spielortes
-
-11 Uhr Beginn 1. Begegnung
-
-Ca. 15 Uhr Pause
-
-Ca. 16 Uhr Beginn 2. Begegnung
-
-Ca. 19 Uhr Ende
+- 10 Uhr Öffnung des Spielortes
+- 11 Uhr Beginn 1. Begegnung
+- Ca. 15 Uhr Pause
+- Ca. 16 Uhr Beginn 2. Begegnung
+- Ca. 19 Uhr Ende
 
 # Ablauf des Spieltags
 
@@ -337,6 +336,34 @@ Die beiden letzten Mannschaften der Bezirksliga steigen direkt ab. Die erstplatz
 Kreisliga
 
 Die ersten beiden Mannschaften der Kreisliga steigen direkt auf.
+
+## Relegation Kreisliga und Bezirksliga
+
+Sollte es mehrere Kreisligen geben, wird eine Relegation gespielt, um zu entscheiden wer aufsteigt.
+
+Folgende Regeln sollen hier gelten:
+
+- Der letzt Platzierte der Bezirksliga steigt direkt ab
+- Der vorletzt Platzierte und die ersten Plätze der Kreisliga spielen eine Relegation – jeder gegen jeden.
+- Die Begegnungen werden zufällig ausgelost.
+- Der Spielplan soll halbiert werden. Es werden also zwei Blöcke gespielt.
+- Spiele können Unentschieden ausgehen.
+- Falls manche Teams gleich viele Punkte haben, entscheided das Satzverhältnis, wenn dieses auch gleich direkten Vergleich.
+- Wer zuerst aufstellt wird durch Münzwurf entschieden, da es kein „Heim – und Gastrecht gibt“.
+- Optimalerweise ist der Ligakoordinator am Spieltag anwesend, um eventuell aufkommende Fragen zu klären.
+- Der Spielort braucht pro zwei Teams jeweils zwei Tische (bei 4 Teams mindestens 4 Tische).
+- Der Spielort wird vom Ligakoordinator festgelegt und sollte so gelegen sein, dass alle Teams eine ähnlich weite Anfahrt haben.
+- Als Tischmodell wird Leonhart festgelegt, da dieser am weitesten verbreitet ist.
+
+**Zeitplan für Relegation:**
+
+- 10 Uhr Öffnung des Spielortes
+- 11 Uhr Beginn 1. Begegnung
+- Ca. 13 Uhr Pause
+- Ca. 14 Uhr Beginn 2. Begegnung
+- Ca. 16 Uhr Pause
+- Ca. 17 Uhr Beginn 3. Begegnung
+- Ca. 19 Uhr Ende
 
 ## Nachrücken
 
