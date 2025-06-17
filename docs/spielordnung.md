@@ -141,7 +141,7 @@ Jeder Mannschaft sind pro Saison **zwei** Spielverschiebungen gestattet, die nic
   - Bsp. Spieltag war ursprünglich Fr. 20:00, so muss der Ersatzspieltermin auch Fr. 20:00 sein.
 - **Team B** muss einen dieser Termine **5 Tage** nach der Deadline von **Samstag 20:00** Empfang annehmen. Das wäre dann spätestens **Donnerstag 20:00**
 - Bei der Kommunikation ist der Ligakoordinator bei jedem Schritt zu informieren, damit die Verschiebung ins EDV-System eingetragen werden kann.
-- Wird keine Einigung innerhalb der Fristen erziehlt, so wird in folgender Reihenfolge über Sieg oder Niederlage entschieden:
+- Wird keine Einigung innerhalb der Fristen erzielt, so wird in folgender Reihenfolge über Sieg oder Niederlage entschieden:
   - **Team A** schlägt die Ausweichtermine nicht rechtzeitig vor: **Niederlage Team A**
   - **Team B** nimmt von den vorgeschlagenen Terminen keine Option innerhalb der Frist an: **Niederlage Team B**
 
@@ -349,7 +349,7 @@ Folgende Regeln sollen hier gelten:
 - Die Begegnungen werden zufällig ausgelost.
 - Der Spielplan soll halbiert werden. Es werden also zwei Blöcke gespielt.
 - Spiele können Unentschieden ausgehen.
-- Falls manche Teams gleich viele Punkte haben, entscheided das Satzverhältnis, wenn dieses auch gleich direkten Vergleich.
+- Falls manche Teams gleich viele Punkte haben, entscheidet das Satzverhältnis, wenn dieses auch gleich direkten Vergleich.
 - Wer zuerst aufstellt wird durch Münzwurf entschieden, da es kein „Heim – und Gastrecht gibt“.
 - Optimalerweise ist der Ligakoordinator am Spieltag anwesend, um eventuell aufkommende Fragen zu klären.
 - Der Spielort braucht pro zwei Teams jeweils zwei Tische (bei 4 Teams mindestens 4 Tische).

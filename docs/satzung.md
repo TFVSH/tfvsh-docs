@@ -23,7 +23,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 
 
 # Name, Rechtsform und Sitz des Vereins
-1. Der Verein führt den Namen: Bayrischer Tischfußballverband e.V. Die Abkürzung lautet: BTFV.
+1. Der Verein führt den Namen: Bayerischer Tischfußballverband e.V. Die Abkürzung lautet: BTFV.
 1. Der BTFV ist ein eingetragener Verein und hat seinen Sitz in 94032 Passau.
 
 # Zweck und Mitgliedschaften
@@ -158,12 +158,18 @@ Die Organe des BTFV sind:
 
 # Vorstand
 
-1. Der BTFV wird vom Vorstand geleitet und verwaltet. Dem Vorstand gehören an: geschäftsführender Vorstand:
+1. Der BTFV wird vom Vorstand geleitet und verwaltet. Dem Vorstand gehören an: 
+
+    geschäftsführender Vorstand:
     <ol type="a">
         <li>1. Vorsitzender</li>
         <li>2. Vorsitzender</li>
         <li>Schatzmeister/Kassier</li>
-        <li>Sportwart erweiterter Vorstand</li>
+        <li>Sportwart </li>
+    </ol>
+
+    erweiterter Vorstand:
+    <ol type="a">
         <li>Schriftführer</li>
         <li>Jugendwart</li>
         <li>Ligakoordinator Süd</li>
@@ -175,8 +181,8 @@ Die Organe des BTFV sind:
 5. Sitzungen und Versammlungen der Organe werden vom 1. Vorsitzenden und im Falle seiner Verhinderung durch den 2. Vorsitzenden einberufen und geleitet. Eine Sitzung ist einzuberufen, wenn drei Vorstandsmitglieder dies verlangen.
 6. Das Vermögen wird vom Vorstand verwaltet. Dem Schatzmeister obliegt insbesondere die Überwachung der Einnahmen und Ausgaben. Einzelheiten regelt die Gebührenordnung in der jeweils geltenden Fassung. Für eine ordnungsgemäße Buchführung ist Sorge zu tragen. Die Buchführung ist mindestens einmal jährlich durch zwei gewählte Kassenprüfer zu prüfen. Alle Prüfungsberichte sind den Vorstandsmitgliedern innerhalb von zwei Wochen nach Beendigung der Prüfung schriftlich mitzuteilen.
 7. Die Mitglieder des Vorstandes sind berechtigt, an allen Sitzungen der Mitglieder teilzunehmen.
-8. Der Vorstand fasst seine Beschlüsse mit einfacher Stimmmehrheit, bei Stimmgleichheit entscheidet die Stimme des 1. Vorsitzenden. Enthält sich dieser, gilt der Antrag als abgelehnt.
-9. Bei Ausscheiden eines Vorstandsmitgliedes kann der Vorstand ein Mitglied berufen, welches die Aufgabe kommissarisch bis zur nächsten Mitgliederversammlung übernimmt.
+8.  Der Vorstand fasst seine Beschlüsse mit einfacher Stimmmehrheit, bei Stimmgleichheit entscheidet die Stimme des 1. Vorsitzenden. Enthält sich dieser, gilt der Antrag als abgelehnt.
+9.  Bei Ausscheiden eines Vorstandsmitgliedes kann der Vorstand ein Mitglied berufen, welches die Aufgabe kommissarisch bis zur nächsten Mitgliederversammlung übernimmt.
 10. Die Abberufung eines Vorstandsmitgliedes bedarf einer Mehrheit von 2/3 der abgegebenen Stimmen.
 11. Über sämtliche Sitzungen müssen vom Schriftführer oder von einem Protokollführer Niederschriften gefertigt werden, die vom Sitzungsleiter zu unterzeichnen sind. Die Vorstandsmitglieder erhalten spätestens bei der nächsten Sitzung eine Protokollabschrift.
 
