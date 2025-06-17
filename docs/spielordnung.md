@@ -184,6 +184,7 @@ Spieler dürfen unter Berücksichtigung folgender Bedingungen bei einer anderen 
 - Jeder Spieler darf an maximal drei Spieltagen pro Saison im regulären Spielbetrieb aushelfen.
 - Jeder Spieler darf an maximal zwei Spieltagen pro Saison bei Sammelspieltagen aushelfen. Das entspricht einem ganzen Sammelspieltag.
 - Aushilfsberechtigte Spieler dürfen auch am gleichen Spieltag aushelfen, jedoch nicht am gleichen Wochentag.
+- Die Gesamtanzahl der Aushilfen eines Spielers – unabhängig von der Mannschaft – ist auf drei Einsätze pro Saison beschränkt.
 
 ## Transferzeit
 
