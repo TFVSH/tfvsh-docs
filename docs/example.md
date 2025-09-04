@@ -1,12 +1,11 @@
 ---
 title: "Example"
-author: "![BTFV Logo](images/btfv-logo.png)"
+author: "![TFVSH Logo](images/tfvsh-logo.png)"
 date: {{ site.time | date: "%d-%m-%Y" }}
 ---
-
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
-        <img src="images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin: 0 auto;" />
+        <img src="images/tfvsh-logo.png" alt="TFVSH Logo" style="display: block; margin: 0 auto;width: 20%" />
         Example
     </div>
 
@@ -15,7 +14,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
         <a href="./../assets/pdf/example.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://github.com/deluxeGitHub/btfv-docs/blob/main/docs/example.md" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/TFVSH/tfvsh-docs/blob/main/docs/example.md" target="_blank">GitHub Repository</a>
     </p>
 </div>
 
