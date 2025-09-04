@@ -1,12 +1,16 @@
 ---
-title: "Spielordnung des BTFV e.V."
-author: "![BTFV Logo](images/btfv-logo.png)"
+title: "Spielordnung des TFVSH"
+author: "![TFVSH Logo](images/tfvsh-logo.png)"
 date: {{ site.time | date: "%d-%m-%Y" }}
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyfoot[L]{(c) Copyright 2025 TFVSH}
 ---
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
-        <img src="images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin: 0 auto;" />
-        Spielordnung des BTFV
+        <img src="images/tfvsh-logo.png" alt="TFVSH Logo" style="display: block; margin: 0 auto;width: 20%" />
+        Spielordnung des TFVSH
     </div>
 
     <p style="text-align: center;">
@@ -14,400 +18,270 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
         <a href="./../assets/pdf/spielordnung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://github.com/BTFVonline/btfv-docs/blob/main/docs/satzung.md" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/TFVSH/tfvsh-docs/blob/main/docs/spielordnung.md" target="_blank">GitHub Repository</a>
     </p>
 </div>
 
 * TOC
 {:toc}
 
-# Die Grundstruktur der Ligen
-
-## Ligaleitung
-
-Die Leitung der Ligen obliegt der Vorstandschaft des Bayerischen Tischfußballverbandes e. V. (BTFV). Federführend sind der Sportwart und die Ligakoordinatoren. Der Sportwart nimmt die Anmeldungen und Änderungen der Mannschaften für die jeweilige Saison entgegen und erstellt den Spielplan für alle Ligen.
-
-Die Ligakoordinatoren koordinieren die Spielverschiebungen und werten die Spielberichte aus. Weiterhin sind sie erster Ansprechpartner bei Problemen.
-
-## Start der Liga
-
-Alle Ligen des BTFV starten am 01. Januar nach Beendigung der vergangenen Saison.
-
-## Einteilung in Ligen
-
-Die Ligen bestehen aus Landesliga, Verbandsliga, Bezirksliga und Kreisliga. Grundsätzlich sollen alle Ligen aus maximal 8 Mannschaften bestehen. Die Ligaleitung kann aber in eigener Zuständigkeit bei Bedarf von diesem Grundsatz abweichen.
-
-## Startrecht
-
-Das Startrecht einer im Ligabetrieb aktiven Mannschaft liegt bei der Spielgemeinschaft. Kann eine Mannschaft zu Beginn einer neuen Saison nicht antreten, verfällt das entsprechende Startrecht.
-
-Entscheiden einige Spieler die Spielgemeinschaft zu verlassen, so müssen _über_ 50 % der Besetzung dieser Mannschaft die neue Mannschaft bilden. Gelingt dies nicht, verbleibt das Startrecht bei der Spielgemeinschaft.
-
-# Teilnahme am Ligabetrieb
-
-## Anmeldungen
-
-Die Anmeldung muss eine Woche vor der Spielführersitzung, welche im Anschluss an die Jahreshauptversammlung des BTFV stattfindet, eingehen.
-
-Neue Vereine müssen sich bei der Vorstandschaft des BTFV anmelden. Hierzu sind die auf der Homepage des BTFV zur Verfügung gestellten Formulare zu verwenden.
-
-In Ausnahmefällen behält sich der BTFV-Vorstand das Recht vor, zusätzliche Mannschaften anzumelden.
-
-## Mitgliedschaft im BTFV
-
-Jede für die Teilnahme am Ligabetrieb gemeldete Mannschaft muss Mitglied im BTFV sein und vor Beginn des Ligabetriebs die Beitrittserklärung unterschreiben.
-
-## Spielzeiten
-
-Bei der Anmeldung entscheidet sich jede Mannschaft für eine zugelassene Spielzeit und Spieltag. Zugelassene Spieltage und Spielanfangszeiten werden auf der zum Jahresende hin stattfindenden Spielführersitzung bekannt gegeben.
-
-Diese sind aktuell: Freitag 20:00, Samstag 18:00, Sonntag 14:00, Sonntag 15:00 oder Sammelspieltag. 
-
-## Angabe der Spieldaten
-
-Ohne vollständige und korrekte Angabe der Daten über Spielstätte, Spielführer und Spieler ist eine Teilnahme am Ligabetrieb nicht möglich.
-
-Spielstätte
-
-Adresse, Telefonnummer, verständliche Wegbeschreibung, Spieltag/- Uhrzeit, Bewirtung
-
-Spielführer/ Vertreter
-
-Vorname, Name, Adresse, Telefonnummer, E-Mailadresse
-
-Alle Spieler
-
-Vorname, Name, Geburtsdatum, Geschlecht
-
-# Voraussetzungen zur Teilnahme
-
-## Mannschaft und Verein
-
-Eine Mannschaft setzt sich aus mindestens 4 Spielern zusammen. Der Name einer Mannschaft muss auf die Spielgemeinschaft hinweisen. Jede Mannschaft muss einen Spielführer und einen vertretenden Spielführer bestimmen. Dieser dient als Ansprechpartner für die Spielführer der gegnerischen Mannschaften und der Ligaleitung. Er vertritt seine Mannschaft auch gegenüber dem BTFV ist für die Korrektheit des Spielberichts und dessen pünktliche Weitergabe an die Ligaleitung verantwortlich. Weiter ist er verpflichtet, alle den Spielbetrieb betreffenden Änderungen umgehend dem Sportwart zu melden.
-
-Neue Spieler können jederzeit nachgemeldet werden. Diese dürfen in der laufenden Saison bei keiner anderen Mannschaft des BTFV angemeldet sein.
-
-## Spielstätte
-
-Ausreichende Beleuchtung und Platz zum Spielen müssen gegeben sein. Musik ist am Spieltag im Spielbereich nur in gemäßigter Lautstärke gestattet. Die Spielstätte muss der Gastmannschaft eine Stunde vor Spielbeginn zugänglich sein. Die Spielstätte muss Spielern unter 18 Jahren zugänglich sein.
-
-## Spielgeräte
-
-Zur Teilnahme müssen zwei mit Hohlstangen ausgestattete Tische des gleichen Modells in der Spielstätte vorhanden sein. Erlaubt sind alle vom BTFV zugelassenen Modelle.
-
-Die Heimmannschaft hat dafür zu sorgen, dass das kostenlose Spielen auf beiden zur Ausführung des Spieltages benötigten Tischen gewährleistet ist. Das Warmspielen ist von der Gastmannschaft selbst zu tragen. Die Tische müssen in ordentlich bespielbarem Zustand mit Originalkomponenten und den vom BTFV zugelassenen Ball für das vorhandene Tischmodell ausgestattet sein. Ist eine Gastmannschaft unzufrieden mit den von der Heimmannschaft gestellten Bällen, kann sie darauf bestehen, eigene, unbespielte Bälle an dem Spieltag zu verwenden. Dies muss der gegnerischen Mannschaft vor Spielbeginn mitgeteilt werden.
-
-Eine Änderung der Spieltische sowie Änderungen von Tischkomponenten müssen vom Ligakoordinator genehmigt werden. Die Veränderung der Spieleigenschaften durch den Gebrauch von Magnesia, Zinkoxid oder ähnlichen Hilfsmitteln ist grundsätzlich verboten.  
-Der BTFV-Vorstand behält sich das Recht vor neu gegründeten Mannschaften eine Frist einzuräumen, um sich an diese Vorgaben zu halten. Bis zu der genannten Frist können auch andere Modelle zugelassen sein. Folgende Spielgeräte sind zugelassen:
-
-| Tischmodell | Puppen | Ball |
-| --- | --- | --- |
-| Bonzini B90 ITSF | Player with standard screw | Official ITSF-B ball |
-| Leonhart leo_pro Tournament | Leo_player, ausgewichtet KL  <br>ttB_player, BANG | 1st_ITSF-Ball „official“ |
-| Ullrich-Sport Tournament | Ullrich Soccer mit Gewicht | Ullrich Sport Kickerball - für P4P und DTFB Turniere, Ball "SoccerPro 1st"|
-
-## Trikots
-
-Jede Mannschaft ist verpflichtet, Mannschaftstrikots zu tragen. Auf ihnen muss der vorher gemeldete Mannschaftsname ersichtlich sein. Sofern ein Spieler einen Spieltag ohne Trikot antritt, ist er von vornherein nicht spielberechtigt.
-
-Neu gemeldete Spieler erhalten eine Kulanz von 30 Tagen ab offizieller Anmeldung, um sich ein Trikot zu besorgen. Bei Spieltagen, die vor Ablauf der 30-Tages-Frist gespielt werden, bedarf es insofern keines Trikots dieser Spieler.
-
-# Ablauf der Liga
-
-## Hin- und Rückrunde
-
-Eine Saison besteht aus einer Hin- und Rückrunde. Aufgrund der gewünschten Spieltage/ Uhrzeiten der jeweiligen Heimmannschaft wird der Spielplan erstellt. Berücksichtigt werden dabei auch offizielle Termine des BTFV, ITSF und des DTFB.
-
-## Verlegen eines Spieltages
-
-**Diese Regelung gilt nicht für Mannschaften, die in Sammelspieltagen spielen.**
-
-Jeder Mannschaft sind pro Saison **zwei** Spielverschiebungen gestattet, die nicht aus taktischen Gründen, sondern nur aus einer Ausnahmesituation heraus genutzt werden dürfen. Sollten taktische Gründe nachgewiesen werden, so kann der Ligakoordinator die Verschiebung untersagen. Ein Spiel kann stattfinden, sobald mindestens 3 Spieler antreten.
-
-**Definition:**
-
-- **Team A:** Das Team, welches die Verschiebung beantragt hat.
-- **Team B:** Das Team, welches spielen hätte können.
-
-**Folgende Regeln gelten:**
-
-- Der letzte Spieltag darf nicht nach hinten verschoben werden.
-- Es darf kein vorheriger Spieltag nach dem letzten Spieltag stattfinden.
-- **Team A** muss die Verschiebung **bis zum Montag 20:00 vor dem Spieltag** beantragen.
-- Die Beantragung der Verschiebung muss sowohl **schriftlich** (E-Mail, Messenger) als auch **mündlich** (Telefonat o.ä.) an **Team B** und die **Ligaleitung** erfolgen.
-- **Team A** schlägt 3 Ausweichtermine innerhalb von **5 Tagen** vor. D.h. spätestens bis **Samstag 20:00** müssen die Termine vorliegen.
-- Die Termine müssen im Zeitraum von **30 Tagen** nach dem **ursprünglichen Datum** des Spieltages liegen.
-- Die Termine sind für den jeweiligen Heimspieltag anzusetzen.
-  - Bsp. Spieltag war ursprünglich Fr. 20:00, so muss der Ersatzspieltermin auch Fr. 20:00 sein.
-- **Team B** muss einen dieser Termine **5 Tage** nach der Deadline von **Samstag 20:00** Empfang annehmen. Das wäre dann spätestens **Donnerstag 20:00**
-- Bei der Kommunikation ist der Ligakoordinator bei jedem Schritt zu informieren, damit die Verschiebung ins EDV-System eingetragen werden kann.
-- Wird keine Einigung innerhalb der Fristen erzielt, so wird in folgender Reihenfolge über Sieg oder Niederlage entschieden:
-  - **Team A** schlägt die Ausweichtermine nicht rechtzeitig vor: **Niederlage Team A**
-  - **Team B** nimmt von den vorgeschlagenen Terminen keine Option innerhalb der Frist an: **Niederlage Team B**
-
-**Sonderregelungen:**
-
-- Besteht **Team B** darauf, die Termine vorzuschlagen, so ist dies zulässig. Sie müssen weiterhin am Heimspieltag stattfinden. Dieser Antrag muss sofort nach der Verschiebung telefonisch **Ligakoordinator** und **Team A** gestellt werden. Es gelten die gleichen Fristen (5 Tage / 5 Tage).
-- Lässt sich lange vorher absehen, dass ein Spiel nicht stattfinden kann, so kann es auch vorverlegt werden.
-- Sind beide Teams einverstanden, kann die Ligaleitung einen anderen Ausweichtermin (anderer Tag und Uhrzeit) zulassen.
-- Bei besonderen Gründen kann ein Antrag beim Ligakoordinator gestellt werden. Die Ligaleitung (Sportwart und zuständiger Ligakoordinator) entscheidet über eine mögliche Verschiebung.
-- Verschobene Termine am selben Wochenende gelten nicht als Spielverlegung, sofern diese 7 Tage vorher angekündigt werden (beide Teams müssen dem zustimmen).
-
-**Ahndungen:**
-
-- Spiel wird nicht nach 30 Tagen nachgeholt:
-  - Es obliegt dem Ligakoordinator, festzulegen, welches Team verloren hat.
-  - Gebühren werden zur Last gelegt.
-- Verschobenes Spiel kann nicht stattfinden:
-  - Team, welches nicht antreten kann, hat das Spiel verloren.
-  - Gebühren werden zur Last gelegt.
-- Nimmt ein Team keinen der vorgeschlagenen Termine an oder meldet sich nicht innerhalb der gesetzten Fristen:
-  - Team, welches in der Bringschuld war, hat das Spiel verloren.
-  - Gebühren werden zur Last gelegt.
-
-## Spielregeln
-
-Gespielt wird nach den offiziellen Spielregeln der International Table Soccer Federation (ITSF) Stand Mai 2016, Übersetzung vom 17. Mai. Die Kleiderordnung aus Punkt 29 der ITSF-Spielregeln besitzt bei Ligaspielen keine Gültigkeit, jedoch ist das Tragen von Sportkleidung erwünscht.
-
-## Schiedsrichter
-
-Jeder Spieler kann jederzeit während einer Begegnung einen anerkannten Schiedsrichter anfordern. Ist kein Schiedsrichter anwesend, müssen die beiden Spielführer eine faire sportliche Lösung finden. Die Entscheidung eines anwesenden Schiedsrichters oder der beiden Spielführer sind endgültig und können nicht mehr rückgängig gemacht werden.
-
-Jede Mannschaft kann zu jedem Spiel einen neutralen Schiedsrichter anfordern. Dieser ist rechtzeitig (2 Wochen) vor dem betreffenden Spiel beim Sportwart anzufordern. Hierfür wird eine Aufwandsentschädigung fällig, die vom beantragenden Verein vollständig getragen wird.
-
-## Aushilfsregel
-
-Spieler dürfen unter Berücksichtigung folgender Bedingungen bei einer anderen Mannschaft aushelfen:
-
-- Die Mannschaft, bei der ausgeholfen wird, gehört zum selben Verein.
-- Die Mannschaft spielt in einer höheren Liga und nicht in einer niedrigeren oder parallelen Liga.
-- Jeder Spieler darf an maximal drei Spieltagen pro Saison im regulären Spielbetrieb aushelfen.
-- Jeder Spieler darf an maximal zwei Spieltagen pro Saison bei Sammelspieltagen aushelfen. Das entspricht einem ganzen Sammelspieltag.
-- Aushilfsberechtigte Spieler dürfen auch am gleichen Spieltag aushelfen, jedoch nicht am gleichen Wochentag.
-- Die Gesamtanzahl der Aushilfen eines Spielers – unabhängig von der Mannschaft – ist auf drei Einsätze pro Saison beschränkt.
-
-## Transferzeit
-
-Ein Vereins- oder Mannschaftswechsel eines Spielers ist nur innerhalb der Transferzeit möglich. Ein Transfer kann genau in der Halbzeit der Spieltage stattfinden (zwischen Vor- und Rückrunde). Dabei ist der offizielle Spielplan maßgebend. Will ein Spieler den Verein wechseln, muss dieser Wechsel dem Ligakoordinator mitgeteilt werden. Ein Wechsel innerhalb der laufenden Saison ist pro Spieler nur einmal möglich. Vor der Transferzeit verlegte Spiele sind spielergebunden, das heißt es dürfen in dem Nachholspiel nur die Spieler eingesetzt werden, die zum Zeitpunkt des regulären Spieltages gemeldet waren.
-
-# Spielsystem BTFV regulär
-
-## Grundsystem
-
-Es werden insgesamt pro Spieltag 16 Einzel und 8 Doppel gespielt. Ein Einzelspiel wird nach zwei für einen Spieler gewonnenen Sätzen mit zwei Punkten gewertet. Ein Doppelspiel wird nach zwei für ein Team gewonnenen Sätzen mit drei Punkten gewertet Eine Einzelpaarung darf sich im Laufe eines Spieltages nicht wiederholen. Eine Doppelpaarung darf sich im Laufe eines Spieltages nur zwei Mal wiederholen.
-
-Im Einzel und im Doppel werden nach Sätzen “Best of Three“ gespielt. Der letzte Satz einer Partie geht bis 5, aber man muss mit einer Tordifferenz von 2 Punkten gewinnen. Das Erzielen des 8. Punktes führt zum Sieg – auch ohne 2 Tore Differenz.
-
-Die Mannschaft, welche am Spieltag mit mehr Spielern vertreten ist, ist verantwortlich dafür, dass die Aufstellung im letzten Spielblock aufgeht.
-
-## Spielblöcke
-
-In jedem Spielblock steht es beiden Mannschaften frei ihre Spieler auf die zu spielenden Einheiten aufzuteilen (Einzel 1-4, Doppel 1-2). Es werden pro Block zuerst die beiden Doppel gespielt, anschließend die vier eingetragen Einzel.
-
-Im ersten und dritten Spielblock werden zuerst die Spieler der Gastmannschaft eingetragen, im zweiten und vierten Block zuerst die Spieler der Heimmannschaft.
-
-## Wechsel zwischen Doppel- und Einzelblock
-
-Jede Mannschaft kann pro Spieltag zwei Spieler ein- bzw. auswechseln. Auswechslungen dürfen nur vor Spielbeginn erfolgen. Das Wechseln zwischen zwei Sätzen oder zwischen Toren ist nicht erlaubt.
-
-Im Spielbericht werden Auswechslungen durch Streichung und Ersetzung der Spielernummer (z.B. H1 durch H5) gekennzeichnet.
-
-## Reduzierter Antritt
-
-Kann eine Mannschaft mit nur drei Spielern ein Ligaspiel antreten, so entfällt der letzte Spielblock (Spielblock 4). Alle gestrichenen Spiele werden der vollständig angetretenen Mannschaft gutgeschrieben. In jedem Spielblock muss ein Spieler, der reduziert antretenden Mannschaft zwei Einzel und zwei Doppel bestreiten. Ein Spieler, der in einem Block auf diese Weise doppelt antritt ist, darf in keinen weiteren Block doppelt antreten.
-
-Können beide Mannschaften nur reduziert antreten, so werden die Punkte des Spielblocks 4 beiden Mannschaften je zur Hälfte gutgeschrieben.
-
-# Spielsystem BTFV Sammelspieltage
-
-## Grundsystem
-
-Es werden pro Sammelspieltag zwei Begegnungen gespielt. Der Spieltag gleicht dem Grundsystem des regulären Spieltags, mit dem Unterschied, dass drei anstatt vier Blöcke gespielt werden.
-
-Es werden insgesamt pro Begegnung 12 Einzel und 6 Doppel gespielt. Ein Einzelspiel wird nach zwei für einen Spieler gewonnenen Sätzen mit zwei Punkten gewertet. Ein Doppelspiel wird nach zwei für ein Team gewonnenen Sätzen mit drei Punkten gewertet. Eine Einzelpaarung darf sich im Laufe einer Begegnung nicht wiederholen. Eine Doppelpaarung darf sich im Laufe einer Begegnung nur zwei Mal wiederholen.
-
-Im Einzel und im Doppel werden nach Sätzen “Best of Three“ gespielt. Der letzte Satz einer Partie geht bis 5, aber man muss mit einer Tordifferenz von 2 Punkten gewinnen. Das Erzielen des 8. Punktes führt zum Sieg – auch ohne 2 Tore Differenz.
-
-Die Mannschaft, welche in der Begegnung mit mehr Spielern vertreten ist, ist verantwortlich dafür, dass die Aufstellung im letzten Spielblock aufgeht.
-
-## Spielblöcke
-
-In jedem Spielblock steht es beiden Mannschaften frei ihre Spieler auf die zu spielenden Einheiten aufzuteilen (Einzel 1-4, Doppel 1-2). Es werden pro Block zuerst die beiden Doppel gespielt, anschließend die vier eingetragen Einzel.
-
-Der erste Block wird verdeckt von beiden Mannschaften gesetzt.
-
-Im zweiten Spielblock werden zuerst die Spieler der Heimmannschaft eingetragen, im dritten Block zuerst die Spieler der Gastmannschaft.
-
-Heim- und Gastrecht werden zu Beginn der Saison von der Ligakoordination vorgegeben.
-
-## Wechsel zwischen Doppel- und Einzelblock
-
-Jede Mannschaft kann pro Begegnung zwei Spieler ein- bzw. auswechseln. Auswechslungen dürfen nur vor Spielbeginn erfolgen. Das Wechseln zwischen zwei Sätzen oder zwischen Toren ist nicht erlaubt.
-
-Im Spielbericht werden Auswechslungen durch Streichung und Ersetzung der Spielernummer (z.B. H1 durch H5) gekennzeichnet.
-
-## Reduzierter Antritt
-
-Reduzierter Antritt ist bei Sammelspieltagen nicht möglich.
-
-## Ablauf des Sammelspieltags
-
-Sammelspieltage finden an fünf Samstagen im Jahr statt. Jedes Team spielt zwei Begegnungen pro Sammelspieltag. Folglich gibt es pro Team zehn Begegnungen in der Saison. Die 6 Teams spielen alle gemeinsam in den vor Beginn der Liga festgelegten Spielorten. Der Spielort stellt 6 Tische. Die Begegnungen finden auf zwei ausgelosten Tischpaaren statt. Es wird auf allen vom BTFV zugelassenen Tischen gespielt. Eine Begegnung kann auch auf zwei unterschiedlichen Tischmodellen gespielt werden.
-
-**Zeitplan für Sammelspieltage:**
-
-- 10 Uhr Öffnung des Spielortes
-- 11 Uhr Beginn 1. Begegnung
-- Ca. 15 Uhr Pause
-- Ca. 16 Uhr Beginn 2. Begegnung
-- Ca. 19 Uhr Ende
-
-# Ablauf des Spieltags
-
-## Der Spielberichtsbogen
-
-Alle am Spieltag aktiven Spieler werden in den Spielberichtsbogen eingetragen. Einfügen eines weiteren Spielers ist jederzeit während der Begegnung möglich. Die maximale Spielerzahl pro Team ist 8. Spieler dürfen nicht im Nachhinein aus der Liste der Spieler entfernt oder ausgetauscht werden.
-
-Spielberechtigt sind nur Spieler die eine Spielernummer des BTFV (hinterlegt in der BTFV-Datenbank) besitzen.
-
-Die Spielführer der Heimmannschaften sind verpflichtet einen Spielberichtsbogen zu führen (digital oder analog). Beide Spielführer sind für dessen Richtigkeit verantwortlich. Ist der Spieltag beendet, muss der vollständig ausgefüllte Spielbogen von beiden Spielführern überprüft werden.
-
-## Ergebnis des Spieltags
-
-Sind alle Spiele bestritten, wird das Gesamtergebnis errechnet und eingetragen. Das Ligaspiel muss immer bis zum Endergebnis ausgespielt werden. Die Mannschaft, die mehr Punkte erzielt hat, gewinnt den Spieltag. Ihr werden drei Punkte in der Tabelle gutgeschrieben. Bei Punktgleichheit wird das Spiel als unentschieden gewertet und beiden Mannschaften wird je ein Punkt in der Tabelle gutgeschrieben.
-
-## Einreichen des Spielberichts
-
-Das Spielergebnis muss bis zum **Sonntag 24:00 Uhr** **des Spieltags** auf der BTFV-Homepage von der Heimmannschaft eingetragen werden. Die auswärtige Mannschaft kann das Ergebnis bis zum darauffolgenden Freitag 20:00 Uhr überprüfen und bei Unstimmigkeiten Einspruch einlegen. Wird kein Einspruch eingelegt, so gilt das von der Heimmannschaft eingetragene Ergebnis. Auszeichnungen, Auf- u. Abstieg
-
-## Teilnahme Bundesliga
-
-Die Bestplatzierte Mannschaft der Landesliga, welche noch nicht in der Bundesliga spielberechtigt ist, hat die Berechtigung an der Aufstiegsrunde des DTFB teilzunehmen. Sollte diese Mannschaft dieses Privileg nicht wahrnehmen so geht es an die nächst Bestplatzierte weiter.
-
-Falls alle Teams der Landesliga bereits ein Bundesliga Team stellen, kann auch in den unteren Ligen nach einem Anwärter gesucht werden. Sollten zwei Mannschaften, die teilnehmen möchten, dieselbe Platzierung belegen, so wird ein Entscheidungsspiel ausgetragen.
-
-## Auf- und Abstieg
-
-Sollte eine Mannschaft aus dem Spielbetrieb aussteigen oder durch die Ligaleitung davon ausgeschlossen werden, so wird diese Mannschaft als Tabellenletzter weitergeführt und steht als Absteiger fest. Alle bisher ausgetragenen und noch ausstehenden Spiele werden als verloren gewertet.
-
-Landesliga (Sammelspieltage)
-
-Der Auf- und Abstieg ist in vier Fällen unterteilt und funktioniert wie folgt:
-
-**Fall 1:**
-
-Landesliga: Der am schlechtesten-platzierte Landesligist einer Region (Nord/Süd) befindet sich auf einem direkten Abstiegsplatz (5. oder 6. Platz).
-
-Verbandsliga: Der Meister der Verbandsliga (1. Platz) der entsprechenden Region (Nord/Süd) nimmt sein Aufstiegsrecht wahr.
-
-Es wird **_keine_** Relegation gespielt. Der Landesligist steigt ab, der Verbandsligist steigt auf.
-
-**Fall 2:**
-
-Landesliga: Der am schlechtesten-platzierte Landesligist einer Region (Nord/Süd) befindet sich **_nicht_** auf einem direkten Abstiegsplatz (3. oder 4. Platz).
-
-Verbandsliga: Der Meister der Verbandsliga (1. Platz) der entsprechenden Region (Nord/Süd) nimmt sein Aufstiegsrecht wahr.
-
-Es wird **_eine_** Relegation gespielt. Der Landesligist erhält auf Grund seiner guten Platzierung die Chance sich in der Landesliga zu halten. Auf- und Abstieg erfolgt nach dem Ergebnis des Relegationsspiels.
-
-**Fall 3:**
-
-Landesliga: Der am schlechtesten-platzierte Landesligist einer Region (Nord/Süd) befindet sich auf einem direkten Abstiegsplatz (5. oder 6. Platz).
-
-Verbandsliga: Der Meister der Verbandsliga (1. Platz) der entsprechenden Region (Nord/Süd) nimmt sein Aufstiegsrecht **_nicht_** wahr.
-
-Das Aufstiegsrecht fällt an den Nächstplatzierten der Verbandsliga. Es wird **_eine_** Relegation gespielt. Der Landesligist erhält die Chance sich in der Landesliga zu halten, der Verbandsligist muss sich in einem Relegationsspiel beweisen. Auf- und Abstieg erfolgt nach dem Ergebnis des Relegationsspiels.
-
-**Fall 4:**
-
-Landesliga: Der am schlechtesten-platzierte Landeligist einer Region (Nord/Süd) befindet sich **_nicht_** auf einem direkten Abstiegsplatz (3. oder 4. Platz).
-
-Verbandsliga: Der Meister der Verbandsliga (1. Platz) der entsprechenden Region (Nord/Süd) nimmt sein Aufstiegsrecht **_nicht_** wahr.
-
-Es wird **_keine_** Relegation gespielt. Es findet kein Auf- und Abstieg statt. Der Landesligist bleibt in der Landesliga.
-
-Verbandsliga
-
-Die letzte Mannschaft der Verbandsliga steigt direkt ab. Die erste Mannschaft der Bezirksliga steigt direkt auf.
-
-Bezirksliga
-
-Die beiden letzten Mannschaften der Bezirksliga steigen direkt ab. Die erstplatzierte Mannschaft steigt auf.
-
-Kreisliga
-
-Die ersten beiden Mannschaften der Kreisliga steigen direkt auf.
-
-## Relegation Kreisliga und Bezirksliga
-
-Sollte es mehrere Kreisligen geben, wird eine Relegation gespielt, um zu entscheiden wer aufsteigt.
-
-Folgende Regeln sollen hier gelten:
-
-- Der letzt Platzierte der Bezirksliga steigt direkt ab
-- Der vorletzt Platzierte und die ersten Plätze der Kreisliga spielen eine Relegation – jeder gegen jeden.
-- Die Begegnungen werden zufällig ausgelost.
-- Der Spielplan soll halbiert werden. Es werden also zwei Blöcke gespielt.
-- Spiele können Unentschieden ausgehen.
-- Falls manche Teams gleich viele Punkte haben, entscheidet das Satzverhältnis, wenn dieses auch gleich direkten Vergleich.
-- Wer zuerst aufstellt wird durch Münzwurf entschieden, da es kein „Heim – und Gastrecht gibt“.
-- Optimalerweise ist der Ligakoordinator am Spieltag anwesend, um eventuell aufkommende Fragen zu klären.
-- Der Spielort braucht pro zwei Teams jeweils zwei Tische (bei 4 Teams mindestens 4 Tische).
-- Der Spielort wird vom Ligakoordinator festgelegt und sollte so gelegen sein, dass alle Teams eine ähnlich weite Anfahrt haben.
-- Als Tischmodell wird Leonhart festgelegt, da dieser am weitesten verbreitet ist.
-
-**Zeitplan für Relegation:**
-
-- 10 Uhr Öffnung des Spielortes
-- 11 Uhr Beginn 1. Begegnung
-- Ca. 13 Uhr Pause
-- Ca. 14 Uhr Beginn 2. Begegnung
-- Ca. 16 Uhr Pause
-- Ca. 17 Uhr Beginn 3. Begegnung
-- Ca. 19 Uhr Ende
-
-## Nachrücken
-
-Können vor Saisonstart weniger Mannschaften in der Landes-, Verbands-, oder Bezirksliga antreten, so haben zuerst die höchst platzierten Absteiger aus der betreffenden Liga die Möglichkeit in dieser Liga weiterzuspielen. Den nächsten Startplatz erhält die bestplatzierte nichtaufgestiegene Mannschaft aus der Liga darunter. Sind aus zwei getrennten Ligen Mannschaften gleichfalls aufstiegsberechtigt und aufstiegsbereit, wird dies durch ein kurzfristig angesetztes Relegationsspiel entschieden.
-
-## Sonderfälle
-
-In extremen Fällen kann der BTFV-Vorstand zur Harmonisierung des Ligabetriebs von den Auf- und Abstiegsregelungen abweichen.
-
-# Verwarnungen, Gebühren und Pflichten
-
-## Gebühren des BTFV
-
-Für sämtliche Gebühren und Strafen gilt die Gebührenordnung des BTFV in der aktuellen Fassung.
-
-## Verspätungen am Spieltag
-
-Für jede Begegnung pro Spieltag ist der Spielbeginn im Spielplan festgelegt. Sollte eine Mannschaft mit mehr als 60 Minuten Verspätung erscheinen, gilt der ganze Spieltag als verloren und nicht angetreten.
-
-## Spielabsage bzw. Nichtantreten einer Mannschaft
-
-Eine Spielabsage einer Mannschaft hat zur Folge, dass dieses Spiel mit 0:56 für die absagende Mannschaft gewertet wird.
-
-Bei einem Sammelspieltag werden die Begegnungen mit 0:42 für die absagende Mannschaft gewertet.
-
-Der Spielführer der dadurch siegreichen Mannschaft teilt daraufhin dem Ligakoordinator die Spieler mit, welche die Punkte für die Einzel- und Doppelrangliste bekommen sollen.
-
-Ab dem 2. Nichtantreten einer Mannschaft behält sich die Ligaleitung vor, diese Mannschaft gegebenenfalls vom weiteren Spielbetrieb auszuschließen.
-
-## Pflichtverletzung
-
-Sollte ein Spieler bzw. eine Mannschaft durch Unsportlichkeit auffallen, so ist die Ligaleitung berechtigt Verwarnungen, Geldstrafen (entsprechend der Gebührenordnung) und Punktabzüge auszusprechen. Über Spielersperrungen für einen oder auch mehrere Spieltage oder Ausschluss vom Ligabetrieb entscheidet das Schiedsgericht.
-
-## Übergriffiges Verhalten
-
-Sollte ein Spieler durch übergriffiges Verhalten, also Diskriminierung, Beleidigungen, Rassismus, Sexismus oder ähnliches, auffallen, so wird bei erstmaligem Bekanntwerden eine Spielsperre über einen oder mehrere Tage verhängt. Bei erneutem Verstoß droht eine Sperre für die gesamte Saison und bei einem weiteren Fall eine Sperre auf Lebenszeit.
-
-## Einlegen von Protest
-
-Eine Mannschaft hat das Recht, bei Unstimmigkeiten oder Unzufriedenheit bei der Ligaleitung per E-Mail, Protest einzulegen. Dies kann nur nachträglich geschehen, d.h. der Spieltag muss zuerst gespielt werden. Die Begründung des Protestes muss auf dem Spielberichtsbogen vermerkt sein. Sollte der Spielberichtsbogen ohne Bemerkung sein, so ist ein nachträglicher Protest unzulässig. Der Protest muss dem Ligakoordinator binnen einer Woche nach dem betreffenden Spiel zugehen.
-
-## Spielführerversammlungen
-
-Die Spielführerversammlungen dienen allen Interessierten und Spielführern dazu, neue Informationen und Änderungen zur laufenden oder kommenden Saison zu bekommen. Zudem werden wichtige Entscheidungen bzw. Regeländerungen für eine Saison besprochen.
-
-Die Übertragung des Stimmrechts kann nur innerhalb des Vereins gewährt werden.
+# <p style="text-align: center">Spielordnung des Tischfußballverbands Schleswig-Holstein (TFVSH)</p>
+#### 
+1. Allgemeines  
+   `(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)`  
+    1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
+   Schleswig-Holstein e.V. eigene Veranstaltungen geregelt.
+    2. Begrifflichkeiten:
+        + Der "Tischfußballverband Schleswig-Holstein e.V." wird nachstehend TFVSH genannt. 
+        + Der "Deutscher Tischfußballbund e.V.", auch "DTFB e.V.", wird nachstehend DTFB genannt. 
+        + Die "International Table Soccer Federation", wird nachstehend ITSF genannt.
+        + "Schleswig-Holstein" wird nachstehend SH genannt.
+        + Als Veranstalter der offiziellen Wettbewerbe wie “Landesliga Schleswig-Holstein”, 
+       “Landespokal Schleswig-Holstein“, “Landesmeisterschaft Schleswig-Holstein” gilt der TFVSH.
+        + Der Begriff "Spieler" ist in dieser Spielordnung ohne Wertung geschlechtlich 
+       neutral verwendet. Es sind damit sowohl weibliche als auch männliche Spieler gemeint.
+        + „Startkategorie“ bezieht sich auf Damen, Herren, Junioren und Senioren Einzel/Dopppel.
+    3. Die Teilnahme an sportlichen Veranstaltungen des TFVSH ist in der Spielordnung 
+   oder der jeweiligen Ausschreibung geregelt.
+    4. Die zugelassenen Spielgeräte bei TFVSH Veranstaltungen sind in der Spielordnung
+   oder der jeweiligen Ausschreibung geregelt.
+    5. Die Gesamtleitung des Spielbetriebes des Verbandes obliegt dem Vorstand des
+   TFVSH. Sobald ein Sportwart im TFVSH gewählt oder berufen wird, obliegt die
+   Gesamtleitung des Spielbetriebes dem Sportwart des TFVSH.
+
+2. Sonderregeln wegen noch geringer Teilnehmerzahlen
+   1. Im bislang bzgl. Tischfußball strukturschwachen Bundesland Schleswig-Holstein, ist
+   noch nicht jede Spielergemeinschaft (z. B. für die Landesliga) in der rechtlichen Form des
+   Vereins organisiert, obwohl dies angestrebt wird. An Stellen, wo explizit dazwischen
+   unterschieden werden soll, werden folgend die vereinslosen Spielergemeinschaften
+   "Spielgemeinschaften" und die Vereine eben "Verein" genannt. Der Begriff "Mannschaft"
+   soll übergreifend für antretende Teams gelten, die aus beiden Formen hervorgehen können.
+   2. Bei sportlichen Veranstaltungen des TFVSH soll es auf lange Sicht einzelne Disziplinen
+   für Herren, Damen, Junioren und Senioren geben. Bei geringer Zahl der Anmeldungen in
+   den jeweiligen Disziplinen können Disziplinen zusammengelegt
+   werden, so dass z. B. Herren und Damen zusammen in derselben Disziplin antreten. Die
+   jeweilige Entscheidung dazu obliegt der Turnierleitung.
+   3. Für die Landesliga SH gilt derzeit eine Doppelspielberechtigung bzgl. der Landesliga
+   des TFVHH, die mit der dortigen Ligaleitung vereinbart ist. Danach ist es Spielern aus SH
+   zum jetzigen Stand möglich, zusätzlich an der Landesliga des TFVHH teilzunehmen. Dazu
+   gelten dann die Teilnahmebedingungen des TFVHH. Bei der Landesliga dürfen nur
+   Verbandsmitglieder des TFVSH mitspielen. Dies ist also eine explizite Sonderregel im
+   Einvernehmen der beiden Landesverbände zur Anfangsförderung des TFVSH. Diese
+   Sonderregel wird jede Saison neu überprüft und verhandelt. Spieler können grundsätzlich
+   keinen Anspruch daraus geltend machen.
+        1. Spieler mit Wohnsitz in SH können über Spielgemeinschaften Verbandsmitglied
+        werden.
+        2. Spieler mit Wohnsitz außerhalb SH können nur über einen in SH ansässigen Verein
+        Verbandsmitglied werden.
+
+3. Spielberechtigung
+   1. Spielberechtigt ist, wer beim TFVSH gemeldet ist und die Mitgliedsgebühren für das
+   laufende Kalenderjahr entrichtet wurden.
+
+4. Erforderliche Dinge für die Anmeldung eines Spielers beim Verband
+   1. Vor- und Nachname, Geschlecht, Geburtsdatum und eine E-Mail-Adresse.
+   2. Der Saisonbeitrag muss auf dem Konto des TFVSH eingegangen sein, eine eindeutige
+   Zuordnung zum Spieler muss möglich sein. Alternativ kann dem TFVSH eine
+   Einzugsermächtigung erteilt werden.
+   3. Ein ordentliches digitales Porträtfoto des Spielers.
+   4. Mit der Anmeldung beim TFVSH bekommt das Mitglied die Spielordnung und Satzung
+   innerhalb einer Woche zugesandt.
+   5. Ein Mitglied stimmt zu, dass seine angegebenen Daten an den DTFB übertragen
+   werden dürfen um es zu melden. Des Weiteren stimmt es zu, dass Bilder die während einer
+   TFVSH-Veranstaltung entstehen und das Mitglied zeigen, für Eigenwerbung des TFVSH
+   und dessen Veranstaltungen genutzt werden dürfen. Ist das Mitglied nicht damit
+   einverstanden so kann es 14 Tage nach Eingang der Informationen aus 4. iv seine
+   Mitgliedschaft widerrufen und bekommt seinen Beitrag zurückerstattet.
+
+5. Gültigkeitsdauer
+   1. Die Saison des DTFB und damit auch des TFVSH entspricht dem Kalenderjahr.
+   2. Die Gültigkeitsdauer einer Meldung gilt für die Dauer der Saison, für die die Meldung
+   stattgefunden hat.
+   3. Die Gültigkeitsdauer der DTFB- und ITSF-Spielernummern ist identisch mit der
+   Gültigkeitsdauer der Meldung. Organisatorisch bleibt die Spielernummer der Person
+   zugeordnet, aber es erlischt ihre Gültigkeit und dadurch auch die damit verbundenen
+   Spielberechtigung.
+   4. Eine automatische Verlängerung der Meldung in die folgende Saison findet nicht statt.
+
+6. Rückmeldung zur Verlängerung
+   1. Es handelt sich auch um eine Rückmeldung, wenn der Spieler vorher in einem anderen
+   Landesverband gemeldet war. Die Zuordnung der DTFB Spielernummer bleibt trotz
+   Wechsel erhalten.
+   2. Zur Rückmeldung sind alle in Abschnitt 3. iii genannten Dinge notwendig, es sei denn,
+   die Daten haben sich nicht verändert und liegen dem TFVSH schon vor.
+   3. Änderungen der notwendigen Daten sind dem TFVSH bekanntzugeben.
+   4. Der Saisonbeitrag muss auf dem Konto des TFVSH eingegangen sein oder per
+   Barzahlung an ein Mitglied des Präsidiums des TFVSH oder einer bevollmächtigten Person
+   durch den TFVSH bezahlt werden.
+
+7. Organisation des Spielbetriebes
+   1. Es gelten bis auf Weiteres die tagesaktuell gültigen Spielregeln des ITSF.
+   2. Nur in den Punkten, in denen in dieser Spielordnung ausdrücklich davon abgewichen
+   wird, hat diese Spielordnung Vorrang.
+
+8. Landesliga Schleswig-Holstein
+   Die Landesliga wird in der Landesliga-Ordnung des TFVSH geregelt.
+
+9. Landesmeisterschaft Schleswig-Holstein
+   1. Ehrung der Sieger und Qualifikation zur Deutschen Meisterschaft
+        1. Der TFVSH richtet einmal in jeder Saison Einzel- und Doppelmeisterschaften aus, im
+        Sinne der Spielordnung des DTFB, die als Qualifikationsturniere für die Deutschen Einzelund Doppelmeisterschaften (für Damen und Herren, Juniorinnen und Junioren, Seniorinnen
+        und Senioren) gelten.
+        2. Die genauen Regeln zur Qualifikation können in den Statuten des DTFB nachgelesen
+        werden.
+        3. Der Sieger der Einzelmeisterschaft trägt den Titel „Schleswig-Holsteinischer
+        Einzelmeister“ (des jeweiligen Jahres, der jeweiligen Startkategorie), der Sieger der
+        Doppelmeisterschaft trägt den Titel „Schleswig-Holsteinischer Doppelmeister“ (des
+        jeweiligen Jahres, der jeweiligen Startkategorie).
+        4. Die Sieger aller durchgeführten Startkategorien werden in die "Hall of Fame" des DTFB
+        eingetragen.
+   2. Berechtigung zur Teilnahme
+        1. Es sind nur Spieler startberechtigt, die dem TFVSH angehören und ihren Wohnsitz
+        in SH haben.
+        2. Der Mitgliedsbeitritt zum TFVSH kann vor Ort bei der Turnierleitung erfolgen. Jeder hat
+        selber dafür Sorge zu tragen, die Aufnahmemodalitäten vorher zu klären und
+        entsprechende Voraussetzungen wie z. B. den Mitgliedsbeitrag mitzubringen.
+   3. Spielmodus
+        1. Welche Startkategorien tatsächlich stattfinden und welche in eine Gemeinsame
+        zusammengelegt werden, entscheidet die TFVSH Turnierleitung entsprechend der Anzahl
+        angemeldeter Spieler der entsprechenden Kategorien.
+        2. Der Modus wird soweit wie möglich und sinnvoll an den der Deutschen
+        Meisterschaft des DTFB angeglichen.
+        3. Die TFVSH Turnierleitung entscheidet auf Grund der Anmeldezahlen und
+        organisatorischen Umstände jedes Jahr aufs Neue über den genauen Modus.
+        4. Der entschiedene Modus wird in der jeweiligen Ausschreibung bekanntgegeben.
+        5. Der Modus kann von der Turnierleitung während der Veranstaltung aus Zeitgründen
+        angepasst werden.
+        6. Sportbekleidung ist während der Teilnahme an der Landesmeisterschaft Pflicht.
+
+10. Landesrangliste
+    1. Zu den TFVSH-Ranglistenturnieren zählen alle vom TFVSH ausgerichteten
+    Ranglistenturniere:
+        1. Mini-Challenger-Turniere
+        2. Challenger-Turniere (DTFB),
+        3. Pro-Tour-Turniere (ITSF)
+        4. Master-Series-Turniere (ITSF)
+    2. Jeder Mitgliedsverein des TFVSH kann sich um die Austragung solcher Turniere
+    bewerben. Der TFVSH-Vorstand entscheidet über die Vergabe.
+    3. TFVSH-Ranglistenturniere dürfen nur auf offiziellen TFVSH-Spieltischen
+    ausgetragen werden. Für DTFB- und ITSF-Turniere dürfen Tische nach deren Vorgabe
+    genutzt werden.
+    4. Der Ausrichter hat dafür sorge zu tragen, dass die Spieltische während des Turniers
+    durchgehend für den Spiel- und Trainingsbetrieb münzeinwurffrei sind.
+    5. Die Ergebnisse sind spätestens am nächsten Tag nach Turnierende an den TFVSH
+    zu melden bzw. über die Webseite des TFVSH (www.tfvsh.de) online einzupflegen. Für die
+    Ausrichtung ist die „TIFU-Software“, “Kickertool” oder alle vom DTFB zugelassenen
+    Turniersoftwareprogramme in der aktuellen Version zu benutzen, da sie fortlaufende
+    Platzierungen berechnet und mit einem Datenimport auf der TFVSH-Webseite kompatibel
+    ist. Sie wird dem TFVSH kostenfrei vom DTFB zur Verfügung gestellt, der diese an
+    Mitgliedsvereine weiter geben darf.
+    6. Die besten 10 Turnier Ergebnisse jedes Ranglistenturnierspielers ergeben die
+    Platzierung.
+    7. Das jeweilige Ranglistenturnier muss mindestens 7 Tage vor Beginn auf www.tfvsh.de
+    unter Termine angekündigt werden. Regeltermine müssen nur einmalig angekündigt
+    werden, wobei bei ausfallen eines Termins mindestens 3 Tage vor Turnierstart auf www.
+    Tfvsh.de das Ausfallen bekannt gegeben werden muss.
+    8. Ranglisten-Turniere können als Einzel- und/oder Doppelturnier ausgetragen werden.
+    Die erreichten Punkte werden wie folgt gewichtet:
+        + Mini-Challenger 50%
+        + Mini-Challenger : Dyp ohne K.O. Runde 25%
+        + Challenger 100%
+
+11. Challenger
+    1. Der TFVSH richtet Challenger in der vom DTFB geregelten Form aus.
+    2. Die Ergebnisse werden an den DTFB übermittelt, der sie u. a. für die deutsche
+    Rangliste verwertet.
+    3. Details zum Modus der Challenger können in den Statuten des DTFB nachgelesen
+    werden.
+    4. Tischfußballvereine in SH können sich auf die Ausrichtung von Challenger beim
+    TFVSH bewerben.
+
+12. Betreute Turniere
+    1. Betreute Turniere sind solche, bei denen der TFVSH nicht selber als Veranstalter
+    auftritt, aber Unterstützung anbietet.
+    2. Eine solche Unterstützung kann z. B. geschehen durch Hilfe bei der Ankündigung, bei
+    der Organisation, oder durch das zur Verfügung stellen von Verbandstischen. Ein Beispiel
+    für betreute Turniere sind Challenger, die von dem Verband angehörenden Vereinen
+    ausgerichtet werden.
+    3. Stadtmeisterschaften
+        1. Stadtmeisterschaften können von Vereinen vor Ort in Absprache mit dem TFVSH
+        ausgerichtet werden.
+        2. Der TFVSH tritt dabei nur beratend auf, falls dafür Bedarf besteht.
+        3. Der TFVSH bietet für die Umsetzung als Unterstützung die Nutzung von
+        Verbandstischen an.
+
+13. Sonstige Wettbewerbe
+    1. Darüber hinaus können beliebige weitere Wettbewerbe veranstaltet werden.
+
+14. Richtlinien zum Spielbetrieb
+    1. Saison
+        1. Die Saison des TFVSH beginnt am ~~01.12.~~ 01.01. eines jeden Jahres und endet mit
+        dem ~~30.11.~~ 31.12. des ~~nächsten~~ selben Jahres.
+        2. ~~Die Ranglistenturniersaison beginnt nach der Austragung einer Landesmeisterschaft und
+        endet mit der nächsten Landesmeisterschaft.~~
+        3. Die Landesmeisterschaft muss einen Monat vor Meldeschluss zur Deutschen
+        Meisterschaft abgeschlossen sein. Sofern kein Pflichttermin vom DTFB vorgeschrieben ist.
+    2. Material
+        1. Spieltische  
+        Für die vom TFVSH ausgerichteten Veranstaltungen sind als Spieltische zugelassen:
+            + DTFB Partnertische
+            + ITFS Partnertische (official und recognized)
+            + Über Anträge zu anderen Tischtypen kann der Landesverband TFVSH, im Sinne der
+            Förderung des Sports in der strukturschwachen Tischfußballregion Schleswig-Holstein, frei
+            entscheiden. Dafür wird ein beratendes aber nicht bindendes Stimmungsbild der Mitglieder
+            des Verbandes eingeholt.
+        2. Spielbälle
+            + Auf den Tischen wird der für den jeweiligen Tischtyp vorgesehene offizielle ITSF-Ball
+            gespielt. Bzw. bei nicht ITSF Tischen der vom Hersteller des Tisches für den Turnierbetrieb
+            vorgesehene Ball.
+            + Die eingesetzten Bälle haben in einem neuwertigen Zustand zu sein.
+        3. Originalkomponenten  
+            + Die Spieltische müssen mit Originalkomponenten bestückt sein.
+        4. Schmiermittel
+            + Der Eigentümer des Spieltisches trifft die Entscheidung ob Silikonöl oder Pronto als
+            Schmiermittel zum Einsatz kommen soll.
+            + Auf Wunsch der Gastmannschaft muss die Heimmannschaft das entsprechende
+            Schmiermittel zur Verfügung stellen.
+        5. Unerlaubte Hilfsmittel
+            + Der Einsatz von Zusatzstoffen auf der Spielfläche oder den Bällen ist nur nach vorheriger
+            Absprache mit der Turnierleitung erlaubt.
+            + Der Gebrauch von Magnesium, Zinkoxid oder ähnlichen Hilfsmitteln ist verboten.
+
+15. Änderungen der Spielordnung
+    1. Anträge auf Änderungen der Spielordnung sind beim TFVSH-Vorstand schriftlich
+    einzureichen. Sie sind vom Vorstand in der Mitgliederversammlung vorzutragen.
+    2. Die Mitgliederversammlung kann Änderungen der Spielordnung mit einfacher
+    Mehrheit der anwesenden stimmberechtigten Delegierten beschließen.
+    3. Kurzfristig notwendige Änderungen der Spielordnung sind jederzeit durch den
+    Vorstand möglich.
+
+16. Inkrafttreten
+    1. Diese Spielordnung tritt mit sofortiger Wirkung in Kraft. Mit dem gleichen Zeitpunkt
+    tritt die bisherige Spielordnung außer Kraft.
+    2. Änderungen und Ergänzungen sind den Mitgliedern des Tischfußballverbands
+    Schleswig-Holstein mitzuteilen und treten zu diesem Zeitpunkt in Kraft.
+
+17. Spieler einer Delegation
+    Wenn eine Delegation oder einzelne Spieler vom TFVSH entsandt, um bei einem
+    Wettbewerb (Deutsche Meisterschaft, Länderpokal oder vergleichbarem) anzutreten, dürfen
+    keine TFVSH-fremden Trikots getragen werden. TFVSH-fremde Trikots sind alle die nicht
+    zu Vereinen des TFVSH oder TFVSH selbst angehören.
+    Ein Verstoß kann vom Vorstand mit einem Ausschluss vom nächsten Wettbewerb geahndet
+    werden.
+
+18. Qualifikation zur Deutschen Meisterschaft
+    1. Die Regeln zur Qualifikation sind dem DTFB zu entnehmen:  
+    https://dtfb.de/index.php/deutsche-meisterschaft/qualifikationsregeln
+    2. Teilnahmekriterien des Landesverbandes:
+        1. Ein Partner seiner Wahl muss mindestens 5 Ranglistenturniere im Qualifikationszeitraum
+        beim TFVSH gespielt haben.
+    3. Qualifikationskette inkl. Nachrückverfahren in absteigender Reihenfolge zu beachten
+        1. ITFS Rangliste
+        2. DTFB Rangliste
+        3. (Sieger Einzel LM | Landesranglistenerster) + Partner seiner Wahl
+        4. Sieger Doppel LM.
+            1. Wenn einer aus dem Siegerdoppel nicht zur DM fährt darf der Verbleibende Sieger
+            mit seinem Partner seiner Wahl fahren
+        5. Nachrücker über die Landesrangliste
+            1. Sobald ein Spieler seinen Startplatz nicht annimmt wird über die Landesrangliste
+            nachgerückt. Es gibt kein Nachrücken über die Tabelle der Landesmeisterschaft mehr.
