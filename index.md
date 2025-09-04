@@ -2,4 +2,5 @@
 
 - [Satzung](docs/satzung.md)
 - [Spielordnung](docs/spielordnung.md)
-- [Gebührenordnung](docs/gebuehrenordnung.md)
+- [Landesligaordnung](docs/landesligaordnung.md)
+- [Geschäftsordnung](docs/geschaeftsordnung.md)
