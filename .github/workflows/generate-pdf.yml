@@ -74,7 +74,8 @@ jobs:
           --pdf-engine=xelatex \
           -V geometry:margin=1in \
           -V header-includes="\\usepackage{enumitem}" \
-          --resource-path=./docs
+          --resource-path=./docs \
+          --typographer
 
         done
 
