@@ -1,12 +1,12 @@
 ---
-title: "Satzung des BTFV e.V."
-author: "![BTFV Logo](images/btfv-logo.png)"
+title: "Satzung des TFVSH e.V."
+author: "![TFVSH Logo](images/tfvsh-logo.png)"
 date: {{ site.time | date: "%d-%m-%Y" }}
 ---
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
-        <img src="images/btfv-logo.png" alt="BTFV Logo" style="display: block; margin: 0 auto;" />
-        Satzung des BTFV e.V.
+        <img src="images/tfvsh-logo.png" alt="TFVSH Logo" style="display: block; margin: 0 auto;width: 20%" />
+        Satzung des TFVSH e.V.
     </div>
 
     <p style="text-align: center;">
@@ -14,7 +14,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
         <a href="./../assets/pdf/satzung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://github.com/BTFVonline/btfv-docs/blob/main/docs/satzung.md" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/TFVSH/tfvsh-docs/blob/main/docs/satzung.md" target="_blank">GitHub Repository</a>
     </p>
 </div>
 
@@ -22,246 +22,285 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 {:toc}
 
 
-# Name, Rechtsform und Sitz des Vereins
-1. Der Verein führt den Namen: Bayerischer Tischfußballverband e.V. Die Abkürzung lautet: BTFV.
-1. Der BTFV ist ein eingetragener Verein und hat seinen Sitz in 94032 Passau.
+Satzung des Tischfußballverbandes Schleswig-Holstein e.V. (TFVSH)
+## § 1 Name, Sitz und Geschäftsjahr
+1. Der Verein führt den Namen
+   > „Tischfußballverband Schleswig-Holstein“ (TFVSH)
 
-# Zweck und Mitgliedschaften
+   und ist im Vereinsregister eingetragen. Mit der Eintragung führt der Verein den Zusatz e.V.  
+   Der Verein soll als Schleswig-Holsteinischer Landesverband Mitglied im Deutschen
+   Tischfußball Bund (DTFB) sein. Geschäftsjahr des Vereins ist das Kalenderjahr. Der
+   Verein hat seinen Sitz in Kiel.
 
-1. Zweck des BTFV ist die Förderung des Tischfußballsports im Rahmen der Leibesübungen nach besten Kräften zu pflegen, zu fördern und seinen ideellen Charakter zu wahren.
+## § 2 Zweck
+   Zweck des Vereins ist die Förderung und Ausübung des Tischfußballspieles als Sport und
+   Freizeitgestaltung sowie Ligawettkämpfe in Schleswig-Holstein. Der Satzungszweck wird
+   durch folgende Maßnahmen verwirklicht:
+   + Veranstaltung von Trainingstagen, Tischfußballturniere, Ligawettkämpfe.
+   Zusätzlich führt er alle ihm zur Erreichung des Vereinszwecks geeignet
+   erscheinenden Maßnahmen durch.
+   + Erhaltung und Förderung der Gesundheit.
+   + Schaffung der Voraussetzungen zur Förderung des Breiten-, Freizeit- und
+   Gesundheitssports ebenso wie des Leistungs- und Spitzensports durch die
+   Mitglieder des TFVSH.
+   + Um dem leistungsbezogenen Tischfußballsport in Schleswig-Holstein offiziellen
+   Charakter und nationale Geltung zu verleihen, wird der TFVSH Mitglied des DTFB
+   (Deutscher Tischfußball Bund).
+   + Der TFVSH ist auch um außersportliche Freizeitgestaltung bemüht und versteht
+   sich als Bildungsgemeinschaft für seine Mitglieder.
+   + Besondere Förderung der sportlichen Erziehung der Jugend.
 
-1. Zweck des BTFV ist die besondere Förderung der Jugendarbeit im
-    Bereich des Tischfußballsports.
-
-1. Der BTFV schafft mit seinen Mitgliedern die Voraussetzungen zur
-    Förderung des Breiten, Freizeit- und Gesundheitssports, ebenso wie des Leistungs- und Spitzensports.
-
-1. Der BTFV verfolgt keine politischen Ziele und vertritt den Grundsatz
-    religiöser und weltanschaulicher Toleranz.
-
-1. Der BTFV ist Mitglied des Deutschen Tischfußballbundes e.V. (DTFB)
-    mit Sitz in 65510 Hünstetten.
-
-# Aufgaben
-
-1. Der BTFV wird zu diesem Zweck bestrebt sein, den Gemeinschaftsgeist und die Sportkameradschaft durch freiwillige Unterordnung unter die geschriebenen und ungeschriebenen sportlichen Gesetze zu fördern.
-
-1. Der BTFV vertritt die gemeinschaftlichen Interessen seiner Mitglieder und Anhänger von allgemeiner und grundsätzlicher Bedeutung gegenüber der Öffentlichkeit, allen Behörden, Verbänden und Organisationen.
-
-1. Die Zuständigkeit im Tischfußballsport in Bayern liegt beim BTFV.
-
-1. Zu den Aufgaben des Landesverbandes gehören insbesondere:
+## § 3 Aufgaben
+1. Der TFVSH ist bestrebt, den Gemeinschaftsgeist und die Sportkameradschaft durch
+   freiwillige Unterordnung unter die geschriebenen und ungeschriebenen sportlichen
+   Gesetze zu fördern.
+2. Der TFVSH vertritt die gemeinschaftlichen Interessen seiner Mitglieder und Anhänger
+   von allgemeiner und grundsätzlicher Bedeutung gegenüber der Öffentlichkeit, allen
+   Behörden, Verbänden und Organisationen. 
+3. Die Zuständigkeit für den Tischfußballsport im Land Schleswig-Holstein liegt beim
+   Tischfußballverband Schleswig-Holstein. 
+4. Zu den Aufgaben des Verbandes gehören neben den unter § 2 genannten Aufgaben
+   insbesondere:
     <ol type="a">
-      <li>Landesmeisterschaften, sowie ein geregelter Ligabetrieb</li>
-      <li>Zusammenarbeit mit dem DTFB</li>
-      <li>Unterrichtung der Öffentlichkeit und Förderung der Öffentlichkeitsarbeit</li>
-      <li>Mitwirkung bei der Gewährung von Zuschüssen für sportliche Zwecke</li>
+        <li>Die Zusammenarbeit mit den nationalen Tischfußballorganisationen.</li>
+        <li>Die Unterrichtung der Öffentlichkeit und Förderung der Öffentlichkeitsarbeit über
+       den Tischfußballsport.</li>
     </ol>
-  
-1. Der BTFV hat das Recht, über Fernseh- und Hörfunkübertragungen von seinen Veranstaltungen mit Rundfunkveranstaltern Verträge zu schließen. Für Veranstaltungen seiner Mitglieder können diese Rechte übertragen werden. Schließt der BTFV für seine Mitglieder solche Verträge, so hat er die Vergütung für die Mitglieder treuhänderisch zu vereinnahmen und an diese zu verteilen. Dies gilt auch bezüglich aller anderen Bild- und Tonträger sowie möglicher Vertragspartner. Der BTFV kann dieses Recht Dritten übertragen.
 
-# Geschäftsjahr
+## § 4 Gemeinnützigkeit 
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne
+   der Abgabenordnung („Steuerbegünstigte Zwecke“). Er ist selbstlos tätig; er verfolgt
+   nicht in erster Linie eigenwirtschaftliche Zwecke. 
+2. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die
+   Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person
+   durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig
+   hohe Vergütungen begünstigt werden. 
+3. Sämtliche Mitglieder der Organe des TFVSH üben ihre Tätigkeiten ehrenamtlich aus.
+   Die im Interesse des Verbandes entstandenen Reisekosten und Tagegelder können als
+   angemessene Aufwandsentschädigung (Ehrenamtspauschale im Sinne des § 3 Nr. 26a
+   EStG) erstattet werden, die nach Maßgabe eines Beschlusses der
+   Delegiertenversammlung unter Beachtung steuerlicher Grundsätze festgelegt werden.
+   Reisekosten, Aufwandsentschädigungen (Ehrenamtspauschale im Sinne des § 3 Nr.
+   26a EStG) und sonstige Auslagen und Aufwendungen werden auf Antrag ersetzt. Als
+   Tätigkeitsvergütung gilt auch die Überlassung einer Spendenquittung, indem entweder
+   der Verein dem Mitglied eine Vergütung zahlt, das es dem Verein zurückzahlt, oder
+   durch Verzicht auf die Auszahlung eines entstandenen Vergütungsanspruchs und damit
+   dem Verein den Vergütungsanspruch spendet.
 
-Das Geschäftsjahr beginnt mit dem 1. Januar und endet mit dem 31. Dezember des Kalenderjahres.
-
-# Gemeinnützigkeit
-
-Der BTFV verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke" der Abgabenordnung. Der BTFV ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Verbandes dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Verbandes. Es darf keine Person durch Ausgaben, die dem Zweck des Verbandes fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-
-# Mitgliedschaft
-
-1. Die Mitgliedschaft kann aus ordentlichen, außerordentlichen (fördernden) Mitgliedern und Ehrenmitgliedern bestehen.
-2. Ordentliche Mitglieder sind Tischfußballvereinigungen oder Abteilungen von Vereinigungen mit Sitz in Bayern.
-3. Außerordentliche (fördernde) Mitglieder sind Institutionen und Einzelpersonen, die die Bestrebungen des BTFV fördern.
-4. Ehrenmitglieder sind Einzelpersonen, die sich um den Tischfußballsport hervorragende Verdienste erworben haben und von der Mitgliederversammlung hierzu ernannt werden.
-
-# Aufnahme
-
-1. Die Mitgliedschaft im BTFV wird durch Aufnahme erworben.
-2. Der Aufnahmeantrag ist schriftlich an den Vorstand des BTFV einzureichen. Dem Aufnahmeantrag ist die Satzung und die Gebührenordnung des Antragstellers sowie die schriftliche Anerkennung der Satzung und Ordnungen des BTFV beizufügen.
-3. Aus der Satzung des Antragstellers muss hervorgehen, dass sich der Antragsteller die Förderung und Pflege des Tischfußballsports zur Aufgabe gestellt hat und den Vorschriften der Gemeinnützigkeitsordnung entspricht. Die Satzung des Antragstellers darf der Satzung des BTFV nicht widersprechen.
-4. Über die Aufnahme entscheidet der Vorstand mit einfacher Mehrheit der Vorstandsmitglieder. Die Entscheidung ist dem Antragsteller schriftlich und im Falle einer Aufnahme auch den Mitgliedern in geeigneter Form bekanntzugeben.
-5. Gegen die ablehnende Entscheidung steht dem Antragsteller Beschwerde an die Delegiertenversammlung zu. Diese Beschwerde ist innerhalb eines Monats nach der Bekanntgabe der Entscheidung schriftlich unter Angabe von Gründen an den Vorstand zu richten. Über die Beschwerde entscheidet die nächste Mitgliederversammlung endgültig. Die Beschwerde ist erfolgreich, wenn sich die einfache Stimmmehrheit für die Aufnahme ausspricht.
-
-# Rechte und Pflichten der Mitglieder
-
-1. Mit der Aufnahme in den Verband erkennen alle Mitglieder diese Satzung und die Beschlüsse des Vorstandes des BTFV und der Mitgliederversammlung sowie die jeweils geltende Spielordnung und die Gebührenordnung an.
-2. Alle Mitglieder sind verpflichtet, die Interessen des BTFV zu wahren und zu fördern, bei der Erreichung seiner Ziele mitzuwirken und die Anordnung seiner Organe zu befolgen.
-3. Von den Mitgliedern wird ein Jahresbeitrag erhoben, dessen Höhe in der Geschäftsordnung geregelt ist. Näheres hierzu regelt die Gebührenordnung (GO), in der jeweils geltenden Fassung.
-4. Alle ordentlichen Mitglieder sind wahl- und stimmberechtigt. Jedes ordentliche Mitglied ist in der Mitgliederversammlung mit der ihm zustehenden Anzahl an Delegierten stimmberechtigt. Die Stimmübertragung ist zulässig. Das Stimmrecht eines Delegierten kann nicht auf eine Person aus einem anderen Verein übertragen werden. Die von den einzelnen Mitgliedern entsandten Delegierten zur Mitgliederversammlung des BTFV müssen vollumfänglich geschäftsfähig sein.
-5. Die Festlegung der Anzahl der Delegierten richtet sich nach der Anzahl der gemeldeten Tischfußballmannschaften im Ligabetrieb. Für jede gemeldete Mannschaft im Ligabetrieb des aktuellen Geschäftsjahres kann von den Mitgliedern ein Delegierter entsandt werden.
-6. Außerordentliche (fördernde) Mitglieder und Ehrenmitglieder haben keine Stimme.
-7. Vorstandsmitglieder des BTFV haben je eine Stimme. Die Stimme ist nicht übertragbar.
-8. Kein Mitglied hat Anspruch auf das Vermögen des BTFV.
-
-# Ende der Mitgliedschaft
-
-1. Die Mitgliedschaft endet durch:
+## § 5 Aufnahme/Mitgliedschaft
+1. Die Mitgliedschaft wird durch Aufnahme erworben. Mit der Aufnahme erkennen alle
+   Mitglieder diese Satzung und die Beschlüsse des Präsidiums des TFVSH sowie die
+   jeweils geltenden Ordnungen an.
+2. Mitglied des Vereins kann werden:
     <ol type="a">
-        <li>Auflösung des BTFV</li>
-        <li>Austritt</li>
-        <li>Ausschluss</li>
-        <li>Auflösung des unmittelbaren Mitglieds</li>
+        <li>Vereine oder Abteilungen von Vereinen, die in das Vereinsregister eingetragen
+   sind.</li>
+        <li>Vereine, Abteilungen oder Spielgemeinschaften, die auf Grund ihrer geringen
+   Mitgliedszahlen nicht in das Vereinsregister eingetragen sind.</li>
     </ol>
-2. Die Austrittserklärung ist schriftlich an den Vorstand des BTFV zu stellen. Hierbei muss eine dreimonatige Kündigungsfrist zum Ende des Geschäftsjahres eingehalten werden.
+3. Die Vereinigungen müssen sich die Förderung und Pflege des Tischfußballsports zum
+   Ziel gesetzt haben.
+4. Die Spieler der entsprechenden Vereine/Spielervereinigungen erwerben durch die
+   Aufnahme ihres Vereins/Spielervereinigung eine Mitgliedschaft im TFVSH, die ihnen
+   die Teilnahme an regionalen oder überregionalen DTFB-Veranstaltungen ermöglicht.
+   Ein Spieler hat indirekt nur über den Repräsentanten seines Vereins/
+   Spielervereinigung ein Stimmrecht in der Delegiertenversammlung des TFVSH.
+5. Der Sitz eines jeden ordentlichen Mitglieds muss sich in Schleswig-Holstein befinden.
+   Ausnahmen können vom TFVSH-Präsidium genehmigt werden.
+6. Der Aufnahmeantrag ist schriftlich beim Präsidium des TFVSH einzureichen, das
+   darüber entscheidet. Gegen eine negative Entscheidung steht dem Antragsteller
+   Beschwerde
+   an die Delegiertenversammlung zu. Diese Beschwerde ist innerhalb eines
+   Monats nach der Bekanntgabe oder Veröffentlichung der Entscheidung mit schriftlicher
+   Begründung an die Delegiertenversammlung zu richten, die endgültig entscheidet.
+
+## § 6 Mitgliedschaftsrechte und Mitgliedschaftspflichten
+1. Die Mitgliedsvereine haben zwei Monate vor Beginn eines jeweiligen Geschäftsjahres
+   ihre Vereinsstärken zu melden und die festgesetzten Verbandsbeiträge zu entrichten,
+   deren Höhe bei den Delegiertenversammlungen festgelegt wird. Ferner ist die
+   Meldung der Vorstandsmitglieder mit Anschrift beizulegen.
+2. Ihre Mitgliedschaftsrechte üben die Mitglieder in der Delegiertenversammlung durch
+   stimmberechtigte Vertreter (Delegierte) aus. Dazu können sie entsprechend der
+   vorausgegangenen
+   Beitragsleistung die Delegierten entsenden. Die Art, wie sie ihre Delegierten
+   bestimmen, steht den einzelnen Vereinen frei.
+3. Jeder Delegierte hat eine Stimme. Soweit der Beitrag nicht bezahlt ist, ruht das
+   Stimmrecht. Alle Mitglieder sind verpflichtet, die Interessen des Verbandes zu wahren
+   und zu fördern, die Satzung und die Beschlüsse des Bundes einzuhalten und
+   durchzuführen.
+
+## § 7 Mitgliedsbeiträge und Gebühren
+1. Von den Mitgliedern wird ein Mitgliederbeitrag erhoben, dessen Höhe die
+   Delegiertenversammlung festsetzt. Auch der Zeitraum in der dieser Betrag fällig wird,
+   wird von der Delegiertenversammlung festgesetzt.
+2. Alle Beiträge, die von der Delegiertenversammlung beschlossen wurden, werden vom
+   Schatzmeister eingezogen. Die Beiträge sind, auch wenn die Mitgliedschaft erst im
+   Laufe des Beitragszeitraums erworben wird, für einen vollen Beitragszeitraum fällig.
+3. Die Rechte eines Mitglieds ruhen, wenn es länger als 6 Monate mit seinen
+   Beitragszahlungen
+   in Verzug ist.
+4. Scheidet ein Mitglied aus dem Verband aus, so werden eventuelle Verbindlichkeiten
+   sofort fällig.
+5. Als Zahlungstermin gilt die 14 Tagesfrist nach Rechnungsstellung.
+   Kommentar: Der alte Punkt 5 wurde ersatzlos gestrichen: Für die Ligateams wird ein
+   Jahresbeitrag erhoben, dessen Höhe in der Delegierten-versammlung festgelegt wird.
+
+## § 8 Ende der Mitgliedschaft
+1. Die Mitgliedschaft endet:
+   + durch Auflösung des Verbandes
+   + durch Austritt
+   + durch Ausschluss
+   + durch Auflösung des Mitgliedsvereins/Spielgemeinschaft
+2. Die Austrittserklärung ist schriftlich an das Präsidium zu stellen. Hierbei muss eine
+   dreimonatige Kündigungsfrist zum Ende des Geschäftsjahres eingehalten werden.
 3. Der Ausschluss kann erfolgen:
+   + wenn das Verbandsmitglied mit der Bezahlung der Mitgliedsbeiträge trotz
+   zweimaliger Mahnung länger als ein Jahr im Rückstand ist.
+   + bei grobem oder wiederholtem Verstoß gegen die Satzung oder gegen die
+   Interessen des Verbandes.
+   + bei grobem unsportlichen Verhalten.
+   + aus sonstigen schwerwiegenden, die Verbandsdisziplin gefährdenden Gründen.
+4. Über den Ausschluss, der mit sofortiger Wirkung erfolgt, entscheidet das Präsidium
+   mit einfacher Stimmenmehrheit.
+5. Ein Vorstandsmitglied des ausgeschlossenen Mitgliedes kann gegen den Ausschluss
+   innerhalb eines Monats nach Inkenntnissetzung des Ausschlusses Berufung zur
+   Delegiertenversammlung einlegen.
+6. Dem ausgeschlossenen Mitglied ist vor der Delegiertenversammlung die Gelegenheit
+   zur Rechtfertigung zu geben.
+7. Der Schriftverkehr mit Mitgliedern gilt diesen - insbesondere im Ausschussverfahren -
+   3 Tage nach Sendung an die zuletzt bekannte Anschrift/Email-Adresse als
+   zugegangen.
+8. Die Delegiertenversammlung entscheidet endgültig über den Ausschluss mit einfacher
+   Stimmenmehrheit. Mit der Beendigung der Mitgliedschaft erlöschen alle Ansprüche
+   aus dem Mitgliedsverhältnis, ungeachtet des Anspruches des Verbandes auf
+   rückständige Forderungen.
+
+## § 9 Organe des Verbandes
+1. Die Organe des TFVSH sind:
     <ol type="a">
-        <li>wenn das Verbandsmitglied mit der Bezahlung der Mitgliedsbeiträge trotz einmaliger Mahnung mehr als zwei Monate im Rückstand ist</li>
-        <li>bei grobem und wiederholtem Verstoß gegen die Satzung oder die Interessen des Verbandes</li>
-        <li>bei grobem unsportlichen Verhalten</li>
-        <li>aus sonstigen schwerwiegenden, die Verbandsdisziplin gefährdenden Gründen</li>
-    </ol>
-4. Über den Ausschluss, der mit sofortiger Wirkung erfolgt, entscheidet der Vorstand mit einfacher Stimmmehrheit. Ein Angehöriger des ausgeschlossenen Mitglieds kann gegen den Ausschluss innerhalb eines Monats nach in Kenntnissetzung des Ausschlusses Berufung zur Delegiertenversammlung einlegen. Der Widerspruch hat keine aufschiebende Wirkung.
-5. Dem ausgeschlossenen Mitglied ist vor der Delegiertenversammlung Gelegenheit zur Erklärung zu geben.
-6. Die Delegiertenversammlung entscheidet endgültig über den Ausschluss mit einfacher Stimmmehrheit.
-7. Wird der Ausschließungsbeschluss vom Mitglied nicht oder nicht rechtzeitig angefochten, so kann auch gerichtlich nicht mehr geltend gemacht werden, der Ausschluss sei unrechtmäßig.
-8. Mit der Beendigung der Mitgliedschaft erlöschen alle Ansprüche aus dem Mitgliedsverhältnis.
-9. Die Beendigung der Mitgliedschaft befreit nicht von der Erfüllung der dem Verband gegenüber bestehenden Verpflichtungen.
-
-# Organe des Verbandes
-
-Die Organe des BTFV sind:
-<ol type="a">
-    <li>Die Mitgliederversammlung</li>
-    <li>Der Vorstand</li>
-    <li>Das Schiedsgericht</li>
-    <li>Die Gremien</li>
-</ol>
-
-# Mitgliederversammlung
-
-1. Die Mitgliederversammlung ist das oberste Verbandsorgan.
-2. Die Mitgliederversammlung ist zuständig für:
-    <ol type="a">
-        <li>Entgegennahme der Berichte des Vorstands</li>
-        <li>Wahl und Abberufung der Vorstandmitglieder</li>
-        <li>Wahl zweier vom Vorstand unabhängiger Kassenprüfer</li>
-        <li>Beschlussfassung über Änderung der Satzung und über die Auflösung des Verbandes</li>
-        <li>Beschlussfassung über die Gebührenordnung</li>
-        <li>Beschlussfassung über die Beschwerde gegen einen Beschluss des Vorstandes über einen abgelehnten Aufnahmeantrag und über einen Ausschluss</li>
-        <li>Entlastung des Vorstandes</li>
-        <li>Wahl des Schiedsgerichts</li>
-    </ol>
-1. Die Mitgliederversammlung soll einmal jährlich zusammentreten. Außerdem muss die Mitgliederversammlung einberufen werden, wenn der Vorstand es im Interesse des Verbandes für erforderlich hält oder die Einberufung von einem Fünftel der Mitglieder unter Angabe des Zwecks und der Gründe vom Vorstand schriftlich verlangt wird.
-
-2. Die Mitgliederversammlung wird unter Bekanntgabe der Tagesordnung schriftlich einberufen und vom 1. oder 2. Vorsitzenden, bei deren Verhinderung von einem anderen Mitglied des Vorstandes, geleitet. Die Einladungsfrist beträgt vier Wochen. Der schriftlichen Einladung an die Mitglieder sind Ort und Zeit der Zusammenkunft sowie die Tagesordnung beizufügen.
-
-3. Beschlussfähig ist jede ordnungsgemäß einberufene Mitgliederversammlung, wenn mindestens ein Viertel der Mitglieder erschienen ist. Für den Fall, dass die erste Mitgliederversammlung nicht beschlussfähig ist, kann der Vorstand eine Mitgliederversammlung mit gleicher Tagesordnung für den gleichen Tag und Ort ohne Einhaltung einer Ladungsfrist eine Stunde später einberufen. Diese weitere Mitgliederversammlung ist mit den vorhandenen Mitgliedern beschlussfähig.
-
-4. Anträge zu einer Mitgliederversammlung können von den Mitgliedern und dem Vorstand gestellt werden. Anträge von Mitgliedern müssen mindestens zwei Wochen vor deren Beginn beim Vorstand des BTFV unter Angabe von Gründen eingereicht werden. Über die Zulassung später eingehender Anträge und gestellte Dringlichkeitsanträge entscheidet die Mitgliederversammlung mit einfacher Stimmmehrheit.
-
-5. Die Art der Abstimmung wird grundsätzlich vom Versammlungsleiter festgesetzt. Die Abstimmung muss jedoch geheim durchgeführt werden, wenn ein Fünftel der erschienenen Mitglieder dies beantragt. Bei Personenwahlen ist gewählt, wer mehr als die Hälfte der abgegebenen Stimmen erhält. Leere Stimmzettel sind ungültig. Stimmenthaltungen bleiben außer Betracht. Wird die Mehrheit im ersten Wahlgang nicht erreicht, wird eine Stichwahl zwischen den beiden Bewerbern mit den höchsten Stimmzahlen durchgeführt.
-
-6. Über den Verlauf der Mitgliederversammlung ist vom Schriftführer eine Niederschrift zu fertigen, die vom Versammlungsleiter mit zu unterzeichnen ist. Die Niederschrift soll Ort und Zeit der Versammlung, eine Anwesenheitsliste der erschienen Mitglieder, die Person des Versammlungsleiters, die Tagesordnung, die Beschlüsse, die Abstimmungsergebnisse und die Art der Abstimmung enthalten.
-
-7. Die Niederschrift der Mitgliederversammlung ist mit einer Frist von vier Wochen auf der Homepage des Verbandes zu veröffentlichen.
-
-# Vorstand
-
-1. Der BTFV wird vom Vorstand geleitet und verwaltet. Dem Vorstand gehören an: 
-
-    geschäftsführender Vorstand:
-    <ol type="a">
-        <li>1. Vorsitzender</li>
-        <li>2. Vorsitzender</li>
-        <li>Schatzmeister/Kassier</li>
-        <li>Sportwart </li>
+        <li>die Delegiertenversammlung</li>
+        <li>das Präsidium</li>
     </ol>
 
-    erweiterter Vorstand:
+## § 10 Das Präsidium
+1. Dem Präsidium gehören an
     <ol type="a">
-        <li>Schriftführer</li>
-        <li>Jugendwart</li>
-        <li>Ligakoordinator Süd</li>
-        <li>Ligakoordinator Nord</li>
+        <li>der Präsident</li>
+        <li>der Vizepräsident</li>
+        <li>der Schatzmeister</li>
+        <li>der Schriftführer</li>
     </ol>
-2. Vorstand im Sinne des § 26 BGB ist der geschäftsführende Vorstand, wobei jeder alleine berechtigt ist, den BTFV gerichtlich und außergerichtlich zu vertreten.
-3. Die Ämter des geschäftsführenden Vorstandes dürfen nicht in Personalunion geführt werden. Im Übrigen ist Personalunion der weiteren Vorstandsämter zulässig.
-4. Die Mitglieder des Vorstandes werden von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Sie üben ihre Aufgaben bis zum Zeitpunkt der Wiederwahl aus. Die Wahl des 1. und 2. Vorsitzenden ist getrennt vorzunehmen.
-5. Sitzungen und Versammlungen der Organe werden vom 1. Vorsitzenden und im Falle seiner Verhinderung durch den 2. Vorsitzenden einberufen und geleitet. Eine Sitzung ist einzuberufen, wenn drei Vorstandsmitglieder dies verlangen.
-6. Das Vermögen wird vom Vorstand verwaltet. Dem Schatzmeister obliegt insbesondere die Überwachung der Einnahmen und Ausgaben. Einzelheiten regelt die Gebührenordnung in der jeweils geltenden Fassung. Für eine ordnungsgemäße Buchführung ist Sorge zu tragen. Die Buchführung ist mindestens einmal jährlich durch zwei gewählte Kassenprüfer zu prüfen. Alle Prüfungsberichte sind den Vorstandsmitgliedern innerhalb von zwei Wochen nach Beendigung der Prüfung schriftlich mitzuteilen.
-7. Die Mitglieder des Vorstandes sind berechtigt, an allen Sitzungen der Mitglieder teilzunehmen.
-8.  Der Vorstand fasst seine Beschlüsse mit einfacher Stimmmehrheit, bei Stimmgleichheit entscheidet die Stimme des 1. Vorsitzenden. Enthält sich dieser, gilt der Antrag als abgelehnt.
-9.  Bei Ausscheiden eines Vorstandsmitgliedes kann der Vorstand ein Mitglied berufen, welches die Aufgabe kommissarisch bis zur nächsten Mitgliederversammlung übernimmt.
-10. Die Abberufung eines Vorstandsmitgliedes bedarf einer Mehrheit von 2/3 der abgegebenen Stimmen.
-11. Über sämtliche Sitzungen müssen vom Schriftführer oder von einem Protokollführer Niederschriften gefertigt werden, die vom Sitzungsleiter zu unterzeichnen sind. Die Vorstandsmitglieder erhalten spätestens bei der nächsten Sitzung eine Protokollabschrift.
+2. Der Vorstand im Sinne des Paragraphen § 26 BGB besteht aus den Mitgliedern i) - iv)
+   des Präsidiums. Der Verein wird gerichtlich und außergerichtlich durch zwei
+   Vorstandsmitglieder gemeinsam vertreten.
+3. Die Ämter unter § 10.1 untereinander dürfen nicht in Personalunion geführt werden.
+4. Die Mitglieder des Präsidiums werden von der Delegiertenversammlung auf die Dauer
+   von zwei Jahren bis zum Zeitpunkt der Neu/Wiederwahl gewählt. Der alte Vorstand
+   führt sein Amt fort bis ein neuer Vorstand ins Amt gewählt wird. Sitzungen und
+   Versammlungen
+   werden vom Präsidenten, oder im Falle seiner Verhinderung, durch den
+   Vizepräsidenten einberufen und geleitet. Die Einladung zur Präsidiumssitzung kann
+   schriftlich, mündlich oder fernmündlich erfolgen. Einer Tagesordnung bedarf es bei
+   der Präsidiumssitzung nicht.
+5. Eine Sitzung des Präsidiums ist einzuberufen, wenn zwei Präsidiumsmitglieder dies
+   verlangen. Das Präsidium ist beschlussfähig, wenn mindestens zwei
+   Präsidiumsmitglieder anwesend sind.
+6. Das Vermögen wird vom Präsidium verwaltet, dem Schatzmeister obliegt insbesondere
+   die Überwachung der Einnahmen und Ausgaben. Für eine ordnungsgemäße
+   Buchführung ist Sorge zu tragen. Die Buchführung ist mindestens einmal jährlich
+   durch zwei gewählte Rechnungsprüfer zu prüfen. Alle Prüfungsberichte sind den
+   Präsidiumsmitgliedern innerhalb von zwei Wochen nach Beendigung der Prüfung
+   schriftlich mitzuteilen.
+7. Zur Erledigung der laufenden Verbandsgeschäfte ist eine Geschäftsstelle einzurichten,
+   die bei Notwendigkeit mit einem Geschäftsführer und notwendigen Mitarbeitern zu
+   besetzen ist. Bestellung und Entlassung des Geschäftsführers erfolgt durch das
+   Präsidium. Der Geschäftsführer nimmt an den Sitzungen der Organe des TFVSH beratend
+   teil. Er darf kein Amt innerhalb eines Organs des TFVSH bekleiden.
+8. Das Präsidium fasst seine Beschlüsse mit einfacher Stimmenmehrheit, bei
+   Stimmengleichheit
+   entscheidet die Stimme des Sitzungsleiters.
+9. Bei Ausscheiden eines Präsidiumsmitgliedes kann das Präsidium ein Mitglied berufen,
+   die Aufgabe kommissarisch bis zur nächsten Delegiertenversammlung zu übernehmen.
+10. Über die Beschlüsse des Präsidiums ist unter Angabe von Ort, Zeit und
+    Abstimmungsergebnis
+    jeweils eine Niederschrift anzufertigen, das vom Versammlungsleiter
+    und dem Protokollführer zu unterzeichnen ist.
 
-# Ehrenamtliche Tätigkeit
-
-Sämtliche Mitglieder der Organe des BTFV üben ihre Tätigkeit ehrenamtlich aus. Die im Interesse des Verbandes entstandenen Kosten werden entsprechend den Regelungen in der Gebührenordnung ersetzt.
-
-# Wahlen und Abstimmungen
-
-Grundsätzlich entscheidet die einfache Stimmenmehrheit, wobei ungültige Stimmen und Stimmenthaltungen nicht mitgezählt werden. Bei Stimmengleichheit entscheidet die Stimme des Sitzungsleiters. Enthält sich dieser, gilt der Antrag als abgelehnt.
-
-# Gremien
-
-1. Zur Erledigung besonderer Aufgaben des Bundes können Gremien gebildet werden.
-2. Dem Vorsitzenden des Gremiums obliegen die Einberufung, die Festsetzung der Tagesordnung und die Leitung der Sitzung. Das Gremium ist bei ordnungsgemäßer Einladung unter Bekanntgabe der Tagesordnung ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig. Es entscheidet mit einfacher Stimmenmehrheit. Bei Stimmengleichheit zählt die Stimme des Vorsitzenden. Enthält sich dieser, gilt der Antrag als abgelehnt.
-3. Es ist eine Niederschrift anzufertigen und vom Vorsitzenden des Gremiums zu unterzeichnen und dem Vorstand sowie den Mitgliedern des Ausschusses zu unterbreiten.
-
-# Satzungsänderungen
-
-Satzungsänderungen bedürfen einer 2/3-Mehrheit der abgegebenen Stimmen.
-
-# Schiedsgericht
-
-1. Das Schiedsgericht regelt Streitigkeiten im Liga- und Turnierbetrieb des BTFV und verhängt gegebenenfalls Sanktionen.
-2. Das Schiedsgericht besteht aus dem Sportwart sowie je zwei Beisitzern aus dem Ligabetrieb Süd und Nord.
-3. Das Schiedsgericht beschließt mit einfacher Mehrheit und ist beschlussfähig bei Anwesenheit von mindestens der Hälfte der Schiedsgerichtsmitglieder.
-4. Die Entscheidung ist den jeweiligen Personen nach der Schiedsgerichtssitzung schriftlich mitzuteilen.
-5. Mitglieder des Vorstandes oder des Schiedsgerichts sind nicht stimmberechtigt, wenn Belange des eigenen Vereins oder des Verbandes verhandelt werden.
-6. Einspruch gegen ein vom Schiedsgericht gefälltes Urteil ist nicht zulässig.
-7. Es können folgende Strafen ausgesprochen werden:
+## § 11 Die Delegiertenversammlung
+1. Die Delegiertenversammlung ist das oberste Verbandsorgan. Sie setzt sich zusammen
+   aus den Delegierten der Mitgliedsvereine (§ 6.2).
+2. Die Delegiertenversammlung ist zuständig für:
     <ol type="a">
-        <li>Verweis</li>
-        <li>Sperre</li>
-        <li>Geldstrafe bis zu 200 €</li>
-        <li>Punktabzug</li>
-        <li>Zwangsabstieg</li>
-        <li>Ausschluss aus dem BTFV</li>
+        <li>Entgegennehmen der Jahresberichte des Präsidiums</li>
+        <li>Wahl und Entlastung des Präsidiums</li>
+        <li>Wahl von zwei Rechnungsprüfern und einem Stellvertreter für zwei Jahre</li>
+        <li>Festlegung des Verbandsbeitrages</li>
+        <li>Satzungs-/Vorstandsänderungen</li>
+        <li>Ausschluss von Mitgliedern</li>
+        <li>Auflösung und Zweckänderungen des TFVSH</li>
     </ol>
+3. Die Delegiertenversammlung soll einmal in den ersten drei Monaten des
+   Geschäftsjahres
+   zusammentreten, zusätzlich, wenn das Präsidium es für erforderlich hält, oder
+   es 1/5 der Mitglieder schriftlich beantragt.
+   Die Delegiertenversammlung wird unter Bekanntgabe der Tagesordnung schriftlich
+   einberufen und wird vom Präsidenten oder dem Vizepräsidenten geleitet. Die
+   Einladungsfrist beträgt vier Wochen. Die Einladung gilt als zugegangen, wenn sie an
+   die letzte dem Vorstand bekannt gegebene Anschrift des Mitglieds gerichtet ist. Der
+   Versand via elektronischer Post in Textform (E-Mail) ist statthaft. Die Einladung gilt
+   dann als zugegangen, wenn sie an die letzte dem Vorstand bekannt gegebene E-Mail
+   Adresse des Mitglieds gerichtet ist. Fristbeginn ist der dem Absendetag folgende
+   Werktag. Anträge zu einer Delegiertenversammlung können von allen Mitgliedern
+   gestellt werden und müssen mindestens zwei Wochen vor deren Beginn bei der
+   Geschäftsstelle des TFVSH eingereicht werden. Solange keine Geschäftsstelle
+   eingerichtet ist, sind die Anträge an den Präsidenten zu richten. Über die Zulassung
+   später eingehender Anträge und gestellter Dringlichkeitsanträge entscheidet die
+   Delegiertenversammlung mit einfacher Stimmenmehrheit. Die Tagesordnung setzt der
+   Vorstand fest.
+4. Mit qualifizierter Mehrheit kann die Delegiertenversammlung beschließen, dass die
+   Wahlen, mit Ausnahme der Wahl des Präsidenten, auch durch Zuruf oder Handzeichen
+   durchgeführt werden. Die Wahl des Präsidenten wird durch schriftliche
+   Stimmabgabe durchgeführt.
+5. Über die Beschlüsse der Delegiertenversammlung ist unter Angabe von Ort, Zeit und
+   Abstimmungsergebnis jeweils eine Niederschrift anzufertigen. Die Niederschrift ist
+   vom Versammlungsleiter und dem Protokollführer zu unterschreiben.
+6. Die Delegiertenversammlung ist unabhängig von der anwesenden Mitgliederzahl
+   beschlussfähig. Grundsätzlich entscheidet die einfache Stimmenmehrheit, wobei
+   ungültige Stimmen und Stimmenthaltungen nicht mitgezählt werden. Bei
+   Stimmengleichheit entscheidet die Stimme des Sitzungsleiters, enthält sich dieser, gilt
+   der Antrag als abgelehnt.
 
-# Kassenprüfer
+## § 12 Satzungsänderung
+1. Satzungsänderungen bedürfen der Mehrheit von ¾ der anwesenden stimmberechtigten
+   Delegierten.
 
-1. Von der Mitgliederversammlung werden zwei Kassenprüfer auf die Dauer von zwei Jahren gewählt. Die Kassenprüfer dürfen nicht dem Vorstand angehören.
-2. Den von der Mitgliederversammlung gewählten Kassenprüfern ist jederzeit Einblick in die Geschäftsbücher und die Kasse des Verbandes zu gewähren. Sie haben die Buchführung, den Jahresabschluss und das Vermögen des Verbandes zu prüfen. Das Ergebnis ist schriftlich niederzulegen und der Mitgliederversammlung vorzulegen.
+## § 13 Ordnungen
+1. Ordnungen werden von der Delegiertenversammlung beschlossen und sind nicht
+   Bestandteil
+   der Satzung. Für eine Änderung ist eine einfache Mehrheit ausreichend.
 
-# Schadenshaftung
+## ~~§ 14 Zweckvermögen~~
+1. ~~Zur Erreichung der im § 2 verzeichneten Zwecke ist, soweit Überschuss der Einnahmen
+   über die Ausgaben erzielt wird, ein Zweckvermögen anzulegen.~~
+2. ~~kurzfristige notwendige Änderungen in der Spielordnung können darüber hinaus durch
+   den Vorstand beschlossen werden. Sie treten mit Ihrer Veröffentlichung in Kraft.~~  
+   (ersatzlos gestrichen)
 
-Der BTFV ist für den Schaden verantwortlich, den der Vorstand, die Mitglieder des Vorstandes oder ein anderer satzungsgemäß berufener Vertreter durch eine in Ausführung der ihm zustehenden Verrichtungen begangene, zum Schadensersatz verpflichtende Handlung, einem Dritten zufügt.
+## § 15 Auflösung und Zweckänderung des Verbandes
+1. Die Auflösung bzw. Zweckänderung des Verbandes erfolgt durch Beschluss der
+   Delegiertenversammlung,
+   wobei ¾ der abgegebenen Stimmen für die Auflösung bzw. Zweckänderung stimmen
+   müssen.
+2. Bei Auflösung des Verbandes, bei seinem Erlöschen oder Wegfall seines bisherigen
+   Zwecks fällt das Vermögen der Jugendarbeit des DTFB (Deutscher Tischfußball
+   Bund) zu, wobei der Beschluss über die künftige Verwendung des Vermögens erst
+   nach Einwilligung des Finanzamtes ausgeführt werden darf.
+3. Bei Verbandsauflösung sind die noch im Amt befindlichen Vorstandsmitglieder die
+   Liquidatoren. Jeder Liquidator vertritt den Verband allein.
 
-# Datenschutz
-
-1. Mit dem Beitritt einer Tischfußballvereinigung nimmt der Verband den Vereinssitz und den Namen der Tischfußballvereinigung sowie die Namen, Vornamen und Geburtsdaten der Mitglieder auf. Diese Informationen werden in dem verbandseigenen EDV-System gespeichert. Außerdem können die Daten auf den Computern der Vorstandsmitglieder gespeichert werden. Jedem Vereinsmitglied wird dabei eine Mitgliedsnummer zugeordnet. Die personenbezogenen Daten werden dabei durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt.
-2. Sonstige Informationen und Informationen über Nichtmitglieder werden von dem Vorstand grundsätzlich nur intern verarbeitet, wenn sie der Förderung des Vereinszwecks nützlich sind (z.B.: Speicherung von Telefon- und Faxnummern einzelner Mitglieder) und keine Anhaltspunkte bestehen, dass die betHere is the rest of the document reformatted according to the requirements:
-
-3. Mit dem Beitritt einer Tischfußballvereinigung nimmt der Verband den Vereinssitz und den Namen der Tischfußballvereinigung sowie die Namen, Vornamen und Geburtsdaten der Mitglieder auf. Diese Informationen werden in dem verbandseigenen EDV-System gespeichert. Außerdem können die Daten auf den Computern der Vorstandsmitglieder gespeichert werden. Jedem Vereinsmitglied wird dabei eine Mitgliedsnummer zugeordnet. Die personenbezogenen Daten werden dabei durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt.
-
-4. Sonstige Informationen und Informationen über Nichtmitglieder werden von dem Vorstand grundsätzlich nur intern verarbeitet, wenn sie der Förderung des Vereinszwecks nützlich sind (z.B.: Speicherung von Telefon- und Faxnummern einzelner Mitglieder) und keine Anhaltspunkte bestehen, dass die betroffene Person ein schutzwürdiges Interesse hat, das der Verarbeitung entgegensteht.
-
-# Ordnungen
-
-1. Ordnungen werden vom Vorstand beschlossen und sind nicht Bestandteil dieser Satzung. Für eine Änderung ist die einfache Mehrheit ausreichend. Die Mitglieder können eine vom Vorstand beschlossene Änderung bei der nächsten Mitgliederversammlung mit einfacher Stimmmehrheit rückgängig machen.
-
-2. Änderungen der Ordnungen treten mit ihrer Bekanntgabe in Kraft.
-
-3. Der BTFV hat folgende Ordnungen:
-    <ol type="a">
-        <li>Spielordnung</li>
-        <li>Gebührenordnung</li>
-    </ol>
-
-# Auflösung des Verbandes
-
-1. Die Auflösung des Verbandes erfolgt durch Beschluss der Mitgliederversammlung, wobei ¾ der abgegebenen Stimmen für die Auflösung stimmen müssen.
-
-2. Bei Auflösung des Verbandes, bei seinem Erlöschen oder Wegfall seines bisherigen Zwecks fällt das Vermögen der Jugendarbeit im Tischfußballsport zu, wobei der Beschluss über die künftige Verwendung des Vermögens erst nach Einwilligung des Finanzamtes ausgeführt werden darf.
-
-# Inkrafttreten
-
-1. Die Satzung wurde durch die Mitgliederversammlung am 26.11.2023 in Nürnberg beschlossen.
-
-2. Sie tritt mit der Eintragung in das Vereinsregister des Amtsgerichts in Kraft.
-
-3. Damit verliert die bisherige Satzung vom 05.11.2016 beim Amtsgericht Passau ihre Wirkung.
+## § 16 Inkrafttreten
+   Die Satzung tritt mit der Eintragung in das Vereinsregister des Amtsgerichtes Kiel in Kraft.
+   Die Neufassung wurde auf der Delegiertenversammlung vom 09.01.2017 beschlossen.
+   Die geänderten Bestimmungen der Satzung stimmen mit dem Beschluss über die
+   Satzungsänderungen und die unveränderten Bestimmungen mit dem zuletzt zum Register
+   eingereichten vollständigen Wortlaut der Satzung überein.
