@@ -1,6 +1,6 @@
-# BTFV Verbandsdokumente
+# TFVSH Verbandsdokumente
 
-Dieses Repository enthält die offiziellen Dokumente des Bayerischen Tischfußballverbands e.V. (BTFV) als Markdown-Dateien. Die Dokumente werden automatisch in PDF-Dateien umgewandelt und stehen zum Download bereit.
+Dieses Repository enthält die offiziellen Dokumente des Bayerischen Tischfußballverbands e.V. (TFVSH) als Markdown-Dateien. Die Dokumente werden automatisch in PDF-Dateien umgewandelt und stehen zum Download bereit.
 
 ## Inhalt
 
@@ -99,7 +99,7 @@ Bilder können mit folgender Syntax eingefügt werden:
 Beispiel:
 
 ```
-![BTFV Logo](images/btfv-logo.png)
+![TFVSH Logo](images/tfvsh-logo.png)
 ```
 
 ---
@@ -125,7 +125,7 @@ Bei jedem Push auf den `main`-Branch wird der [GitHub Actions Workflow](.github/
 3. Die PDFs werden im Ordner [`assets/pdf/`](assets/pdf/) gespeichert und ins Repository zurückgepusht.
 
 **Hinweis:**  
-Wenn das Repository auf eine Organisation (wie BTFV) umgezogen wurde, muss für GitHub Actions das "Workflow permissions" Feature aktiviert werden, damit der Workflow Änderungen (z.B. neue PDFs) auf den `main`-Branch pushen darf.  
+Wenn das Repository auf eine Organisation (wie TFVSH) umgezogen wurde, muss für GitHub Actions das "Workflow permissions" Feature aktiviert werden, damit der Workflow Änderungen (z.B. neue PDFs) auf den `main`-Branch pushen darf.  
 Gehe dazu in die Repository-Einstellungen unter  
 `Settings` → `Actions` → `General` → `Workflow permissions`  
 und aktiviere **"Read and write permissions"**.
