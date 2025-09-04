@@ -1,6 +1,6 @@
 # TFVSH Verbandsdokumente
 
-Dieses Repository enthält die offiziellen Dokumente des Bayerischen Tischfußballverbands e.V. (TFVSH) als Markdown-Dateien. Die Dokumente werden automatisch in PDF-Dateien umgewandelt und stehen zum Download bereit.
+Dieses Repository enthält die offiziellen Dokumente des Tischfußballverbands Schleswig-Holstein e.V. (TFVSH) als Markdown-Dateien. Die Dokumente werden automatisch in PDF-Dateien umgewandelt und stehen zum Download bereit.
 
 ## Inhalt
 
