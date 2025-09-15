@@ -6,7 +6,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
         <img src="images/tfvsh-logo.png" alt="TFVSH Logo" style="display: block; margin: 0 auto;width: 20%" />
-        Satzung des TFVSH e.V.
+        Satzung des Tischfußballverbandes Schleswig-Holstein e.V. (TFVSH)
     </div>
 
     <p style="text-align: center;">
