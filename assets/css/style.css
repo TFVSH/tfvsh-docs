@@ -6,6 +6,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 /* Stil für das Startbild in Markdown */
 img {
     max-width: 100%;
@@ -50,12 +51,10 @@ body {
 }
 
 #markdown-toc li a::before {
-    content: counters(item, ".") ". "; /* Zählt und fügt die Nummer zum Link hinzu */
     color: #146a1c;
 }
 
 #markdown-toc ul {
-    counter-reset: item;
     margin-left: 20px;
 }
 
@@ -150,20 +149,20 @@ li {
 }
 
 #back-to-top {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: #146a1c;
-            color: white;
-            padding: 10px 15px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-size: 14px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            display: none; /* Der Button wird standardmäßig ausgeblendet */
-            transition: background-color 0.3s ease;
-        }
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #146a1c;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: none; /* Der Button wird standardmäßig ausgeblendet */
+    transition: background-color 0.3s ease;
+}
 
 #back-to-top:hover {
-            background-color: #146a1c;
-        }
+    background-color: #146a1c;
+}
