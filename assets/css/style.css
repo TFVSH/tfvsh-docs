@@ -37,14 +37,12 @@ body {
 
 /* Stil für das Inhaltsverzeichnis (TOC) */
 #markdown-toc {
-    counter-reset: item;
     list-style-type: none;
     padding-left: 0;
     margin-bottom: 40px;
 }
 
 #markdown-toc li {
-    counter-increment: item;
     margin: 10px 0;
     font-size: 18px;
     line-height: 1.4;
@@ -55,6 +53,7 @@ body {
 }
 
 #markdown-toc ul {
+    list-style-type: none;
     margin-left: 20px;
 }
 
