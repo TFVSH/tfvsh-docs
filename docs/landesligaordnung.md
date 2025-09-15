@@ -25,7 +25,7 @@ header-includes:
 * TOC
 {:toc}
 
-# <p style="text-align: center">Landesliga-Ordnung des TFVSH</p>
+# Landesliga-Ordnung des TFVSH
 
 ## 1. Zweck
    Im Auftrag des DTFB veranstaltet der TFVSH einen regionalen Mannschafts-Ligabetrieb, der als

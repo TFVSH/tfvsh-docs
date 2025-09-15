@@ -25,7 +25,7 @@ header-includes:
 * TOC
 {:toc}
 
-# <p style="text-align: center">Spielordnung des Tischfußballverbands Schleswig-Holstein (TFVSH)</p>
+# Spielordnung des Tischfußballverbands Schleswig-Holstein (TFVSH)
 #### 
 1. Allgemeines  
    `(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)`  

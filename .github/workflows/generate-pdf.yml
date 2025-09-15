@@ -75,8 +75,7 @@ jobs:
           -V geometry:margin=1in \
           -V header-includes="\\usepackage{enumitem}" \
           --resource-path=./docs \
-          -f markdown+smart \
-          --number-sections=false
+          -f markdown+smart
 
         done
 

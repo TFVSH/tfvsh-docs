@@ -22,7 +22,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 {:toc}
 
 
-Satzung des Tischfußballverbandes Schleswig-Holstein e.V. (TFVSH)
+# Satzung des Tischfußballverbandes Schleswig-Holstein e.V. (TFVSH)
 ## § 1 Name, Sitz und Geschäftsjahr
 1. Der Verein führt den Namen
    > „Tischfußballverband Schleswig-Holstein“ (TFVSH)

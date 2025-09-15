@@ -18,19 +18,17 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
 </div>
 
-## <p style="text-align: center">Geschäftsordnung</p>
-<div style="text-align: center">des Tischfußballverbands Schleswig-Holstein</div>
-<div style="text-align: center">(nachfolgend TFVSH genannt)</div>
+# Geschäftsordnung des Tischfußballverbands Schleswig-Holstein (nachfolgend TFVSH genannt)
 
-### §1 Geltungsbereich
+## §1 Geltungsbereich
 1. Der TFVSH gibt sich zur Durchführung seiner Deligiertenversammlung diese Geschäftsordnung.  
 2. Deligiertenversammlungen sind nicht öffentlich. Auf Antrag und Beschluss der Versammlung kann Öffentlichkeit zugelassen werden.
 
-### §2 Einberufung
+## §2 Einberufung
 1. Die Einberufungsformalitäten sind in der Satzung des TFVSH geregelt.
 2. Der Vorstand und die Deligierten werden mit einer Ausfertigung des Einberufungsschreibens informiert.
 
-### §3 Deligierte
+## §3 Deligierte
 1. Die Vereine und Spielvereinigungen des TFVSH entsenden gemäß ihrer beim TFVSH
 gemeldeten Größe Deligierte in die Mitgliederversammlung.
 2. Bei 0–20 gemeldeten Spieler darf ein Verein oder eine Spielvereinigung einen Deligierten schicken. Für 21–40 Mitlgieder darf ein Verein zwei Deligierte stellen, usw.
@@ -38,10 +36,10 @@ gemeldeten Größe Deligierte in die Mitgliederversammlung.
 4. Es darf kein Mitglied alleine eine einfache Mehrheit der Deligierten stellen. Kann ein
 Mitglied bei einer Versammlung eine einfache Mehrheit stellen, stellt der Versammlungsleiter
 dies fest und fordert das Mitglied auf, die Zahl der stimmberechtigten Deligierten zu reduzieren.
-### §4 Beschlussfähigkeit 
+## §4 Beschlussfähigkeit 
 Die Deligiertenversammlung des TFVSH ist bei ordnungsgemäßer
 Einladung ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
-### §5 Inkrafttreten 
+## §5 Inkrafttreten 
 Diese Geschäftsordnung wurde von der Mitgliederversammlung am
 
 `26.01.2015` beschlossen und tritt am `26.01.2015` in Kraft.
