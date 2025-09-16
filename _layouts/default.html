@@ -12,7 +12,7 @@
     </div>
     
     <!-- Nach oben Button -->
-    <a href="#markdown-toc" id="back-to-top">Nach oben</a>
+    <button onclick="scrollToTop()" id="back-to-top">Nach oben</button>
 
     <script>
         // Script, um den Button bei Scrollen einzublenden
@@ -25,6 +25,13 @@
                 backToTopButton.style.display = "none"; // Versteckt den Button, wenn man oben ist
             }
         };
+
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth" // smooth scroll (remove for instant jump)
+            });
+        }
     </script>
 </body>
 </html>
