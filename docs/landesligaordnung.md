@@ -231,14 +231,3 @@ header-includes:
         3. In den Räumen der Spieltische muss striktes Rauchverbot herrschen.
         4. Der Spielort muss in Schleswig-Holstein liegen.
 
-<script class="html-only">
-document.querySelectorAll("h2, h3, h4").forEach(h => {
-  if (h.id) {
-    const a = document.createElement("a");
-    a.href = "#" + h.id;
-    a.textContent = " 🔗";
-    a.style.textDecoration = "none";
-    h.appendChild(a);
-  }
-});
-</script>

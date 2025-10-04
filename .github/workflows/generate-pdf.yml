@@ -35,7 +35,6 @@ jobs:
           
           # Remove HTML-only blocks for PDF generation
           sed -i '/<div class="html-only"/,/^<\/div>$/d' "temp/${name}_temp.md"
-          sed -i '/<script class="html-only"/,/^<\/script>$/d' "temp/${name}_temp.md"
         
           sed -i '
           s|<ol type="a">|\\begin{enumerate}[label=\\alph*.]|g;

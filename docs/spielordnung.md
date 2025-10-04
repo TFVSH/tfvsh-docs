@@ -285,14 +285,3 @@ header-includes:
             1. Sobald ein Spieler seinen Startplatz nicht annimmt wird über die Landesrangliste
             nachgerückt. Es gibt kein Nachrücken über die Tabelle der Landesmeisterschaft mehr.
 
-<script class="html-only">
-document.querySelectorAll("h2, h3, h4").forEach(h => {
-  if (h.id) {
-    const a = document.createElement("a");
-    a.href = "#" + h.id;
-    a.textContent = " 🔗";
-    a.style.textDecoration = "none";
-    h.appendChild(a);
-  }
-});
-</script>

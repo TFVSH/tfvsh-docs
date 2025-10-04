@@ -304,14 +304,3 @@ date: {{ site.time | date: "%d-%m-%Y" }}
    Satzungsänderungen und die unveränderten Bestimmungen mit dem zuletzt zum Register
    eingereichten vollständigen Wortlaut der Satzung überein.
 
-<script class="html-only">
-document.querySelectorAll("h2, h3, h4").forEach(h => {
-  if (h.id) {
-    const a = document.createElement("a");
-    a.href = "#" + h.id;
-    a.textContent = " 🔗";
-    a.style.textDecoration = "none";
-    h.appendChild(a);
-  }
-});
-</script>
