@@ -199,16 +199,15 @@ h6:hover .heading-anchor,
 .anchor-tooltip {
     position: fixed;
     bottom: 20px;
-    left: 50%;
+    left: 20px;
     background: #146a1c;
     color: #fff;
     font-size: 0.75rem;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
-    margin-left: 0.5rem;
     white-space: nowrap;
     opacity: 0;
-    transform: translateX(-50%);
+    margin: 0 auto;
     transition: opacity 120ms ease, transform 120ms ease;
     pointer-events: none;
 }
