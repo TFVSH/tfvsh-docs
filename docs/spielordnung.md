@@ -277,7 +277,7 @@ header-includes:
    3. Qualifikationskette inkl. Nachrückverfahren in absteigender Reihenfolge zu beachten
         1. ITFS Rangliste
         2. DTFB Rangliste
-        3. (Sieger Einzel LM | Landesranglistenerster) + Partner seiner Wahl
+        3. (Sieger Einzel LM &#124; Landesranglistenerster) + Partner seiner Wahl
         4. Sieger Doppel LM.
             1. Wenn einer aus dem Siegerdoppel nicht zur DM fährt darf der Verbleibende Sieger
             mit seinem Partner seiner Wahl fahren
