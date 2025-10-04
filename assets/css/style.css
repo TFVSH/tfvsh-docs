@@ -224,6 +224,7 @@ h6:hover .heading-anchor,
 
 /* optional: make icon slightly dim until hover */
 .heading-anchor .anchor-icon {
+    height: 28px;
     opacity: 0.75;
     transition: opacity 120ms;
 }
