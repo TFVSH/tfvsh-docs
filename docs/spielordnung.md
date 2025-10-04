@@ -26,7 +26,7 @@ header-includes:
 {:toc}
 
 # Spielordnung des Tischfußballverbands Schleswig-Holstein (TFVSH)
-#### 
+
 1. Allgemeines  
    `(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)`  
     1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
