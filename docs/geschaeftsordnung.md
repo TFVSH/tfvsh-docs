@@ -1,6 +1,6 @@
 ﻿---
 title: "Geschäftsordnung des TFVSH e.V."
-author: "![TFVSH Logo](images/tfvsh-logo.png)"
+author: "![TFVSH Logo](images/tfvsh-logo-20.png)"
 date: {{ site.time | date: "%d-%m-%Y" }}
 ---
 <div class="html-only" style="text-align: center;">
