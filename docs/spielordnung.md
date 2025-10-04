@@ -29,23 +29,23 @@ header-includes:
 
 ## 1. Allgemeines  
    `(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)`  
-    1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
+   1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
    Schleswig-Holstein e.V. eigene Veranstaltungen geregelt.
-    2. Begrifflichkeiten:
-        + Der "Tischfußballverband Schleswig-Holstein e.V." wird nachstehend TFVSH genannt. 
-        + Der "Deutscher Tischfußballbund e.V.", auch "DTFB e.V.", wird nachstehend DTFB genannt. 
-        + Die "International Table Soccer Federation", wird nachstehend ITSF genannt.
-        + "Schleswig-Holstein" wird nachstehend SH genannt.
+   2. Begrifflichkeiten:  
+        + Der "Tischfußballverband Schleswig-Holstein e.V." wird nachstehend TFVSH genannt.   
+        + Der "Deutscher Tischfußballbund e.V.", auch "DTFB e.V.", wird nachstehend DTFB genannt.   
+        + Die "International Table Soccer Federation", wird nachstehend ITSF genannt.  
+        + "Schleswig-Holstein" wird nachstehend SH genannt.  
         + Als Veranstalter der offiziellen Wettbewerbe wie “Landesliga Schleswig-Holstein”, 
-       “Landespokal Schleswig-Holstein“, “Landesmeisterschaft Schleswig-Holstein” gilt der TFVSH.
+       “Landespokal Schleswig-Holstein“, “Landesmeisterschaft Schleswig-Holstein” gilt der TFVSH.  
         + Der Begriff "Spieler" ist in dieser Spielordnung ohne Wertung geschlechtlich 
-       neutral verwendet. Es sind damit sowohl weibliche als auch männliche Spieler gemeint.
-        + „Startkategorie“ bezieht sich auf Damen, Herren, Junioren und Senioren Einzel/Dopppel.
-    3. Die Teilnahme an sportlichen Veranstaltungen des TFVSH ist in der Spielordnung 
+       neutral verwendet. Es sind damit sowohl weibliche als auch männliche Spieler gemeint.  
+        + „Startkategorie“ bezieht sich auf Damen, Herren, Junioren und Senioren Einzel/Dopppel.  
+   3. Die Teilnahme an sportlichen Veranstaltungen des TFVSH ist in der Spielordnung 
    oder der jeweiligen Ausschreibung geregelt.
-    4. Die zugelassenen Spielgeräte bei TFVSH Veranstaltungen sind in der Spielordnung
+   4. Die zugelassenen Spielgeräte bei TFVSH Veranstaltungen sind in der Spielordnung
    oder der jeweiligen Ausschreibung geregelt.
-    5. Die Gesamtleitung des Spielbetriebes des Verbandes obliegt dem Vorstand des
+   5. Die Gesamtleitung des Spielbetriebes des Verbandes obliegt dem Vorstand des
    TFVSH. Sobald ein Sportwart im TFVSH gewählt oder berufen wird, obliegt die
    Gesamtleitung des Spielbetriebes dem Sportwart des TFVSH.
 
