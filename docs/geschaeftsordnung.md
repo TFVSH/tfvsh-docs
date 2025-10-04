@@ -18,6 +18,8 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
 </div>
 
+\newpage
+
 # Geschäftsordnung des Tischfußballverbands Schleswig-Holstein (nachfolgend TFVSH genannt)
 
 ## §1 Geltungsbereich
