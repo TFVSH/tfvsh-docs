@@ -1,6 +1,6 @@
 ---
 title: "Spielordnung des TFVSH"
-author: "![TFVSH Logo](images/tfvsh-logo-20.png)"
+author: "![TFVSH Logo](images/tfvsh-logo.png){width=50%}"
 date: {{ site.time | date: "%d-%m-%Y" }}
 header-includes:
   - \usepackage{fancyhdr}
@@ -270,7 +270,7 @@ header-includes:
 
 ## 18. Qualifikation zur Deutschen Meisterschaft
    1. Die Regeln zur Qualifikation sind dem DTFB zu entnehmen:  
-    https://dtfb.de/index.php/deutsche-meisterschaft/qualifikationsregeln
+    [https://dtfb.de/index.php/deutsche-meisterschaft/qualifikationsregeln](https://dtfb.de/index.php/deutsche-meisterschaft/qualifikationsregeln)
    2. Teilnahmekriterien des Landesverbandes:
         1. Ein Partner seiner Wahl muss mindestens 5 Ranglistenturniere im Qualifikationszeitraum
         beim TFVSH gespielt haben.
