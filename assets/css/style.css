@@ -166,3 +166,65 @@ li {
 #back-to-top:hover {
     background-color: #146a1c;
 }
+
+/* anchor icon styling */
+.heading-anchor {
+    text-decoration: none;       /* remove underline */
+    margin-left: 0.5rem;
+    opacity: 0.0;                /* hide by default */
+    transition: opacity 150ms ease, transform 150ms ease;
+    font-size: 0.9em;
+    color: inherit;              /* match heading color */
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+/* reveal when heading hovered or anchor focused */
+h1:hover .heading-anchor,
+h2:hover .heading-anchor,
+h3:hover .heading-anchor,
+h4:hover .heading-anchor,
+h5:hover .heading-anchor,
+h6:hover .heading-anchor,
+.heading-anchor:focus {
+    opacity: 1;
+    transform: translateY(-1px);
+}
+
+/* make anchor keyboard-focus visible */
+.heading-anchor:focus {
+    outline: 2px solid #9fc5ff;
+    outline-offset: 2px;
+}
+
+/* tooltip */
+.heading-anchor .anchor-tooltip {
+    background: #222;
+    color: #fff;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    margin-left: 0.5rem;
+    white-space: nowrap;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 120ms ease, transform 120ms ease;
+    pointer-events: none;
+}
+
+/* show tooltip when we add .visible */
+.heading-anchor .anchor-tooltip.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* optional: make icon slightly dim until hover */
+.heading-anchor .anchor-icon {
+    opacity: 0.75;
+    transition: opacity 120ms;
+}
+.heading-anchor:hover .anchor-icon,
+.heading-anchor:focus .anchor-icon {
+    opacity: 1;
+}
