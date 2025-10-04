@@ -14,6 +14,7 @@
     <!-- Nach oben Button -->
     <button onclick="scrollToTop()" id="back-to-top">Nach oben</button>
 
+    <span class="anchor-tooltip">Copied!</span>
     <script>
         // Script, um den Button bei Scrollen einzublenden
         const backToTopButton = document.getElementById("back-to-top");
@@ -89,10 +90,7 @@
                 a.appendChild(icon);
 
                 // Tooltip element
-                const tooltip = document.createElement('span');
-                tooltip.className = 'anchor-tooltip';
-                tooltip.textContent = 'Copied!';
-                a.appendChild(tooltip);
+                const tooltip = document.querySelector('span.anchor-tooltip');
 
                 // Click handler: copy full URL (origin + path + fragment)
                 a.addEventListener('click', function (ev) {
