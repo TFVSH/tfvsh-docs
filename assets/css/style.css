@@ -195,12 +195,6 @@ h6:hover .heading-anchor,
     transform: translateY(-1px);
 }
 
-/* make anchor keyboard-focus visible */
-.heading-anchor:focus {
-    outline: 2px solid #9fc5ff;
-    outline-offset: 2px;
-}
-
 /* tooltip */
 .heading-anchor .anchor-tooltip {
     background: #146a1c;
