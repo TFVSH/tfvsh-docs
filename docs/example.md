@@ -266,3 +266,15 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
+<script class="html-only">
+document.querySelectorAll("h2, h3, h4").forEach(h => {
+  if (h.id) {
+    const a = document.createElement("a");
+    a.href = "#" + h.id;
+    a.textContent = " 🔗";
+    a.style.textDecoration = "none";
+    h.appendChild(a);
+  }
+});
+</script>

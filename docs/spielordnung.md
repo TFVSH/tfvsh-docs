@@ -27,7 +27,7 @@ header-includes:
 
 # Spielordnung des Tischfußballverbands Schleswig-Holstein (TFVSH)
 
-1. Allgemeines  
+## 1. Allgemeines  
    `(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)`  
     1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
    Schleswig-Holstein e.V. eigene Veranstaltungen geregelt.
@@ -49,7 +49,7 @@ header-includes:
    TFVSH. Sobald ein Sportwart im TFVSH gewählt oder berufen wird, obliegt die
    Gesamtleitung des Spielbetriebes dem Sportwart des TFVSH.
 
-2. Sonderregeln wegen noch geringer Teilnehmerzahlen
+## 2. Sonderregeln wegen noch geringer Teilnehmerzahlen
    1. Im bislang bzgl. Tischfußball strukturschwachen Bundesland Schleswig-Holstein, ist
    noch nicht jede Spielergemeinschaft (z. B. für die Landesliga) in der rechtlichen Form des
    Vereins organisiert, obwohl dies angestrebt wird. An Stellen, wo explizit dazwischen
@@ -74,11 +74,11 @@ header-includes:
         2. Spieler mit Wohnsitz außerhalb SH können nur über einen in SH ansässigen Verein
         Verbandsmitglied werden.
 
-3. Spielberechtigung
+## 3. Spielberechtigung
    1. Spielberechtigt ist, wer beim TFVSH gemeldet ist und die Mitgliedsgebühren für das
    laufende Kalenderjahr entrichtet wurden.
 
-4. Erforderliche Dinge für die Anmeldung eines Spielers beim Verband
+## 4. Erforderliche Dinge für die Anmeldung eines Spielers beim Verband
    1. Vor- und Nachname, Geschlecht, Geburtsdatum und eine E-Mail-Adresse.
    2. Der Saisonbeitrag muss auf dem Konto des TFVSH eingegangen sein, eine eindeutige
    Zuordnung zum Spieler muss möglich sein. Alternativ kann dem TFVSH eine
@@ -93,7 +93,7 @@ header-includes:
    einverstanden so kann es 14 Tage nach Eingang der Informationen aus 4. iv seine
    Mitgliedschaft widerrufen und bekommt seinen Beitrag zurückerstattet.
 
-5. Gültigkeitsdauer
+## 5. Gültigkeitsdauer
    1. Die Saison des DTFB und damit auch des TFVSH entspricht dem Kalenderjahr.
    2. Die Gültigkeitsdauer einer Meldung gilt für die Dauer der Saison, für die die Meldung
    stattgefunden hat.
@@ -103,7 +103,7 @@ header-includes:
    Spielberechtigung.
    4. Eine automatische Verlängerung der Meldung in die folgende Saison findet nicht statt.
 
-6. Rückmeldung zur Verlängerung
+## 6. Rückmeldung zur Verlängerung
    1. Es handelt sich auch um eine Rückmeldung, wenn der Spieler vorher in einem anderen
    Landesverband gemeldet war. Die Zuordnung der DTFB Spielernummer bleibt trotz
    Wechsel erhalten.
@@ -114,15 +114,15 @@ header-includes:
    Barzahlung an ein Mitglied des Präsidiums des TFVSH oder einer bevollmächtigten Person
    durch den TFVSH bezahlt werden.
 
-7. Organisation des Spielbetriebes
+## 7. Organisation des Spielbetriebes
    1. Es gelten bis auf Weiteres die tagesaktuell gültigen Spielregeln des ITSF.
    2. Nur in den Punkten, in denen in dieser Spielordnung ausdrücklich davon abgewichen
    wird, hat diese Spielordnung Vorrang.
 
-8. Landesliga Schleswig-Holstein
+## 8. Landesliga Schleswig-Holstein
    Die Landesliga wird in der Landesliga-Ordnung des TFVSH geregelt.
 
-9. Landesmeisterschaft Schleswig-Holstein
+## 9. Landesmeisterschaft Schleswig-Holstein
    1. Ehrung der Sieger und Qualifikation zur Deutschen Meisterschaft
         1. Der TFVSH richtet einmal in jeder Saison Einzel- und Doppelmeisterschaften aus, im
         Sinne der Spielordnung des DTFB, die als Qualifikationsturniere für die Deutschen Einzelund Doppelmeisterschaften (für Damen und Herren, Juniorinnen und Junioren, Seniorinnen
@@ -154,74 +154,73 @@ header-includes:
         angepasst werden.
         6. Sportbekleidung ist während der Teilnahme an der Landesmeisterschaft Pflicht.
 
-10. Landesrangliste
-    1. Zu den TFVSH-Ranglistenturnieren zählen alle vom TFVSH ausgerichteten
-    Ranglistenturniere:
+## 10. Landesrangliste
+   1. Zu den TFVSH-Ranglistenturnieren zählen alle vom TFVSH ausgerichteten Ranglistenturniere:
         1. Mini-Challenger-Turniere
         2. Challenger-Turniere (DTFB),
         3. Pro-Tour-Turniere (ITSF)
         4. Master-Series-Turniere (ITSF)
-    2. Jeder Mitgliedsverein des TFVSH kann sich um die Austragung solcher Turniere
+   2. Jeder Mitgliedsverein des TFVSH kann sich um die Austragung solcher Turniere
     bewerben. Der TFVSH-Vorstand entscheidet über die Vergabe.
-    3. TFVSH-Ranglistenturniere dürfen nur auf offiziellen TFVSH-Spieltischen
+   3. TFVSH-Ranglistenturniere dürfen nur auf offiziellen TFVSH-Spieltischen
     ausgetragen werden. Für DTFB- und ITSF-Turniere dürfen Tische nach deren Vorgabe
     genutzt werden.
-    4. Der Ausrichter hat dafür sorge zu tragen, dass die Spieltische während des Turniers
+   4. Der Ausrichter hat dafür sorge zu tragen, dass die Spieltische während des Turniers
     durchgehend für den Spiel- und Trainingsbetrieb münzeinwurffrei sind.
-    5. Die Ergebnisse sind spätestens am nächsten Tag nach Turnierende an den TFVSH
+   5. Die Ergebnisse sind spätestens am nächsten Tag nach Turnierende an den TFVSH
     zu melden bzw. über die Webseite des TFVSH (www.tfvsh.de) online einzupflegen. Für die
     Ausrichtung ist die „TIFU-Software“, “Kickertool” oder alle vom DTFB zugelassenen
     Turniersoftwareprogramme in der aktuellen Version zu benutzen, da sie fortlaufende
     Platzierungen berechnet und mit einem Datenimport auf der TFVSH-Webseite kompatibel
     ist. Sie wird dem TFVSH kostenfrei vom DTFB zur Verfügung gestellt, der diese an
     Mitgliedsvereine weiter geben darf.
-    6. Die besten 10 Turnier Ergebnisse jedes Ranglistenturnierspielers ergeben die
+   6. Die besten 10 Turnier Ergebnisse jedes Ranglistenturnierspielers ergeben die
     Platzierung.
-    7. Das jeweilige Ranglistenturnier muss mindestens 7 Tage vor Beginn auf www.tfvsh.de
+   7. Das jeweilige Ranglistenturnier muss mindestens 7 Tage vor Beginn auf www.tfvsh.de
     unter Termine angekündigt werden. Regeltermine müssen nur einmalig angekündigt
     werden, wobei bei ausfallen eines Termins mindestens 3 Tage vor Turnierstart auf www.
     Tfvsh.de das Ausfallen bekannt gegeben werden muss.
-    8. Ranglisten-Turniere können als Einzel- und/oder Doppelturnier ausgetragen werden.
+   8. Ranglisten-Turniere können als Einzel- und/oder Doppelturnier ausgetragen werden.
     Die erreichten Punkte werden wie folgt gewichtet:
         + Mini-Challenger 50%
         + Mini-Challenger : Dyp ohne K.O. Runde 25%
         + Challenger 100%
 
-11. Challenger
-    1. Der TFVSH richtet Challenger in der vom DTFB geregelten Form aus.
-    2. Die Ergebnisse werden an den DTFB übermittelt, der sie u. a. für die deutsche
+## 11. Challenger
+   1. Der TFVSH richtet Challenger in der vom DTFB geregelten Form aus.
+   2. Die Ergebnisse werden an den DTFB übermittelt, der sie u. a. für die deutsche
     Rangliste verwertet.
-    3. Details zum Modus der Challenger können in den Statuten des DTFB nachgelesen
+   3. Details zum Modus der Challenger können in den Statuten des DTFB nachgelesen
     werden.
-    4. Tischfußballvereine in SH können sich auf die Ausrichtung von Challenger beim
+   4. Tischfußballvereine in SH können sich auf die Ausrichtung von Challenger beim
     TFVSH bewerben.
 
-12. Betreute Turniere
-    1. Betreute Turniere sind solche, bei denen der TFVSH nicht selber als Veranstalter
+## 12. Betreute Turniere
+   1. Betreute Turniere sind solche, bei denen der TFVSH nicht selber als Veranstalter
     auftritt, aber Unterstützung anbietet.
-    2. Eine solche Unterstützung kann z. B. geschehen durch Hilfe bei der Ankündigung, bei
+   2. Eine solche Unterstützung kann z. B. geschehen durch Hilfe bei der Ankündigung, bei
     der Organisation, oder durch das zur Verfügung stellen von Verbandstischen. Ein Beispiel
     für betreute Turniere sind Challenger, die von dem Verband angehörenden Vereinen
     ausgerichtet werden.
-    3. Stadtmeisterschaften
+   3. Stadtmeisterschaften
         1. Stadtmeisterschaften können von Vereinen vor Ort in Absprache mit dem TFVSH
         ausgerichtet werden.
         2. Der TFVSH tritt dabei nur beratend auf, falls dafür Bedarf besteht.
         3. Der TFVSH bietet für die Umsetzung als Unterstützung die Nutzung von
         Verbandstischen an.
 
-13. Sonstige Wettbewerbe
-    1. Darüber hinaus können beliebige weitere Wettbewerbe veranstaltet werden.
+## 13. Sonstige Wettbewerbe
+   1. Darüber hinaus können beliebige weitere Wettbewerbe veranstaltet werden.
 
-14. Richtlinien zum Spielbetrieb
-    1. Saison
+## 14. Richtlinien zum Spielbetrieb
+   1. Saison
         1. Die Saison des TFVSH beginnt am ~~01.12.~~ 01.01. eines jeden Jahres und endet mit
         dem ~~30.11.~~ 31.12. des ~~nächsten~~ selben Jahres.
         2. ~~Die Ranglistenturniersaison beginnt nach der Austragung einer Landesmeisterschaft und
         endet mit der nächsten Landesmeisterschaft.~~
         3. Die Landesmeisterschaft muss einen Monat vor Meldeschluss zur Deutschen
         Meisterschaft abgeschlossen sein. Sofern kein Pflichttermin vom DTFB vorgeschrieben ist.
-    2. Material
+   2. Material
         1. Spieltische  
         Für die vom TFVSH ausgerichteten Veranstaltungen sind als Spieltische zugelassen:
             + DTFB Partnertische
@@ -247,35 +246,35 @@ header-includes:
             Absprache mit der Turnierleitung erlaubt.
             + Der Gebrauch von Magnesium, Zinkoxid oder ähnlichen Hilfsmitteln ist verboten.
 
-15. Änderungen der Spielordnung
-    1. Anträge auf Änderungen der Spielordnung sind beim TFVSH-Vorstand schriftlich
+## 15. Änderungen der Spielordnung
+   1. Anträge auf Änderungen der Spielordnung sind beim TFVSH-Vorstand schriftlich
     einzureichen. Sie sind vom Vorstand in der Mitgliederversammlung vorzutragen.
-    2. Die Mitgliederversammlung kann Änderungen der Spielordnung mit einfacher
+   2. Die Mitgliederversammlung kann Änderungen der Spielordnung mit einfacher
     Mehrheit der anwesenden stimmberechtigten Delegierten beschließen.
-    3. Kurzfristig notwendige Änderungen der Spielordnung sind jederzeit durch den
+   3. Kurzfristig notwendige Änderungen der Spielordnung sind jederzeit durch den
     Vorstand möglich.
 
-16. Inkrafttreten
-    1. Diese Spielordnung tritt mit sofortiger Wirkung in Kraft. Mit dem gleichen Zeitpunkt
+## 16. Inkrafttreten
+   1. Diese Spielordnung tritt mit sofortiger Wirkung in Kraft. Mit dem gleichen Zeitpunkt
     tritt die bisherige Spielordnung außer Kraft.
-    2. Änderungen und Ergänzungen sind den Mitgliedern des Tischfußballverbands
+   2. Änderungen und Ergänzungen sind den Mitgliedern des Tischfußballverbands
     Schleswig-Holstein mitzuteilen und treten zu diesem Zeitpunkt in Kraft.
 
-17. Spieler einer Delegation
-    Wenn eine Delegation oder einzelne Spieler vom TFVSH entsandt, um bei einem
-    Wettbewerb (Deutsche Meisterschaft, Länderpokal oder vergleichbarem) anzutreten, dürfen
-    keine TFVSH-fremden Trikots getragen werden. TFVSH-fremde Trikots sind alle die nicht
-    zu Vereinen des TFVSH oder TFVSH selbst angehören.
-    Ein Verstoß kann vom Vorstand mit einem Ausschluss vom nächsten Wettbewerb geahndet
-    werden.
+## 17. Spieler einer Delegation
+   Wenn eine Delegation oder einzelne Spieler vom TFVSH entsandt, um bei einem
+   Wettbewerb (Deutsche Meisterschaft, Länderpokal oder vergleichbarem) anzutreten, dürfen
+   keine TFVSH-fremden Trikots getragen werden. TFVSH-fremde Trikots sind alle die nicht
+   zu Vereinen des TFVSH oder TFVSH selbst angehören.
+   Ein Verstoß kann vom Vorstand mit einem Ausschluss vom nächsten Wettbewerb geahndet
+   werden.
 
-18. Qualifikation zur Deutschen Meisterschaft
-    1. Die Regeln zur Qualifikation sind dem DTFB zu entnehmen:  
+## 18. Qualifikation zur Deutschen Meisterschaft
+   1. Die Regeln zur Qualifikation sind dem DTFB zu entnehmen:  
     https://dtfb.de/index.php/deutsche-meisterschaft/qualifikationsregeln
-    2. Teilnahmekriterien des Landesverbandes:
+   2. Teilnahmekriterien des Landesverbandes:
         1. Ein Partner seiner Wahl muss mindestens 5 Ranglistenturniere im Qualifikationszeitraum
         beim TFVSH gespielt haben.
-    3. Qualifikationskette inkl. Nachrückverfahren in absteigender Reihenfolge zu beachten
+   3. Qualifikationskette inkl. Nachrückverfahren in absteigender Reihenfolge zu beachten
         1. ITFS Rangliste
         2. DTFB Rangliste
         3. (Sieger Einzel LM | Landesranglistenerster) + Partner seiner Wahl
@@ -285,3 +284,15 @@ header-includes:
         5. Nachrücker über die Landesrangliste
             1. Sobald ein Spieler seinen Startplatz nicht annimmt wird über die Landesrangliste
             nachgerückt. Es gibt kein Nachrücken über die Tabelle der Landesmeisterschaft mehr.
+
+<script class="html-only">
+document.querySelectorAll("h2, h3, h4").forEach(h => {
+  if (h.id) {
+    const a = document.createElement("a");
+    a.href = "#" + h.id;
+    a.textContent = " 🔗";
+    a.style.textDecoration = "none";
+    h.appendChild(a);
+  }
+});
+</script>
