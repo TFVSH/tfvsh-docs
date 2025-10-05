@@ -32,15 +32,15 @@ header-includes:
    1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
    Schleswig-Holstein e.V. eigene Veranstaltungen geregelt.
    2. Begrifflichkeiten:  
-        + Der "Tischfußballverband Schleswig-Holstein e.V." wird nachstehend TFVSH genannt.   
-        + Der "Deutscher Tischfußballbund e.V.", auch "DTFB e.V.", wird nachstehend DTFB genannt.   
-        + Die "International Table Soccer Federation", wird nachstehend ITSF genannt.  
-        + "Schleswig-Holstein" wird nachstehend SH genannt.  
-        + Als Veranstalter der offiziellen Wettbewerbe wie “Landesliga Schleswig-Holstein”, 
+      - Der "Tischfußballverband Schleswig-Holstein e.V." wird nachstehend TFVSH genannt.   
+      - Der "Deutscher Tischfußballbund e.V.", auch "DTFB e.V.", wird nachstehend DTFB genannt.   
+      - Die "International Table Soccer Federation", wird nachstehend ITSF genannt.  
+      - "Schleswig-Holstein" wird nachstehend SH genannt.  
+      - Als Veranstalter der offiziellen Wettbewerbe wie “Landesliga Schleswig-Holstein”, 
        “Landespokal Schleswig-Holstein“, “Landesmeisterschaft Schleswig-Holstein” gilt der TFVSH.  
-        + Der Begriff "Spieler" ist in dieser Spielordnung ohne Wertung geschlechtlich 
+      - Der Begriff "Spieler" ist in dieser Spielordnung ohne Wertung geschlechtlich 
        neutral verwendet. Es sind damit sowohl weibliche als auch männliche Spieler gemeint.  
-        + „Startkategorie“ bezieht sich auf Damen, Herren, Junioren und Senioren Einzel/Dopppel.  
+      - „Startkategorie“ bezieht sich auf Damen, Herren, Junioren und Senioren Einzel/Dopppel.  
    3. Die Teilnahme an sportlichen Veranstaltungen des TFVSH ist in der Spielordnung 
    oder der jeweiligen Ausschreibung geregelt.
    4. Die zugelassenen Spielgeräte bei TFVSH Veranstaltungen sind in der Spielordnung
@@ -182,9 +182,9 @@ header-includes:
     Tfvsh.de das Ausfallen bekannt gegeben werden muss.
    8. Ranglisten-Turniere können als Einzel- und/oder Doppelturnier ausgetragen werden.
     Die erreichten Punkte werden wie folgt gewichtet:
-        + Mini-Challenger 50%
-        + Mini-Challenger : Dyp ohne K.O. Runde 25%
-        + Challenger 100%
+      - Mini-Challenger 50%
+      - Mini-Challenger : Dyp ohne K.O. Runde 25%
+      - Challenger 100%
 
 ## 11. Challenger
    1. Der TFVSH richtet Challenger in der vom DTFB geregelten Form aus.
@@ -223,28 +223,28 @@ header-includes:
    2. Material
         1. Spieltische  
         Für die vom TFVSH ausgerichteten Veranstaltungen sind als Spieltische zugelassen:
-            + DTFB Partnertische
-            + ITFS Partnertische (official und recognized)
-            + Über Anträge zu anderen Tischtypen kann der Landesverband TFVSH, im Sinne der
+            - DTFB Partnertische
+            - ITFS Partnertische (official und recognized)
+            - Über Anträge zu anderen Tischtypen kann der Landesverband TFVSH, im Sinne der
             Förderung des Sports in der strukturschwachen Tischfußballregion Schleswig-Holstein, frei
             entscheiden. Dafür wird ein beratendes aber nicht bindendes Stimmungsbild der Mitglieder
             des Verbandes eingeholt.
         2. Spielbälle
-            + Auf den Tischen wird der für den jeweiligen Tischtyp vorgesehene offizielle ITSF-Ball
+            - Auf den Tischen wird der für den jeweiligen Tischtyp vorgesehene offizielle ITSF-Ball
             gespielt. Bzw. bei nicht ITSF Tischen der vom Hersteller des Tisches für den Turnierbetrieb
             vorgesehene Ball.
-            + Die eingesetzten Bälle haben in einem neuwertigen Zustand zu sein.
+            - Die eingesetzten Bälle haben in einem neuwertigen Zustand zu sein.
         3. Originalkomponenten  
-            + Die Spieltische müssen mit Originalkomponenten bestückt sein.
+            - Die Spieltische müssen mit Originalkomponenten bestückt sein.
         4. Schmiermittel
-            + Der Eigentümer des Spieltisches trifft die Entscheidung ob Silikonöl oder Pronto als
+            - Der Eigentümer des Spieltisches trifft die Entscheidung ob Silikonöl oder Pronto als
             Schmiermittel zum Einsatz kommen soll.
-            + Auf Wunsch der Gastmannschaft muss die Heimmannschaft das entsprechende
+            - Auf Wunsch der Gastmannschaft muss die Heimmannschaft das entsprechende
             Schmiermittel zur Verfügung stellen.
         5. Unerlaubte Hilfsmittel
-            + Der Einsatz von Zusatzstoffen auf der Spielfläche oder den Bällen ist nur nach vorheriger
+            - Der Einsatz von Zusatzstoffen auf der Spielfläche oder den Bällen ist nur nach vorheriger
             Absprache mit der Turnierleitung erlaubt.
-            + Der Gebrauch von Magnesium, Zinkoxid oder ähnlichen Hilfsmitteln ist verboten.
+            - Der Gebrauch von Magnesium, Zinkoxid oder ähnlichen Hilfsmitteln ist verboten.
 
 ## 15. Änderungen der Spielordnung
    1. Anträge auf Änderungen der Spielordnung sind beim TFVSH-Vorstand schriftlich

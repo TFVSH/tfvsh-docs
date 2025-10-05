@@ -36,19 +36,19 @@ date: {{ site.time | date: "%d-%m-%Y" }}
    Zweck des Vereins ist die Förderung und Ausübung des Tischfußballspieles als Sport und
    Freizeitgestaltung sowie Ligawettkämpfe in Schleswig-Holstein. Der Satzungszweck wird
    durch folgende Maßnahmen verwirklicht:  
-   + Veranstaltung von Trainingstagen, Tischfußballturniere, Ligawettkämpfe.
+   - Veranstaltung von Trainingstagen, Tischfußballturniere, Ligawettkämpfe.
    Zusätzlich führt er alle ihm zur Erreichung des Vereinszwecks geeignet
    erscheinenden Maßnahmen durch.  
-   + Erhaltung und Förderung der Gesundheit.  
-   + Schaffung der Voraussetzungen zur Förderung des Breiten-, Freizeit- und
+   - Erhaltung und Förderung der Gesundheit.  
+   - Schaffung der Voraussetzungen zur Förderung des Breiten-, Freizeit- und
    Gesundheitssports ebenso wie des Leistungs- und Spitzensports durch die
    Mitglieder des TFVSH.  
-   + Um dem leistungsbezogenen Tischfußballsport in Schleswig-Holstein offiziellen
+   - Um dem leistungsbezogenen Tischfußballsport in Schleswig-Holstein offiziellen
    Charakter und nationale Geltung zu verleihen, wird der TFVSH Mitglied des DTFB
    (Deutscher Tischfußball Bund).  
-   + Der TFVSH ist auch um außersportliche Freizeitgestaltung bemüht und versteht
+   - Der TFVSH ist auch um außersportliche Freizeitgestaltung bemüht und versteht
    sich als Bildungsgemeinschaft für seine Mitglieder.  
-   + Besondere Förderung der sportlichen Erziehung der Jugend.
+   - Besondere Förderung der sportlichen Erziehung der Jugend.
 
 ## § 3 Aufgaben
 1. Der TFVSH ist bestrebt, den Gemeinschaftsgeist und die Sportkameradschaft durch
@@ -147,19 +147,19 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 
 ## § 8 Ende der Mitgliedschaft
 1. Die Mitgliedschaft endet:
-   + durch Auflösung des Verbandes
-   + durch Austritt
-   + durch Ausschluss
-   + durch Auflösung des Mitgliedsvereins/Spielgemeinschaft
+   - durch Auflösung des Verbandes
+   - durch Austritt
+   - durch Ausschluss
+   - durch Auflösung des Mitgliedsvereins/Spielgemeinschaft
 2. Die Austrittserklärung ist schriftlich an das Präsidium zu stellen. Hierbei muss eine
    dreimonatige Kündigungsfrist zum Ende des Geschäftsjahres eingehalten werden.
 3. Der Ausschluss kann erfolgen:
-   + wenn das Verbandsmitglied mit der Bezahlung der Mitgliedsbeiträge trotz
+   - wenn das Verbandsmitglied mit der Bezahlung der Mitgliedsbeiträge trotz
    zweimaliger Mahnung länger als ein Jahr im Rückstand ist.
-   + bei grobem oder wiederholtem Verstoß gegen die Satzung oder gegen die
+   - bei grobem oder wiederholtem Verstoß gegen die Satzung oder gegen die
    Interessen des Verbandes.
-   + bei grobem unsportlichen Verhalten.
-   + aus sonstigen schwerwiegenden, die Verbandsdisziplin gefährdenden Gründen.
+   - bei grobem unsportlichen Verhalten.
+   - aus sonstigen schwerwiegenden, die Verbandsdisziplin gefährdenden Gründen.
 4. Über den Ausschluss, der mit sofortiger Wirkung erfolgt, entscheidet das Präsidium
    mit einfacher Stimmenmehrheit.
 5. Ein Vorstandsmitglied des ausgeschlossenen Mitgliedes kann gegen den Ausschluss

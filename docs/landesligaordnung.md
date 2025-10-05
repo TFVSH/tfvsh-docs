@@ -60,10 +60,10 @@ header-includes:
         Meldet ein Verein mehrere Mannschaften, so sind diese von eins aufwärts zu
         nummerieren. Der Name des Vereins entfällt bei Spielerkollektiven. Es ist zulässig,
         zum Vereinsnamen einen Mannschaftsnamen hinzuzufügen. Beispiele:
-            + Kieler MTV 1 Hand&Foos (OK)
-            + 3\. SSV Brammer (OK)
-            + Spielerkollektiv ABC Husum (OK)
-            + MKK Fünferbande (nicht OK: da Ortsname fehlt)
+            - Kieler MTV 1 Hand&Foos (OK)
+            - 3\. SSV Brammer (OK)
+            - Spielerkollektiv ABC Husum (OK)
+            - MKK Fünferbande (nicht OK: da Ortsname fehlt)
    3. Mannschaftsbeitrag
         1. Vor dem ersten Spieltag muss jedes Mitglied den fälligen Jahres- und
         Mannschaftsbeitrag beim TFVSH bezahlen.
