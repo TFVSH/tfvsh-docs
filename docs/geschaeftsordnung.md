@@ -38,9 +38,11 @@ gemeldeten Größe Deligierte in die Mitgliederversammlung.
 4. Es darf kein Mitglied alleine eine einfache Mehrheit der Deligierten stellen. Kann ein
 Mitglied bei einer Versammlung eine einfache Mehrheit stellen, stellt der Versammlungsleiter
 dies fest und fordert das Mitglied auf, die Zahl der stimmberechtigten Deligierten zu reduzieren.
+
 ## §4 Beschlussfähigkeit 
 Die Deligiertenversammlung des TFVSH ist bei ordnungsgemäßer
 Einladung ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
+
 ## §5 Inkrafttreten 
 Diese Geschäftsordnung wurde von der Mitgliederversammlung am
 
