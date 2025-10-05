@@ -35,19 +35,19 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 ## § 2 Zweck
    Zweck des Vereins ist die Förderung und Ausübung des Tischfußballspieles als Sport und
    Freizeitgestaltung sowie Ligawettkämpfe in Schleswig-Holstein. Der Satzungszweck wird
-   durch folgende Maßnahmen verwirklicht:
+   durch folgende Maßnahmen verwirklicht:  
    + Veranstaltung von Trainingstagen, Tischfußballturniere, Ligawettkämpfe.
    Zusätzlich führt er alle ihm zur Erreichung des Vereinszwecks geeignet
-   erscheinenden Maßnahmen durch.
-   + Erhaltung und Förderung der Gesundheit.
+   erscheinenden Maßnahmen durch.  
+   + Erhaltung und Förderung der Gesundheit.  
    + Schaffung der Voraussetzungen zur Förderung des Breiten-, Freizeit- und
    Gesundheitssports ebenso wie des Leistungs- und Spitzensports durch die
-   Mitglieder des TFVSH.
+   Mitglieder des TFVSH.  
    + Um dem leistungsbezogenen Tischfußballsport in Schleswig-Holstein offiziellen
    Charakter und nationale Geltung zu verleihen, wird der TFVSH Mitglied des DTFB
-   (Deutscher Tischfußball Bund).
+   (Deutscher Tischfußball Bund).  
    + Der TFVSH ist auch um außersportliche Freizeitgestaltung bemüht und versteht
-   sich als Bildungsgemeinschaft für seine Mitglieder.
+   sich als Bildungsgemeinschaft für seine Mitglieder.  
    + Besondere Förderung der sportlichen Erziehung der Jugend.
 
 ## § 3 Aufgaben
