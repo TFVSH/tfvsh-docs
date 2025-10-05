@@ -24,8 +24,9 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 
 ## § 1 Name, Sitz und Geschäftsjahr
 1. Der Verein führt den Namen
-   > „Tischfußballverband Schleswig-Holstein“ (TFVSH)
 
+   > „Tischfußballverband Schleswig-Holstein“ (TFVSH)
+ 
    und ist im Vereinsregister eingetragen. Mit der Eintragung führt der Verein den Zusatz e.V.  
    Der Verein soll als Schleswig-Holsteinischer Landesverband Mitglied im Deutschen
    Tischfußball Bund (DTFB) sein. Geschäftsjahr des Vereins ist das Kalenderjahr. Der
