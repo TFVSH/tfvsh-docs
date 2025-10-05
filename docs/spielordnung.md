@@ -31,7 +31,7 @@ header-includes:
 
 ## 1. Allgemeines
 
-`(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)`
+_(Dieser Punkt wurde zur Vorgängerversion neu Strukturiert und der Inhalt nicht geändert)_
 
 1. Der Spielbetrieb wird durch folgende Spielordnung für alle Tischfußballverband
    Schleswig-Holstein e.V. eigene Veranstaltungen geregelt.
