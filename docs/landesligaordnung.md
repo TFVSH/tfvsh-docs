@@ -1,7 +1,7 @@
 ---
 title: "Landesliga-Ordnung des TFVSH"
 author: "![TFVSH Logo](images/tfvsh-logo.png){width=50%}"
-date: { { site.time | date: "%d-%m-%Y" } }
+date: {{ site.time | date: "%d-%m-%Y" }}
 header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}

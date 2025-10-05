@@ -1,7 +1,7 @@
 ---
 title: "Satzung des Tischfußballverbandes Schleswig-Holstein e.V. (TFVSH)"
 author: "![TFVSH Logo](images/tfvsh-logo.png){width=50%}"
-date: { { site.time | date: "%d-%m-%Y" } }
+date: {{ site.time | date: "%d-%m-%Y" }}
 ---
 
 <div class="html-only" style="text-align: center;">
