@@ -23,7 +23,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 
 
 ## § 1 Name, Sitz und Geschäftsjahr
-1. Der Verein führt den Namen
+1. Der Verein führt den Namen  
 
    > „Tischfußballverband Schleswig-Holstein“ (TFVSH)
  
